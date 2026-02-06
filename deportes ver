@@ -141,14 +141,6 @@ http://tv.diablotv.net:8080/tagna2/xHs8aj3Uvy/9581
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - Fox Sports 2 ARG (i)(1080)
 http://tv.diablotv.net:8080/tagna2/xHs8aj3Uvy/9582
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png",DEPORTES - Fox Sports 2 COL (TV)(1080)
 http://tv.diablotv.net:8080/tagna2/xHs8aj3Uvy/9583
 
@@ -236,6 +228,12 @@ http://tv.diablotv.net:8080/tagna2/xHs8aj3Uvy/9568
 # #######################
 # OTROS CANALES DEPORTIVOS
 # #######################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-ck.webp",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2",UFC
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=samsung-tvplus&dev
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",DEPORTES - Claro Sports 2 (Z)(720)
 http://tv.diablotv.net:8080/tagna2/xHs8aj3Uvy/9556
 
