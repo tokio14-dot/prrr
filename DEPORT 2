@@ -1,11 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",BESIBOL LATINO
+http://cdn-abc.xyz:2086/1a2/1a2/160125
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Claro sports 1
 http://cdn-abc.xyz:2086/1a2/1a2/7648
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Claro Sports 2
 http://cdn-abc.xyz:2086/1a2/1a2/7673
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DIBLU TV
+http://cdn-abc.xyz:2086/1a2/1a2/284640
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DSPORTS
 http://cdn-abc.xyz:2086/1a2/1a2/3483
@@ -16,14 +21,11 @@ http://cdn-abc.xyz:2086/1a2/1a2/3484
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DSPORTS +
 http://cdn-abc.xyz:2086/1a2/1a2/3485
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Norte
-http://cdn-abc.xyz:2086/1a2/1a2/3357
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ECDF 1-TV
+http://cdn-abc.xyz:2086/1a2/1a2/168822
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Sur HD
-http://cdn-abc.xyz:2086/1a2/1a2/3713
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Premium
-http://cdn-abc.xyz:2086/1a2/1a2/3368
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 2 ARG
+http://cdn-abc.xyz:2086/1a2/1a2/160132
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 2 Norte
 http://cdn-abc.xyz:2086/1a2/1a2/3708
@@ -31,8 +33,17 @@ http://cdn-abc.xyz:2086/1a2/1a2/3708
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 2 Sur
 http://cdn-abc.xyz:2086/1a2/1a2/7868
 
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 3 ARG
+http://cdn-abc.xyz:2086/1a2/1a2/160133
+
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 3 Norte
 http://cdn-abc.xyz:2086/1a2/1a2/7917
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 3HD COLOMBIA
+http://cdn-abc.xyz:2086/1a2/1a2/284602
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 4 ARG
+http://cdn-abc.xyz:2086/1a2/1a2/160134
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 4 HD Sur
 http://cdn-abc.xyz:2086/1a2/1a2/3711
@@ -49,41 +60,35 @@ http://cdn-abc.xyz:2086/1a2/1a2/3712
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 6 Norte
 http://cdn-abc.xyz:2086/1a2/1a2/8035
 
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 7
+http://cdn-abc.xyz:2086/1a2/1a2/112610
+
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 7 HD
 http://cdn-abc.xyz:2086/1a2/1a2/3366
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Arg
+http://cdn-abc.xyz:2086/1a2/1a2/108631
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN HD
+http://cdn-abc.xyz:2086/1a2/1a2/284603
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Norte
+http://cdn-abc.xyz:2086/1a2/1a2/3357
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN PREMIUM ARG
+http://cdn-abc.xyz:2086/1a2/1a2/160136
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Premium
+http://cdn-abc.xyz:2086/1a2/1a2/3368
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Sur HD
+http://cdn-abc.xyz:2086/1a2/1a2/3713
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",FOX PREMIUM
 http://cdn-abc.xyz:2086/1a2/1a2/11426
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",GolTV HD
-http://cdn-abc.xyz:2086/1a2/1a2/3504
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Latin America Sports
-http://cdn-abc.xyz:2086/1a2/1a2/8153
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TD+
-http://cdn-abc.xyz:2086/1a2/1a2/8178
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TD+ 2
-http://cdn-abc.xyz:2086/1a2/1a2/8182
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TNT SPORTS
-http://cdn-abc.xyz:2086/1a2/1a2/8088
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Win Sports+ HD
-http://cdn-abc.xyz:2086/1a2/1a2/3374
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",GOLF CHANNEL
-http://cdn-abc.xyz:2086/1a2/1a2/8239
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TyC Sports
-http://cdn-abc.xyz:2086/1a2/1a2/8116
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TNT Sports Premium
-http://cdn-abc.xyz:2086/1a2/1a2/60232
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Arg
-http://cdn-abc.xyz:2086/1a2/1a2/108631
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Fox Sports 2 Norte
+http://cdn-abc.xyz:2086/1a2/1a2/108727
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Fox Sports Arg
 http://cdn-abc.xyz:2086/1a2/1a2/108714
@@ -91,83 +96,56 @@ http://cdn-abc.xyz:2086/1a2/1a2/108714
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Fox Sports Arg HD
 http://cdn-abc.xyz:2086/1a2/1a2/108715
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Fox Sports 2 Norte
-http://cdn-abc.xyz:2086/1a2/1a2/108727
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Claro Sports 2
-http://cdn-abc.xyz:2086/1a2/1a2/7673
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",GOLF CHANNEL
+http://cdn-abc.xyz:2086/1a2/1a2/8239
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DSPORTS
-http://cdn-abc.xyz:2086/1a2/1a2/3483
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",GolTV HD
+http://cdn-abc.xyz:2086/1a2/1a2/3504
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DSPORTS 2
-http://cdn-abc.xyz:2086/1a2/1a2/3484
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DSPORTS +
-http://cdn-abc.xyz:2086/1a2/1a2/3485
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Norte
-http://cdn-abc.xyz:2086/1a2/1a2/3357
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Sur HD
-http://cdn-abc.xyz:2086/1a2/1a2/3713
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN Premium
-http://cdn-abc.xyz:2086/1a2/1a2/3368
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 2 Norte
-http://cdn-abc.xyz:2086/1a2/1a2/3708
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TVC SPORTS
-http://cdn-abc.xyz:2086/1a2/1a2/110899
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TVC DEPORTES 2
-http://cdn-abc.xyz:2086/1a2/1a2/110900
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 7
-http://cdn-abc.xyz:2086/1a2/1a2/112610
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Latin America Sports
+http://cdn-abc.xyz:2086/1a2/1a2/8153
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",NBA TV
 http://cdn-abc.xyz:2086/1a2/1a2/160123
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",BESIBOL LATINO
-http://cdn-abc.xyz:2086/1a2/1a2/160125
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TD+
+http://cdn-abc.xyz:2086/1a2/1a2/8178
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TyC Argentina
-http://cdn-abc.xyz:2086/1a2/1a2/160128
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 2 ARG
-http://cdn-abc.xyz:2086/1a2/1a2/160132
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 3 ARG
-http://cdn-abc.xyz:2086/1a2/1a2/160133
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 4 ARG
-http://cdn-abc.xyz:2086/1a2/1a2/160134
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN PREMIUM ARG
-http://cdn-abc.xyz:2086/1a2/1a2/160136
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",VIA X ESPORTS
-http://cdn-abc.xyz:2086/1a2/1a2/160140
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ZAPPING SPORT
-http://cdn-abc.xyz:2086/1a2/1a2/166811
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ECDF 1-TV
-http://cdn-abc.xyz:2086/1a2/1a2/168822
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ZAPPING SPORTS +
-http://cdn-abc.xyz:2086/1a2/1a2/254972
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TD+ 2
+http://cdn-abc.xyz:2086/1a2/1a2/8182
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TELEDEPORTE
 http://cdn-abc.xyz:2086/1a2/1a2/284588
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 3HD COLOMBIA
-http://cdn-abc.xyz:2086/1a2/1a2/284602
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TNT SPORTS
+http://cdn-abc.xyz:2086/1a2/1a2/8088
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN HD
-http://cdn-abc.xyz:2086/1a2/1a2/284603
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TNT Sports Premium
+http://cdn-abc.xyz:2086/1a2/1a2/60232
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DIBLU TV
-http://cdn-abc.xyz:2086/1a2/1a2/284640
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TVC DEPORTES 2
+http://cdn-abc.xyz:2086/1a2/1a2/110900
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TVC SPORTS
+http://cdn-abc.xyz:2086/1a2/1a2/110899
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TyC Argentina
+http://cdn-abc.xyz:2086/1a2/1a2/160128
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TyC Sports
+http://cdn-abc.xyz:2086/1a2/1a2/8116
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",VIA X ESPORTS
+http://cdn-abc.xyz:2086/1a2/1a2/160140
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Win Sports+ HD
+http://cdn-abc.xyz:2086/1a2/1a2/3374
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ZAPPING SPORT
+http://cdn-abc.xyz:2086/1a2/1a2/166811
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ZAPPING SPORTS +
+http://cdn-abc.xyz:2086/1a2/1a2/254972
