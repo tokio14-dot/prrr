@@ -138,6 +138,12 @@ http://cdn-abc.xyz:2086/1a2/1a2/160128
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",TyC Sports
 http://cdn-abc.xyz:2086/1a2/1a2/8116
 
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",UFC PASS
+http://xcodes.aftertv.xyz:8080/live/enrique/1234/5040.ts
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",UFC PASS
+http://xcodes.aftertv.xyz:8080/live/enrique/1234/5039.ts
+
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",VIA X ESPORTS
 http://cdn-abc.xyz:2086/1a2/1a2/160140
 
