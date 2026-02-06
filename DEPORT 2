@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Claro sports 1
 http://cdn-abc.xyz:2086/1a2/1a2/7648
