@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",LIGA 1 MAX
+http://magiz.net:25461/juarez/12345678/106
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",DTV SPORT
+http://magiz.net:25461/juarez/12345678/107
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Movistar_Plus%2B.svg/1200px-Movistar_Plus%2B.svg.png",Movistar Plus
+http://magiz.net:25461/juarez/12345678/48
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png",Movistar Deportes HD
+http://magiz.net:25461/juarez/12345678/47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TyC_Sports_2021.svg/1200px-TyC_Sports_2021.svg.png",TyC Sports
+http://magiz.net:25461/juarez/12345678/345
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN PREMIUN
+http://magiz.net:25461/juarez/12345678/341
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN
+http://magiz.net:25461/juarez/12345678/334
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN2
+http://magiz.net:25461/juarez/12345678/335
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN3
+http://magiz.net:25461/juarez/12345678/336
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN4
+http://magiz.net:25461/juarez/12345678/337
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN5
+http://magiz.net:25461/juarez/12345678/338
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN6
+http://magiz.net:25461/juarez/12345678/339
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN7
+http://magiz.net:25461/juarez/12345678/340
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TNT_Sports_Logo_2023.svg/1200px-TNT_Sports_Logo_2023.svg.png",TNT SPORTS HD
+http://magiz.net:25461/juarez/12345678/85
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",Via X Sports
+http://magiz.net:25461/juarez/12345678/222
