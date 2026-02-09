@@ -24,6 +24,10 @@ http://cdn-abc.xyz:2086/1a2/1a2/3485
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ECDF 1-TV
 http://cdn-abc.xyz:2086/1a2/1a2/168822
 
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 1 ARG
+https://moviezona593.com:8443/live/56959880497playtv/240822play/525805.ts
+
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/1b0daj0d.jpg",ESPN 2 ARG
 http://cdn-abc.xyz:2086/1a2/1a2/160132
 
