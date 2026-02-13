@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tyc.webp" group-title="Deportes",TyC Sports
+https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/960px-TNT_Sports_%282023%29.svg.png" group-title="Deportes",TNT Sports Premium
+https://tvlibree.com/html/fl/?get=VE5UX1Nwb3J0c19IRA
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espnpr.webp" group-title="Deportes",ESPN Premium
+https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports.webp" group-title="Deportes",DSports
+https://streamtpcloud.com/global1.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports2.webp" group-title="Deportes",DSports 2
+https://elcanaldeportivo.com/dsports2.php
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsportsplus.webp" group-title="Deportes",DSports Plus
+https://elcanaldeportivo.com/directvplushd.php
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn.webp" group-title="Deportes",ESPN 1
+https://tvlibree.com/html/fl/?get=RVNQTjJIRA
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn2.webp" group-title="Deportes",ESPN 2
+https://tvlibree.com/html/fl/?get=RVNQTjJfQXJn
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn3.webp" group-title="Deportes",ESPN 3
+https://tvlibree.com/html/fl/?get=RVNQTjM
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn4.webp" group-title="Deportes",ESPN 4
+https://tvlibree.com/html/fl/?get=RVNQTkhE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn5.webp" group-title="Deportes",ESPN 5
+https://tvlibree.com/html/fl/?get=RVNQTjQ=
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn6.webp" group-title="Deportes",ESPN 6
+https://tvlibree.com/en-vivo/espn-6
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn7.png" group-title="Deportes",ESPN 7
+https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMl9VWQ==
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxsports.png" group-title="Deportes",FOX Sports 1
+https://tvlibree.com/html/fl/?get=Rm94U3BvcnRz
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxsports2.png" group-title="Deportes",FOX Sports 2
+https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMkhE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxsports3.png" group-title="Deportes",FOX Sports 3
+https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzM0hE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxmx.png" group-title="Deportes México",FOX Sports 1 MX
+https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vYm94ZTUzd3lvL291dC92MS9mNzg5MmE5ZDcwNmQ0MTlhODQ2ZDczOGZhMjJlYTMzZS9jZW5jLm1wZA&key=MmZiZGFhM2JlYTBkMDMyM2FlMDExYjMxOGQxZGI3MTY&key2=ODcyNmVmN2VhZjViOWRjZTE1ZmI2YWE5ZjgwYmQ1M2Y
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/fox2mx.png" group-title="Deportes México",FOX Sports 2 MX
+https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy90ZXBqcWVqMXlzL291dC92MS9jOWM5MTU5YmFlZTc0OWExOTYxMmIxNTk4NDk1ODU5YS9jZW5jLm1wZA&key=ODgzNmZiMDRkNjJkYzY0YzlmOGEzOWVmODY0MGQ1ZWI&key2=ZDRmMDVjZTU2YzUyMzFiN2NkZjUzNDU1YmVhNTg2MjE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/fox3mx.png" group-title="Deportes México",FOX Sports 3 MX
+https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93eWJnejBvcnI4L291dC92MS8yZjZkMTYxMmFiZDQ0ZjU4ODM5MTdmOGE1ODViOTU1Zi9jZW5jLm1wZA&key=MTFjOGMxYzJlZjAzODVjZjFlNjRkNDRiYjljM2EzOTU&key2=NTc2OTczMGZmYmRjNGIyZmQ4OTQ1OTI5ZDlhY2UwNjM
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxpr.png" group-title="Deportes México",FOX Sports Premium MX
+https://bestleague.world/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mZHg3NHpxemh1L291dC92MS83ZDdhOGM2OTgxYTg0MmI5OGE2ODNlOWZiZmU1MWQxNy9jZW5jLm1wZA==&key=OWYzMjdkMjRjNjZmYmQ4NGUxNWFiNWM5ZWFkN2M3YTQ=&key2=ODM4MzcxODU1MjljMGM0MDQ4ZjgxMzg2YzJkMzY0MjY=
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn.webp" group-title="Deportes México",ESPN 1 MX
+https://streamtpcloud.com/global1.php?stream=espnmx
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn2.webp" group-title="Deportes México",ESPN 2 MX
+https://streamtpcloud.com/global1.php?stream=espn2mx
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn3.webp" group-title="Deportes México",ESPN 3 MX
+https://streamtpcloud.com/global1.php?stream=espn3mx
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espn4.webp" group-title="Deportes México",ESPN 4 MX
+https://streamtpcloud.com/global1.php?stream=espn4mx
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/tudn.png" group-title="Deportes",TUDN
+https://streamtpcloud.com/global1.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espndep.png" group-title="Deportes",ESPN Deportes
+https://streamtpcloud.com/global1.php?stream=espndeportes
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/foxdep.png" group-title="Deportes",FOX Deportes
+https://streamtpcloud.com/global1.php?stream=fox_deportes_usa
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/vtv.webp" group-title="Deportes",VTV
+https://tvlibree.com/html/fl/?get=VlRWX0hE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/vtvplus.webp" group-title="Deportes",VTV Plus
+https://rereyano.ru/player/3/109
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/deportv.webp" group-title="Deportes",DeporTV
+https://tvlibree.com/html/fl/?get=RGVwb3JUVkhE
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/nba.png" group-title="Deportes",NBA TV
+https://tvlibree.com/html/fl/?get=TkJBX1RW
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/win.png" group-title="Deportes",Win Sports
+https://streamtpcloud.com/global1.php?stream=winsports
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/winsports.webp" group-title="Deportes",Win Sports +
+https://streamtpcloud.com/global1.php?stream=winplus
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/liga1max.webp" group-title="Deportes",Liga1 MAX
+https://welivesports.shop/embed/liga1max.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Deportes Internacional",Canal 360
+https://welivesports.shop/embed/canal360.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes USA",ESPN USA
+https://welivesports.shop/embed/espn1usa.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes USA",ESPN 2 USA
+https://welivesports.shop/embed/espn2usa.php
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/733/502/png-clipart-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text.png" group-title="Deportes USA",TNT USA
+https://welivesports.shop/embed/tntusa.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Deportes USA",TUDN USA
+https://welivesports.shop/embed/tudnusa.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Deportes España",DAZN 1 España
+https://welivesports.shop/embed/dazn1es.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Deportes España",DAZN 2 España
+https://welivesports.shop/embed/dazn2es.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Deportes España",DAZN LaLiga
+https://welivesports.shop/embed/daznlaliga.php
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Deportes España",Movistar Deportes
+https://welivesports.shop/embed/mdeportes.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes España",Movistar LaLiga
+https://welivesports.shop/embed/mlaliga.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes España",Movistar LaLiga 2
+https://welivesports.shop/embed/mlaliga2.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/beinsports.png" group-title="Deportes España",beIN Sports España
+https://welivesports.shop/embed/beines.php
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="Deportes Alemania",Sky Bundesliga 1
+https://welivesports.shop/embed/bundes1.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sport_TV%2B_%282023%29.svg" group-title="Deportes Portugal",Sport TV 1 Portugal
+https://welivesports.shop/embed/sporttv1pt.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Deportes Portugal",Eleven Sports 1 Portugal
+https://welivesports.shop/embed/eleven1pt.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes Brasil",SporTV 1 Brasil
+https://welivesports.shop/embed/sportv1br.php
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.io/img/combate.png" group-title="Deportes Brasil",Combate
+https://rdcanais.top/combate
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.io/img/premiere.png" group-title="Deportes Brasil",Premiere
+https://rdcanais.top/premiereclubes
+#EXTINF:-1 tvg-logo="https://api.reidoscanais.io/img/bandsports.png" group-title="Deportes Brasil",Band Sports
+https://rdcanais.top/bandsports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/frandev2024-svg/scrappersdata/refs/heads/main/caze%20tv.png" group-title="Deportes Brasil",CazéTV
+https://rdcanais.top/cazetv
