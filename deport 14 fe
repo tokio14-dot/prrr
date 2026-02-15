@@ -3,6 +3,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="",ESPN Premium HD
+http://189.50.210.3:8008/play/a07q/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN Premium HD
+http://189.50.210.3:8008/play/a04l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="",ESPN HD
