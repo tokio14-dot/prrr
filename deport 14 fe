@@ -56,6 +56,14 @@ http://m3u.tvcluboficial.com/Reach.Bot/p6C/91.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="",fox sports
+http://181.78.7.90:12500/play/a00r/72297521.m3u8
+#EXTINF:-1 tvg-logo="",fox sports
+http://181.78.7.90:12500/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
 
 
 
