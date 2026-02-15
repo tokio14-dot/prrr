@@ -5,39 +5,56 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="",ESPN HD
+http://189.50.210.3:8008/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN HD
+http://189.50.210.3:8008/play/a07m/index.m3u8
 #EXTINF:-1 tvg-logo="",ESPN
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",ESPN2
+#EXTINF:-1 tvg-logo="",ESPN 2
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
-##EXTINF:-1 tvg-logo="",ESPN 2 HD
+#EXTINF:-1 tvg-logo="",ESPN 2 HD
 http://189.50.210.3:8008/play/a04e/index.m3u8
 ##EXTINF:-1 tvg-logo="",ESPN 2 HD
 http://189.50.210.3:8008/play/a07d/index.m3u8
-#EXTINF:-1 tvg-logo="",,ESPN 2 HD
+#EXTINF:-1 tvg-logo="",ESPN 2 HD
 http://189.50.210.3:8008/play/a033/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN 2 HD
+#EXTINF:-1 tvg-logo="",ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN3
-https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN 3 HD
-http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FPSjpzVXEAwulgr.jpg",ESPN 3
-http://181.78.7.90:12500/play/a00q/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FPSjpzVXEAwulgr.jpg",ESPN 3
+
+#EXTINF:-1 tvg-logo="",ESPN 3 HD
 http://189.50.210.3:8008/play/a04b/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN4
+#EXTINF:-1 tvg-logo="",ESPN 3
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 3 HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 3
+http://181.78.7.90:12500/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 3
+http://189.50.210.3:8008/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-logo="",ESPN 4HD
+http://189.50.210.3:8008/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 4
 https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN5
+
+#EXTINF:-1 tvg-logo="",ESPN 5 HD
+http://189.50.210.3:8008/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 5
 https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN6
+#EXTINF:-1 tvg-logo="",ESPN 6
 https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN 6 HD
+#EXTINF:-1 tvg-logo="",ESPN 6 HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="",,ESPN 6
+http://189.50.210.3:8008/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 6 HD
+http://189.50.210.3:8008/play/a04c/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN7
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 
