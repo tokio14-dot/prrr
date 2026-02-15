@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FPSjpzVXEAwulgr.jpg",ESPN PREMIUM
-
+http://181.78.7.90:12500/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN 3 HD
