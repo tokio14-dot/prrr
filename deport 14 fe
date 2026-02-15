@@ -6,11 +6,18 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN
+#EXTINF:-1 tvg-logo="",ESPN
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN2
+#EXTINF:-1 tvg-logo="",ESPN2
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+##EXTINF:-1 tvg-logo="",ESPN 2 HD
+http://189.50.210.3:8008/play/a04e/index.m3u8
+##EXTINF:-1 tvg-logo="",ESPN 2 HD
+http://189.50.210.3:8008/play/a07d/index.m3u8
+#EXTINF:-1 tvg-logo="",,ESPN 2 HD
+http://189.50.210.3:8008/play/a033/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN 2 HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png",ESPN3
