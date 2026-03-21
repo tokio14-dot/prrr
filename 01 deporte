@@ -1,28 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/v2/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg?auth=88760af694ce3f1abc7d55aacdf61ba32c77d55b541d7b104d2aa93738a19324&width=1200&height=780&quality=75&smart=true",Disney 1
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9WAsa6pqQ23bpYqUwxStgBbzWPv973J7_m3ac3Uev9_9/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/v2/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg?auth=88760af694ce3f1abc7d55aacdf61ba32c77d55b541d7b104d2aa93738a19324&width=1200&height=780&quality=75&smart=true",Disney 3
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9X8SRTdUsswUd-mDeMMmOeBpFVtwxxOIRZ06AJ8p8rAm/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/v2/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg?auth=88760af694ce3f1abc7d55aacdf61ba32c77d55b541d7b104d2aa93738a19324&width=1200&height=780&quality=75&smart=true",Disney 4
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9e9PhqZbk7oA65CxgAJV8P9e8Tf5KQB1c4KoI3F4pTmJ/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/v2/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg?auth=88760af694ce3f1abc7d55aacdf61ba32c77d55b541d7b104d2aa93738a19324&width=1200&height=780&quality=75&smart=true",Disney 5
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9e9PhqZbk7oA65CxgAJV8P8mOAuuEKzin0ZG0wNh68BK/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/v2/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg?auth=88760af694ce3f1abc7d55aacdf61ba32c77d55b541d7b104d2aa93738a19324&width=1200&height=780&quality=75&smart=true",Disney 6
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9e9PhqZbk7oA65CxgAJV8P9kAabyAEf8K_E0EqLPrhbG/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.eluniverso.com/resizer/v2/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg?auth=88760af694ce3f1abc7d55aacdf61ba32c77d55b541d7b104d2aa93738a19324&width=1200&height=780&quality=75&smart=true",Disney 7
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9e9PhqZbk7oA65CxgAJV8P9o9q3PxW74ABLZ3z4JbwWn/m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png"group-title="Fútbol Argentino",eveto
-http://181.13.252.102:8000/play/a078/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", TyC Sports
 http://200.112.174.230/mtcast_tychd/mpegts
 
