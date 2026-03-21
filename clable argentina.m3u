@@ -1,6 +1,62 @@
 #EXTM3U
 
 
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUMnK_ryLs2YBybaezwJ6lHGQAzxTd5z73nayBGy61Q&s=10" group-title="Movistar",Movistar extrenos
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8lGHI_Jq2921ZiywGKRuubQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC3a0DWBtwr_6GpL86VOIXhevwCRPgf2eQApAD3lZPA&s=10" group-title="Movistar",Movistar drama
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8lVQ5N2SfbY3rOecmQvbzAN/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLzz5wEaoyBy_1DI9pJgtakPLL1EsTvlLJZaAmqSfVA&s=10" group-title="Movistar",Movistar indie
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mcfgmG2KzoO7dziU8G7UNh/m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Comedia/Movistar_Comedia-Logo.wine.svg" group-title="Movistar",Movistar comedia
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mgJHhYGIbNElsW-DIqbxkF/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_kigrihMbqr0krCoVOYJ-4vUvo3_xPwo1ofVdl7dZQ&s=10" group-title="Movistar",Movistar hits
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9QoIe8JnVLw4c7PrAyLwFLJ8Y8r5cE9NqGyVRFKVOoFG/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOfCFjpMEd4Sv6dRgyMhIS6Z-BOcDElBms7COafNkPA&s" group-title="Movistar",Movistar clásicos
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kDDbTAm9p_0-sdnq3vpzVJ/m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/3840px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar",Movistar series
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nKtOwnXn6IrBvj-ZDo6C3C/m3u8
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/0a2010/terror_mplus_logo/650_1200.jpeg" group-title="Movistar",Movistar terror
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9bc3J4nCFidV1SrnvdGselNePrLFsiZh_Qu0hVZxTVMQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar",Movistar cine español
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nptkG5j554NKfGJsjUceGY/m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.svg" group-title="Movistar",Movistar acción 
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kJC5K_7z366kjItbrPFOYE/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9D8e9jUFqrVb60q7-JB67LYtKzt887ckkLu2sOqq9Bw&s=10" group-title="Movistar",Movistar vamos
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9QvTojjojgGWkFqKvmoHbagwFuizs7Mv8JabQAPyfeiz/m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.svg" group-title="Movistar",Movistar deportes
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nc8r_TYwvJk7kDZwwg2f0c/m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar%2B/Movistar%2B-Logo.wine.svg" group-title="Movistar",Movistar plus
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nofdZandAhu_C5YRQvU8VU/m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/960px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar",Movistar originales
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kX8HKqOpAVgpNUVf35tsD2/m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPlXhb6b9_Ay8o7xNvSNzPChOjiYDtcFpLqYK3wL1Pp7drZocGCrgsQg&s=10" group-title="Movistar",Movistar documentales 
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kx-gdHgAJYGAM_XOgmkxx9/m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Golf/Movistar_Golf-Logo.wine.svg" group-title="Movistar",Movistar golf
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mzeJRJSzVoVsoWlx-MRnnn/m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", FMM kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
 
