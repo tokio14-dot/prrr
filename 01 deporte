@@ -1,6 +1,18 @@
 #EXTM3U
 
 
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/11/Espn-Disney.jpg",disney 5
+https://244pl.streamingtv339.com:443/live/disney4/index.m3u8?token=a1d96d3e106fef1765c2c52e37d695c69d6b1d15-82-1774270760-1774216760&ip=181.13.64.66
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", TyC Sports
 http://200.112.174.230/mtcast_tychd/mpegts
 
