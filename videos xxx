@@ -1,5 +1,57 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47168
+http://kstv.us:8080/live/N427DpynGE/7049166651/47168.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47169
+http://kstv.us:8080/live/N427DpynGE/7049166651/47169.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47170
+http://kstv.us:8080/live/N427DpynGE/7049166651/47170.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47171
+http://kstv.us:8080/live/N427DpynGE/7049166651/47171.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47172
+http://kstv.us:8080/live/N427DpynGE/7049166651/47172.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47173
+http://kstv.us:8080/live/N427DpynGE/7049166651/47173.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47174
+http://kstv.us:8080/live/N427DpynGE/7049166651/47174.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47175
+http://kstv.us:8080/live/N427DpynGE/7049166651/47175.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47176
+http://kstv.us:8080/live/N427DpynGE/7049166651/47176.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47177
+http://kstv.us:8080/live/N427DpynGE/7049166651/47177.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47178
+http://kstv.us:8080/live/N427DpynGE/7049166651/47178.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47179
+http://kstv.us:8080/live/N427DpynGE/7049166651/47179.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47180
+http://kstv.us:8080/live/N427DpynGE/7049166651/47180.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47181
+http://kstv.us:8080/live/N427DpynGE/7049166651/47181.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47182
+http://kstv.us:8080/live/N427DpynGE/7049166651/47182.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47183
+http://kstv.us:8080/live/N427DpynGE/7049166651/47183.ts
+
+#EXTINF:-1 tvg-logo="" group-title="",Canal 47184
+http://kstv.us:8080/live/N427DpynGE/7049166651/47184.ts
+
 #EXTINF:-1 tvg-logo="" group-title="",Canal 47200
 http://kstv.us:8080/live/N427DpynGE/7049166651/47200.ts
 
