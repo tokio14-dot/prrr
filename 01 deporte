@@ -81,7 +81,6 @@ http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
 
 
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DIRECTV DEPORTES
 http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/9568.m3u8
 
@@ -109,11 +108,24 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47099.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 2 SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47100.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 3 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47102.ts
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 3 SUR
 http://kstv.us:8080/live/N427DpynGE/7049166651/47103.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 3 SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN DEPORTES HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47105.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47107.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47108.ts
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 7 HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47113.ts
@@ -135,6 +147,13 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | FOX SPORTS 2
 http://kstv.us:8080/live/N427DpynGE/7049166651/47120.ts
+
+
+
+
+
+
+
 
 
 
