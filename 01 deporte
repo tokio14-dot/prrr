@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/11/Espn-Disney.jpg",disney 5
-https://244pl.streamingtv339.com:443/live/disney4/index.m3u8?token=a1d96d3e106fef1765c2c52e37d695c69d6b1d15-82-1774270760-1774216760&ip=181.13.64.66
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", TyC Sports
 http://200.112.174.230/mtcast_tychd/mpegts
@@ -17,17 +15,7 @@ http://46.225.94.157/hls/tnt/index.m3u8
 http://46.225.94.157/hls/espn/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRDnjRp0/In-Shot-20251018-095209924.jpg" group-title="DEPORTES", ESPN Premium Latino
-http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espnpremlat.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWbrp8pX/In-Shot-20250913-220144176.jpg" group-title="DEPORTES", ESPN 5 Latino
-http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espn5lat.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTYp20B9/In-Shot-20251010-211018612.jpg" group-title="DEPORTES", ESPN 7 Latino
-http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espn7lt.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox Sports 1 Argentina
-http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-fox1ar_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN HD
 http://189.50.210.3:8008/play/a07m/index.m3u8
@@ -66,10 +54,6 @@ http://45.5.119.43:4000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DSports
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN PREMIIUM
-http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
-
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DIRECTV DEPORTES
