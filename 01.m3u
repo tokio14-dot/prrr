@@ -23,7 +23,8 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.ts
 #EXTINF:0 type="favorites" channelId="3216", cine 3
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
-
+#EXTINF:0 type="favorites" channelId="3216", romance HBO
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/100.ts
 
 #EXTINF:0 type="favorites" channelId="3216", MoreMax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/107.ts
