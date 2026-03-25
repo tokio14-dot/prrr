@@ -21,7 +21,8 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
 #EXTINF:0 type="favorites" channelId="3216", cine 2
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.ts
-
+#EXTINF:0 type="favorites" channelId="3216", cine 3
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
 
 
 #EXTINF:0 type="favorites" channelId="3216", MoreMax
