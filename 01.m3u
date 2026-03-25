@@ -17,6 +17,9 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/101.ts
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/103.ts
 #EXTINF:0 type="favorites" channelId="1326", Cinemax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.ts
+#EXTINF:0 type="favorites" channelId="3216", cine
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.ts
+
 #EXTINF:0 type="favorites" channelId="3216", MoreMax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/107.ts
 #EXTINF:0 type="favorites" channelId="-1", Showtime HD
