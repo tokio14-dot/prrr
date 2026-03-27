@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",TENIS miami 2026
-http://playtv44.com:8080/hsandoval758/123456/377796
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="premium",Evento 1
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
