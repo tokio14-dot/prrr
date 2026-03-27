@@ -1,184 +1,7 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/24848550" group-title="ONPOWER", Canal 4
-https://broker.cdn.rcs.net.ar/hub/canal4/dash/live.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/44118084" group-title="ONPOWER", Telesol
-https://broker.cdn.rcs.net.ar/onpower/dash/telesol/index.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49719972" group-title="ONPOWER", Canal 8 San Juan
-https://broker.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196599" group-title="ONPOWER", El Trece
-https://broker.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53437020" group-title="ONPOWER", El Nueve
-https://broker.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196606" group-title="ONPOWER", C5N
-https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196617" group-title="ONPOWER", Canal 26
-https://broker.cdn.rcs.net.ar/mnp/canal26/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38703593" group-title="ONPOWER", IP Noticias
-https://broker.cdn.rcs.net.ar/mnp/ip/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/19326308" group-title="ONPOWER", LN +
-https://broker.cdn.rcs.net.ar/mnp/lnmas/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38703594" group-title="ONPOWER", CN 23
-https://broker.cdn.rcs.net.ar/mnp/cn23/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38387661" group-title="ONPOWER", Encuentro
-https://broker.cdn.rcs.net.ar/mnp/encuentro/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911739" group-title="ONPOWER", Tec TV
-https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196715" group-title="ONPOWER", Construir
-https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583128" group-title="ONPOWER", ESPN 2
-https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583129" group-title="ONPOWER", ESPN 3
-https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583127" group-title="ONPOWER", ESPN 4
-https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911735" group-title="ONPOWER", El Garage
-https://broker.cdn.rcs.net.ar/mnp/garage/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297419" group-title="ONPOWER", Golf Channel
-https://broker.cdn.rcs.net.ar/mnp/golf/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297413" group-title="ONPOWER", Discovery Turbo
-https://broker.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911750" group-title="ONPOWER", Paka Paka
-https://broker.cdn.rcs.net.ar/mnp/pkpk/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911752" group-title="ONPOWER", Disney Channel
-https://broker.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911754" group-title="ONPOWER", Nick
-https://broker.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911759" group-title="ONPOWER", Cartoon Network
-https://broker.cdn.rcs.net.ar/mnp/cartoon/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53437022" group-title="ONPOWER", Discovery Kids
-https://broker.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911765" group-title="ONPOWER", Cartoonito
-https://broker.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/51595711" group-title="ONPOWER", Tooncast
-https://broker.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911757" group-title="ONPOWER", Nick Jr.
-https://broker.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/45807873" group-title="ONPOWER", Disney Junior
-https://broker.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/1908637" group-title="ONPOWER", Baby Tv
-https://broker.cdn.rcs.net.ar/mnp/babytv/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196594" group-title="ONPOWER", CINE.AR
-https://broker.cdn.rcs.net.ar/mnp/cinear/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196669" group-title="ONPOWER", Space
-https://broker.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911769" group-title="ONPOWER", Cinecanal
-https://broker.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196602" group-title="ONPOWER", FX
-https://broker.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945571" group-title="ONPOWER", Star Channel
-https://broker.cdn.rcs.net.ar/mnp/foxhd/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196698" group-title="ONPOWER", Sony
-https://broker.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196672" group-title="ONPOWER", Warner
-https://broker.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/27799994" group-title="ONPOWER", AXN
-https://broker.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663257" group-title="ONPOWER", USA Network
-https://broker.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663258" group-title="ONPOWER", A&E
-https://broker.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196645" group-title="ONPOWER", Europa Europa
-https://broker.cdn.rcs.net.ar/mnp/europa/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196647" group-title="ONPOWER", TCM
-https://broker.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663259" group-title="ONPOWER", AMC
-https://broker.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/59845830" group-title="ONPOWER", AMC Series
-https://broker.cdn.rcs.net.ar/mnp/amcseries/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663261" group-title="ONPOWER", Universal
-https://broker.cdn.rcs.net.ar/mnp/universal/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663260" group-title="ONPOWER", Studio Universal
-https://broker.cdn.rcs.net.ar/mnp/st_universal/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945573" group-title="ONPOWER", Lifetime
-https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945580" group-title="ONPOWER", Adult Swim
-https://broker.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196688" group-title="ONPOWER", Comedy Central
-https://broker.cdn.rcs.net.ar/mnp/comedy/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687415" group-title="ONPOWER", HBO
-https://broker.cdn.rcs.net.ar/mnp/hbo/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687423" group-title="ONPOWER", HBO 2
-https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945582" group-title="ONPOWER", HBO Plus
-https://broker.cdn.rcs.net.ar/mnp/hboplus/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687419" group-title="ONPOWER", HBO Pop
-https://broker.cdn.rcs.net.ar/mnp/hbopop/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687424" group-title="ONPOWER", HBO Family
-https://broker.cdn.rcs.net.ar/mnp/hbofam/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687421" group-title="ONPOWER", HBO Xtreme
-https://broker.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687418" group-title="ONPOWER", HBO Mundi
-https://broker.cdn.rcs.net.ar/mnp/hbomund/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687420" group-title="ONPOWER", HBO Signature
-https://broker.cdn.rcs.net.ar/mnp/hbosig/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/54252511" group-title="ONPOWER", Cinemax
-https://broker.cdn.rcs.net.ar/mnp/cinemax/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196625" group-title="ONPOWER", El Gourmet
-https://broker.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663264" group-title="ONPOWER", Discovery HGTV
-https://broker.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196651" group-title="ONPOWER", Food Network
-https://broker.cdn.rcs.net.ar/mnp/disc_fn/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663265" group-title="ONPOWER", E! Entertainment
-https://broker.cdn.rcs.net.ar/mnp/eent/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663266" group-title="ONPOWER", Home & Health
-https://broker.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663267" group-title="ONPOWER", Discovery TLC
-https://broker.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/1441507" group-title="ONPOWER", Telemundo
-https://broker.cdn.rcs.net.ar/mnp/telemundo/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/12603391" group-title="ONPOWER", Rural
-https://broker.cdn.rcs.net.ar/mnp/rural/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297425" group-title="ONPOWER", Argentinisima Satelital
-https://broker.cdn.rcs.net.ar/mnp/arg_sat/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/51595718" group-title="ONPOWER", National Geografic
-https://broker.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297409" group-title="ONPOWER", Discovery Channel
-https://broker.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663269" group-title="ONPOWER", Animal Planet
-https://broker.cdn.rcs.net.ar/mnp/disc_apar/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297411" group-title="ONPOWER", Discovery Theater
-https://broker.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/13941062" group-title="ONPOWER", History Channel
-https://broker.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/6789083" group-title="ONPOWER", Discovery I+D
-https://broker.cdn.rcs.net.ar/mnp/disc_idar/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196694" group-title="ONPOWER", Film&Arts
-https://broker.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53437034" group-title="ONPOWER", Discovery World
-https://broker.cdn.rcs.net.ar/mnp/disc_world/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297407" group-title="ONPOWER", Discovery Science
-https://broker.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196623" group-title="ONPOWER", MTV
-https://broker.cdn.rcs.net.ar/mnp/mtv/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196690" group-title="ONPOWER", HTV
-https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196655" group-title="ONPOWER", CM
-https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196638" group-title="ONPOWER", CNN en Español
-https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196640" group-title="ONPOWER", Telesur
-https://broker.cdn.rcs.net.ar/mnp/telesurtda/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196639" group-title="ONPOWER", CNN Internacional
-https://broker.cdn.rcs.net.ar/mnp/cnn/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196609" group-title="ONPOWER", RT TV
-https://broker.cdn.rcs.net.ar/mnp/iptvrt/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196636" group-title="ONPOWER", NHK
-https://broker.cdn.rcs.net.ar/mnp/nhk/output.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/3434022" group-title="ONPOWER", Canal Luz
-https://broker.cdn.rcs.net.ar/inet/mnp/chLuz/index.m3u8
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196677" group-title="ONPOWER", Santa Maria/Maria Vision
-https://broker.cdn.rcs.net.ar/inet/mnp/mariaVision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/26169435" group-title="ONPOWER", EWTN
-https://broker.cdn.rcs.net.ar/inet/ewtn/mono.m3u8
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/31810886" group-title="ONPOWER", Canal de la Ciudad
-https://broker.cdn.rcs.net.ar/hub/pshcanaldelaciudad/dash/canal_de_la_ciudad.mpd
-#EXTINF:-1 tvg-logo="" group-title="ONPOWER", Unknown
-https://broker.cdn.rcs.net.ar/hub/ciudadtv/dash/livenew.mpd
-#EXTINF:-1 tvg-logo="https://weiss.mc.rocstar.tv/sb/image/44886433" group-title="ONPOWER", Sicardi TV
-https://broker.cdn.rcs.net.ar/inet/sicardi/110105.m3u8
+
+
 
 
 
@@ -1510,6 +1333,268 @@ http://181.13.252.102:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⭐ ASTRA 4  ⭐", el trece HD
 http://181.13.252.102:8000/play/a0bg/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", 26TV
+http://190.7.19.197:232/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", A&E HD
+http://190.7.19.197:232/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", A24
+http://190.7.19.197:232/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", AIRE SANTA FE
+http://190.7.19.197:232/play/a08r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", AM Sports
+http://190.7.19.197:232/play/a044/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", AMC
+http://190.7.19.197:232/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ANIMAL PLÁNET
+http://190.7.19.197:232/play/a081/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ARGENTINISIMA
+http://190.7.19.197:232/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", AUNAR
+http://190.7.19.197:232/play/a08g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", AXN HD
+http://190.7.19.197:232/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Adult swim HD
+http://190.7.19.197:232/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", America TV HD
+http://190.7.19.197:232/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Baby TV
+http://190.7.19.197:232/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CANAL 11 PARANA
+http://190.7.19.197:232/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CANAL 6 CRESPO
+http://190.7.19.197:232/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CANAL 9 PARANA
+http://190.7.19.197:232/play/a0lo/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CANAL E
+http://190.7.19.197:232/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CHV
+http://190.7.19.197:232/play/a082/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CM
+http://190.7.19.197:232/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CN23
+http://190.7.19.197:232/play/a084/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", CNN en Español
+http://190.7.19.197:232/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Canal a
+http://190.7.19.197:232/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Canal de la Ciudad
+http://190.7.19.197:232/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Cartoon Network HD
+http://190.7.19.197:232/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Cine.AR
+http://190.7.19.197:232/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Cinecanal HD
+http://190.7.19.197:232/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Cinemax
+http://190.7.19.197:232/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Ciudad Magazine
+http://190.7.19.197:232/play/a04l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Comedy Central HD
+http://190.7.19.197:232/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Crðnica
+http://190.7.19.197:232/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", DeporTV
+http://190.7.19.197:232/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery Channel HD
+http://190.7.19.197:232/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery H&H HD
+http://190.7.19.197:232/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery Kids
+http://190.7.19.197:232/play/a05i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery Science
+http://190.7.19.197:232/play/a04o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery Theater HD
+http://190.7.19.197:232/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery Turbo
+http://190.7.19.197:232/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Discovery World HD
+http://190.7.19.197:232/play/a055/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Disney Channel HD
+http://190.7.19.197:232/play/a04v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Disney Junior
+http://190.7.19.197:232/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", E! Entertainment
+http://190.7.19.197:232/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", EL DESTAPE TV
+http://190.7.19.197:232/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", EL FOLKLORICO TV
+http://190.7.19.197:232/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", EL GARAGE
+http://190.7.19.197:232/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ENLACE
+http://190.7.19.197:232/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ESPN 2 HD
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ESPN 3 HD
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ESPN 4 HD
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ESPN HD
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ESPN Premium HD
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", EWTN
+http://190.7.19.197:232/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", El Canal de las Estrellas
+http://190.7.19.197:232/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", El Gourmet
+http://190.7.19.197:232/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", El Nueve HD
+http://190.7.19.197:232/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", El Trece HD
+http://190.7.19.197:232/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Encuentro
+http://190.7.19.197:232/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Europa Europa
+http://190.7.19.197:232/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", FX HD
+http://190.7.19.197:232/play/a04z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Film & Arts HD
+http://190.7.19.197:232/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Fox Sports 2 HD
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Fox Sports 3 HD
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Fox Sports HD
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Galicia TV
+http://190.7.19.197:232/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO
+http://190.7.19.197:232/play/a05e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO 2
+http://190.7.19.197:232/play/a05g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO Family
+http://190.7.19.197:232/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO POP
+http://190.7.19.197:232/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO Plus
+http://190.7.19.197:232/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO Signature
+http://190.7.19.197:232/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HBO Xtreme
+http://190.7.19.197:232/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HGTV
+http://190.7.19.197:232/play/a04n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", HTV
+http://190.7.19.197:232/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", History 2
+http://190.7.19.197:232/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", History Channel
+http://190.7.19.197:232/play/a03h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", ID HD
+http://190.7.19.197:232/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", IN
+http://190.7.19.197:232/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", IP
+http://190.7.19.197:232/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Kidoo HD
+http://190.7.19.197:232/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", La Nacion TV
+http://190.7.19.197:232/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Lifetime
+http://190.7.19.197:232/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", MTV
+http://190.7.19.197:232/play/a04q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Metro
+http://190.7.19.197:232/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", NET TV
+http://190.7.19.197:232/play/a095/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", NUEVO TIEMPO
+http://190.7.19.197:232/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Nat Geo HD
+http://190.7.19.197:232/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Nick Jr
+http://190.7.19.197:232/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Nickelodeon
+http://190.7.19.197:232/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", O GLOBO
+http://190.7.19.197:232/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", PAKA PAKA
+http://190.7.19.197:232/play/a08e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", PASIONES
+http://190.7.19.197:232/play/a01u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Pakapaka
+http://190.7.19.197:232/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Paramount HD
+http://190.7.19.197:232/play/a052/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Quiero Musica
+http://190.7.19.197:232/play/a04r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", RAI Italia
+http://190.7.19.197:232/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", REMANSO TV
+http://190.7.19.197:232/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", REMANSO2
+http://190.7.19.197:232/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", RT en Español
+http://190.7.19.197:232/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Record
+http://190.7.19.197:232/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Rural
+http://190.7.19.197:232/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Sony HD
+http://190.7.19.197:232/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Sony Movies HD
+http://190.7.19.197:232/play/a01i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Space HD
+http://190.7.19.197:232/play/a050/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Star Channel HD
+http://190.7.19.197:232/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Studio Universal
+http://190.7.19.197:232/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", T5
+http://190.7.19.197:232/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TCM
+http://190.7.19.197:232/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TEC TV
+http://190.7.19.197:232/play/a08c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TLNovelas
+http://190.7.19.197:232/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TN HD
+http://190.7.19.197:232/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TNT HD
+http://190.7.19.197:232/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TNT Novelas HD
+http://190.7.19.197:232/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TNT Series HD
+http://190.7.19.197:232/play/a088/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TNT Sports HD
+http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TOONCAST
+http://190.7.19.197:232/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TV Publica HD
+http://190.7.19.197:232/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TVE
+http://190.7.19.197:232/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TeleSUR
+http://190.7.19.197:232/play/a08p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Telefe HD
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", The History Channel HD
+http://190.7.19.197:232/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", TyC Sports HD
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", UCL
+http://190.7.19.197:232/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", USA Network
+http://190.7.19.197:232/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Universal HD
+http://190.7.19.197:232/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Volver
+http://190.7.19.197:232/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ASTRA 6", Warner Channel HD
+http://190.7.19.197:232/play/a01h/index.m3u8
+
+
+
+
+
+
+
+
 
 
 
