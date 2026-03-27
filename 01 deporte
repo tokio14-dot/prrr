@@ -4,6 +4,40 @@
 #EXTINF:-1 tvg-logo="",TENIS miami 2026
 http://playtv44.com:8080/hsandoval758/123456/377796
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="premium",Evento 1
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Evento 2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Evento 3
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Evento 4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Evento 5
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Evento 6
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",TyC Sports
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Fox Sports
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Fox Sports 3
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",Fox Sports 2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",ESPN
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 4
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 3
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 5
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 7
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN
 http://38.44.109.41:8003/play/a03x/index.m3u8
 
