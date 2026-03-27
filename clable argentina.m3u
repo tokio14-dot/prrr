@@ -1,57 +1,186 @@
 #EXTM3U
 
-
-
-
 #EXTM3U
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="980" tvg-name="Canal 4" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/24848550" group-title="ONPOWER TV VPN 🇦🇷", Canal 4
+https://broker.cdn.rcs.net.ar/hub/canal4/dash/live.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="1012" tvg-name="Telesol" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/44118084" group-title="ONPOWER TV VPN 🇦🇷", Telesol
+https://broker.cdn.rcs.net.ar/onpower/dash/telesol/index.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="1027" tvg-name="Canal 8 San Juan" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49719972" group-title="ONPOWER TV VPN 🇦🇷", Canal 8 San Juan
+https://broker.cdn.rcs.net.ar/onpower/canal8_dash/canal8/index.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="6" tvg-name="El Trece" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196599" group-title="ONPOWER TV VPN 🇦🇷", El Trece
+https://broker.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="3" tvg-name="El Nueve" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53437020" group-title="ONPOWER TV VPN 🇦🇷", El Nueve
+https://broker.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="7" tvg-name="C5N" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196606" group-title="ONPOWER TV VPN 🇦🇷", C5N
+https://broker.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="12" tvg-name="Canal 26" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196617" group-title="ONPOWER TV VPN 🇦🇷", Canal 26
+https://broker.cdn.rcs.net.ar/mnp/canal26/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="179" tvg-name="IP Noticias" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38703593" group-title="ONPOWER TV VPN 🇦🇷", IP Noticias
+https://broker.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="8" tvg-name="LN +" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/19326308" group-title="ONPOWER TV VPN 🇦🇷", LN +
+https://broker.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="10" tvg-name="CN 23" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38703594" group-title="ONPOWER TV VPN 🇦🇷", CN 23
+https://broker.cdn.rcs.net.ar/mnp/cn23/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="13" tvg-name="Encuentro" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38387661" group-title="ONPOWER TV VPN 🇦🇷", Encuentro
+https://broker.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="14" tvg-name="Tec TV" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911739" group-title="ONPOWER TV VPN 🇦🇷", Tec TV
+https://broker.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="15" tvg-name="Construir" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196715" group-title="ONPOWER TV VPN 🇦🇷", Construir
+https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="264" tvg-name="ESPN 2" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583128" group-title="ONPOWER TV VPN 🇦🇷", ESPN 2
+https://broker.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="265" tvg-name="ESPN 3" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583129" group-title="ONPOWER TV VPN 🇦🇷", ESPN 3
+https://broker.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="267" tvg-name="ESPN 4" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/48583127" group-title="ONPOWER TV VPN 🇦🇷", ESPN 4
+https://broker.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="140" tvg-name="El Garage" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911735" group-title="ONPOWER TV VPN 🇦🇷", El Garage
+https://broker.cdn.rcs.net.ar/mnp/garage/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="510" tvg-name="Golf Channel" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297419" group-title="ONPOWER TV VPN 🇦🇷", Golf Channel
+https://broker.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="500" tvg-name="Discovery Turbo" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297413" group-title="ONPOWER TV VPN 🇦🇷", Discovery Turbo
+https://broker.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="23" tvg-name="Paka Paka" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911750" group-title="ONPOWER TV VPN 🇦🇷", Paka Paka
+https://broker.cdn.rcs.net.ar/mnp/pkpk/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="260" tvg-name="Disney Channel" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911752" group-title="ONPOWER TV VPN 🇦🇷", Disney Channel
+https://broker.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="32" tvg-name="Nick" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911754" group-title="ONPOWER TV VPN 🇦🇷", Nick
+https://broker.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="243" tvg-name="Cartoon Network" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911759" group-title="ONPOWER TV VPN 🇦🇷", Cartoon Network
+https://broker.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="504" tvg-name="Discovery Kids" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53437022" group-title="ONPOWER TV VPN 🇦🇷", Discovery Kids
+https://broker.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="242" tvg-name="Cartoonito" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911765" group-title="ONPOWER TV VPN 🇦🇷", Cartoonito
+https://broker.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="244" tvg-name="Tooncast" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/51595711" group-title="ONPOWER TV VPN 🇦🇷", Tooncast
+https://broker.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="33" tvg-name="Nick Jr." tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911757" group-title="ONPOWER TV VPN 🇦🇷", Nick Jr.
+https://broker.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="262" tvg-name="Disney Junior" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/45807873" group-title="ONPOWER TV VPN 🇦🇷", Disney Junior
+https://broker.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="273" tvg-name="Baby Tv" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/1908637" group-title="ONPOWER TV VPN 🇦🇷", Baby Tv
+https://broker.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="18" tvg-name="CINE.AR" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196594" group-title="ONPOWER TV VPN 🇦🇷", CINE.AR
+https://broker.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="247" tvg-name="Space" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196669" group-title="ONPOWER TV VPN 🇦🇷", Space
+https://broker.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="272" tvg-name="Cinecanal" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49911769" group-title="ONPOWER TV VPN 🇦🇷", Cinecanal
+https://broker.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="30" tvg-name="FX" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196602" group-title="ONPOWER TV VPN 🇦🇷", FX
+https://broker.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="37" tvg-name="Star Channel" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945571" group-title="ONPOWER TV VPN 🇦🇷", Star Channel
+https://broker.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="289" tvg-name="Sony" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196698" group-title="ONPOWER TV VPN 🇦🇷", Sony
+https://broker.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="45" tvg-name="Warner" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196672" group-title="ONPOWER TV VPN 🇦🇷", Warner
+https://broker.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="290" tvg-name="AXN" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/27799994" group-title="ONPOWER TV VPN 🇦🇷", AXN
+https://broker.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="517" tvg-name="USA Network" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663257" group-title="ONPOWER TV VPN 🇦🇷", USA Network
+https://broker.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="288" tvg-name="A&E" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663258" group-title="ONPOWER TV VPN 🇦🇷", A&E
+https://broker.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="48" tvg-name="Europa Europa" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196645" group-title="ONPOWER TV VPN 🇦🇷", Europa Europa
+https://broker.cdn.rcs.net.ar/mnp/europa/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="248" tvg-name="TCM" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196647" group-title="ONPOWER TV VPN 🇦🇷", TCM
+https://broker.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="160" tvg-name="AMC" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663259" group-title="ONPOWER TV VPN 🇦🇷", AMC
+https://broker.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="53" tvg-name="AMC Series" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/59845830" group-title="ONPOWER TV VPN 🇦🇷", AMC Series
+https://broker.cdn.rcs.net.ar/mnp/amcseries/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="515" tvg-name="Universal" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663261" group-title="ONPOWER TV VPN 🇦🇷", Universal
+https://broker.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="516" tvg-name="Studio Universal" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663260" group-title="ONPOWER TV VPN 🇦🇷", Studio Universal
+https://broker.cdn.rcs.net.ar/mnp/st_universal/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="513" tvg-name="Lifetime" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945573" group-title="ONPOWER TV VPN 🇦🇷", Lifetime
+https://broker.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="252" tvg-name="Adult Swim" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945580" group-title="ONPOWER TV VPN 🇦🇷", Adult Swim
+https://broker.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="34" tvg-name="Comedy Central" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196688" group-title="ONPOWER TV VPN 🇦🇷", Comedy Central
+https://broker.cdn.rcs.net.ar/mnp/comedy/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="24" tvg-name="HBO" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687415" group-title="ONPOWER TV VPN 🇦🇷", HBO
+https://broker.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="66" tvg-name="HBO 2" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687423" group-title="ONPOWER TV VPN 🇦🇷", HBO 2
+https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="25" tvg-name="HBO Plus" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/49945582" group-title="ONPOWER TV VPN 🇦🇷", HBO Plus
+https://broker.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="62" tvg-name="HBO Pop" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687419" group-title="ONPOWER TV VPN 🇦🇷", HBO Pop
+https://broker.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="60" tvg-name="HBO Family" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687424" group-title="ONPOWER TV VPN 🇦🇷", HBO Family
+https://broker.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="64" tvg-name="HBO Xtreme" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687421" group-title="ONPOWER TV VPN 🇦🇷", HBO Xtreme
+https://broker.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="61" tvg-name="HBO Mundi" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687418" group-title="ONPOWER TV VPN 🇦🇷", HBO Mundi
+https://broker.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="63" tvg-name="HBO Signature" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/10687420" group-title="ONPOWER TV VPN 🇦🇷", HBO Signature
+https://broker.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="65" tvg-name="Cinemax" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/54252511" group-title="ONPOWER TV VPN 🇦🇷", Cinemax
+https://broker.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="50" tvg-name="El Gourmet" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196625" group-title="ONPOWER TV VPN 🇦🇷", El Gourmet
+https://broker.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="501" tvg-name="Discovery HGTV" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663264" group-title="ONPOWER TV VPN 🇦🇷", Discovery HGTV
+https://broker.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="507" tvg-name="Food Network" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196651" group-title="ONPOWER TV VPN 🇦🇷", Food Network
+https://broker.cdn.rcs.net.ar/mnp/disc_fn/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="259" tvg-name="E! Entertainment" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663265" group-title="ONPOWER TV VPN 🇦🇷", E! Entertainment
+https://broker.cdn.rcs.net.ar/mnp/eent/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="508" tvg-name="Home & Health" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663266" group-title="ONPOWER TV VPN 🇦🇷", Home & Health
+https://broker.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="502" tvg-name="Discovery TLC" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663267" group-title="ONPOWER TV VPN 🇦🇷", Discovery TLC
+https://broker.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="514" tvg-name="Telemundo" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/1441507" group-title="ONPOWER TV VPN 🇦🇷", Telemundo
+https://broker.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="104" tvg-name="Rural" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/12603391" group-title="ONPOWER TV VPN 🇦🇷", Rural
+https://broker.cdn.rcs.net.ar/mnp/rural/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="102" tvg-name="Argentinisima Satelital" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297425" group-title="ONPOWER TV VPN 🇦🇷", Argentinisima Satelital
+https://broker.cdn.rcs.net.ar/mnp/arg_sat/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="268" tvg-name="National Geografic" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/51595718" group-title="ONPOWER TV VPN 🇦🇷", National Geografic
+https://broker.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="35" tvg-name="Discovery Channel" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297409" group-title="ONPOWER TV VPN 🇦🇷", Discovery Channel
+https://broker.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="509" tvg-name="Animal Planet" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/38663269" group-title="ONPOWER TV VPN 🇦🇷", Animal Planet
+https://broker.cdn.rcs.net.ar/mnp/disc_apar/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="506" tvg-name="Discovery Theater" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297411" group-title="ONPOWER TV VPN 🇦🇷", Discovery Theater
+https://broker.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="287" tvg-name="History Channel" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/13941062" group-title="ONPOWER TV VPN 🇦🇷", History Channel
+https://broker.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="505" tvg-name="Discovery I+D" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/6789083" group-title="ONPOWER TV VPN 🇦🇷", Discovery I+D
+https://broker.cdn.rcs.net.ar/mnp/disc_idar/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="49" tvg-name="Film&Arts" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196694" group-title="ONPOWER TV VPN 🇦🇷", Film&Arts
+https://broker.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="36" tvg-name="Discovery World" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53437034" group-title="ONPOWER TV VPN 🇦🇷", Discovery World
+https://broker.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="503" tvg-name="Discovery Science" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/53297407" group-title="ONPOWER TV VPN 🇦🇷", Discovery Science
+https://broker.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="31" tvg-name="MTV" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196623" group-title="ONPOWER TV VPN 🇦🇷", MTV
+https://broker.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="249" tvg-name="HTV" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196690" group-title="ONPOWER TV VPN 🇦🇷", HTV
+https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="141" tvg-name="CM" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196655" group-title="ONPOWER TV VPN 🇦🇷", CM
+https://broker.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="241" tvg-name="CNN en  Español" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196638" group-title="ONPOWER TV VPN 🇦🇷", CNN en  Español
+https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="180" tvg-name="Telesur" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196640" group-title="ONPOWER TV VPN 🇦🇷", Telesur
+https://broker.cdn.rcs.net.ar/mnp/telesurtda/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="240" tvg-name="CNN Internacional" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196639" group-title="ONPOWER TV VPN 🇦🇷", CNN Internacional
+https://broker.cdn.rcs.net.ar/mnp/cnn/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="19" tvg-name="RT TV" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196609" group-title="ONPOWER TV VPN 🇦🇷", RT TV
+https://broker.cdn.rcs.net.ar/mnp/iptvrt/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="101" tvg-name="NHK" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196636" group-title="ONPOWER TV VPN 🇦🇷", NHK
+https://broker.cdn.rcs.net.ar/mnp/nhk/output.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="99" tvg-name="Canal Luz" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/3434022" group-title="ONPOWER TV VPN 🇦🇷", Canal Luz
+https://broker.cdn.rcs.net.ar/inet/mnp/chLuz/index.m3u8
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="100" tvg-name="Santa Maria/Maria Vision" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196677" group-title="ONPOWER TV VPN 🇦🇷", Santa Maria/Maria Vision
+https://broker.cdn.rcs.net.ar/inet/mnp/mariaVision/playlist.m3u8
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="103" tvg-name="EWTN" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/26169435" group-title="ONPOWER TV VPN 🇦🇷", EWTN
+https://broker.cdn.rcs.net.ar/inet/ewtn/mono.m3u8
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="100018" tvg-name="Canal de la Ciudad" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/31810886" group-title="ONPOWER TV VPN 🇦🇷", Canal de la Ciudad
+https://broker.cdn.rcs.net.ar/hub/pshcanaldelaciudad/dash/canal_de_la_ciudad.mpd
+#EXTINF:-1, Unknown
+https://broker.cdn.rcs.net.ar/hub/ciudadtv/dash/livenew.mpd
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="1020" tvg-name="Sicardi TV" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/44886433" group-title="ONPOWER TV VPN 🇦🇷", Sicardi TV
+https://broker.cdn.rcs.net.ar/inet/sicardi/110105.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOUMnK_ryLs2YBybaezwJ6lHGQAzxTd5z73nayBGy61Q&s=10" group-title="Movistar",Movistar extrenos
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8lGHI_Jq2921ZiywGKRuubQ/m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC3a0DWBtwr_6GpL86VOIXhevwCRPgf2eQApAD3lZPA&s=10" group-title="Movistar",Movistar drama
-http://apphd.net:25461/auth/qxEcFL5CqgjhJTf2G_ljiGdvO3ofI-3j7SUZvDkWR69MWSfULs0nL_MufMO-KFwE8r1fh0uLMYyIVAgn4W83nh6wlYSpIu0VHO8m7f3h5zKtH-mHcc30VuIYgSjsDSIAHq7cTbkCUs3R-fsHm_pJaOpRfwpvVNRn9tAAWxokFut1DGwR4td0uOj7rUdzesDEdhamE-JPL6t8E7X7vslnTBxSgHQuASVaGgFUTX0bmv6JFpHqv9-TnisZBzrD1vh-1Tcgp5r0gfDwRUy067lVivq4ABP2WzoA0tqPVivIGZxhyE5vVNk_UGUqw6ugr6NzQnPhNAhJXH5kc01LKpSGdPpMtpKnM6eUTiA6MemDebIQT301um9_t4ggqYTLRt5Cq4sKcmJYUQESJKE3Ks79IzZEcpwODOtiFmyLWaPiQurhGqRKeRKrwyPv87aYt-sFbXb8-50ccYRrmRFrYhBXr6IIsnsBNXGe0hutw3JHaC6vOxGDHo_dSz2E2quNageLg6WFe727euzCkjdP8dbL33xIg65uyqZxGNVzDB3HnSMpSXRjbgYaS9iCHIXKiWLlMoITe5zZG-jIIWnzpNh-3zz0kt_1rMxtriWzz0N4NJs
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLzz5wEaoyBy_1DI9pJgtakPLL1EsTvlLJZaAmqSfVA&s=10" group-title="Movistar",Movistar indie
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mcfgmG2KzoO7dziU8G7UNh/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Comedia/Movistar_Comedia-Logo.wine.svg" group-title="Movistar",Movistar comedia
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mgJHhYGIbNElsW-DIqbxkF/m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_kigrihMbqr0krCoVOYJ-4vUvo3_xPwo1ofVdl7dZQ&s=10" group-title="Movistar",Movistar hits
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9QoIe8JnVLw4c7PrAyLwFLJ8Y8r5cE9NqGyVRFKVOoFG/m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOfCFjpMEd4Sv6dRgyMhIS6Z-BOcDElBms7COafNkPA&s" group-title="Movistar",Movistar clásicos
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kDDbTAm9p_0-sdnq3vpzVJ/m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/3840px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar",Movistar series
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nKtOwnXn6IrBvj-ZDo6C3C/m3u8
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/0a2010/terror_mplus_logo/650_1200.jpeg" group-title="Movistar",Movistar terror
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9bc3J4nCFidV1SrnvdGselNePrLFsiZh_Qu0hVZxTVMQ/m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar",Movistar cine español
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nptkG5j554NKfGJsjUceGY/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.svg" group-title="Movistar",Movistar acción 
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kJC5K_7z366kjItbrPFOYE/m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9D8e9jUFqrVb60q7-JB67LYtKzt887ckkLu2sOqq9Bw&s=10" group-title="Movistar",Movistar vamos
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9QvTojjojgGWkFqKvmoHbagwFuizs7Mv8JabQAPyfeiz/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.svg" group-title="Movistar",Movistar deportes
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nc8r_TYwvJk7kDZwwg2f0c/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar%2B/Movistar%2B-Logo.wine.svg" group-title="Movistar",Movistar plus
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8nofdZandAhu_C5YRQvU8VU/m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/960px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar",Movistar originales
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kX8HKqOpAVgpNUVf35tsD2/m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPlXhb6b9_Ay8o7xNvSNzPChOjiYDtcFpLqYK3wL1Pp7drZocGCrgsQg&s=10" group-title="Movistar",Movistar documentales 
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8kx-gdHgAJYGAM_XOgmkxx9/m3u8
-
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Movistar_Golf/Movistar_Golf-Logo.wine.svg" group-title="Movistar",Movistar golf
-http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mzeJRJSzVoVsoWlx-MRnnn/m3u8
 
 
 
@@ -59,13 +188,6 @@ http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9YzEmxlclZbS3P7VuO2dx8mzeJRJSzVo
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", FMM kids
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/04/PequeRadio-TV-en-DIRECTO-Online-.png" group-title="KIDS", PEQUE TV
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TOONCAST 2
-http://magiz.net:8080/live/juarez/12345678/217.ts
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ DIRECTV ⭐", America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
