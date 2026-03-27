@@ -1,6 +1,26 @@
 #EXTM3U
 
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN
+http://186.33.40.97:8789/play/20
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 2
+http://186.33.40.97:8789/play/21
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 3
+http://186.33.40.97:8789/play/19
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 4
+http://186.33.40.97:8789/play/57
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 5
+http://186.33.40.97:8789/play/54
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN 6
+http://186.33.40.97:8789/play/56
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", ESPN PREMIUM 2
+http://186.33.40.97:8789/play/22
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", Fox sport Arg
+http://201.218.140.30:9000/play/a08n
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", Fox sport 2 Arg
+http://201.218.140.30:9000/play/a08x
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES 2", Fox sport 3 Arg
+http://201.218.140.30:9000/play/a08y
 
 #EXTINF:-1 tvg-logo="" group-title="premium",Evento 1
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-01.playlist.m3u8
