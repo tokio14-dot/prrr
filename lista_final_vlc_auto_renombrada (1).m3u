@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:11,index.m3u8 (Opcion 1)
 http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:11,index.m3u8 (Opcion 2)
@@ -529,7 +530,7 @@ http://190.60.42.86:8000/play/a03o/index.m3u8
 http://201.230.121.186:8000/play/a0fk/index.m3u8
 #EXTINF:11,index.m3u8 (Opcion 265)
 http://38.199.5.160:8000/play/a091/index.m3u8
-#EXTINF:11,CNN Espaæol
+#EXTINF:11,CNN EspaÃ¦ol
 http://38.199.5.160:8000/play/a08u/index.m3u8
 #EXTINF:11,mpegts output
 http://179.49.163.34:45000/play/a05n/index.m3u8
@@ -1437,7 +1438,7 @@ http://181.78.82.6:46090/play/a00w/index.m3u8
 http://181.78.82.6:46090/play/a024/index.m3u8
 #EXTINF:0,CANAL 20 AGUACHICA (Opcion 1)
 http://190.60.32.178:8178/play/a034/index.m3u8
-#EXTINF:0,SEÑALCOLOMBIA
+#EXTINF:0,SEÃ‘ALCOLOMBIA
 http://181.78.82.6:46090/play/a042/index.m3u8
 #EXTINF:0,CANAL INSTITUCIONAL (Opcion 1)
 http://181.78.82.6:46090/play/a043/index.m3u8
@@ -1681,9 +1682,9 @@ http://181.78.82.6:46090/play/a0b9/index.m3u8
 http://201.230.121.186:8000/play/a0e8/index.m3u8
 #EXTINF:0,France 24 (Opcion 4)
 http://38.97.240.11:8000/play/a0iw/index.m3u8
-#EXTINF:0,DW Espaæol (Opcion 1)
+#EXTINF:0,DW EspaÃ¦ol (Opcion 1)
 http://181.78.82.6:46090/play/a0bb/index.m3u8
-#EXTINF:0,DW Espaæol (Opcion 2)
+#EXTINF:0,DW EspaÃ¦ol (Opcion 2)
 http://38.250.127.17:9800/play/a0c7/index.m3u8
 #EXTINF:0,HEI HD (Opcion 1)
 http://38.97.240.11:8000/play/a0hd/index.m3u8
@@ -2119,7 +2120,7 @@ http://38.159.227.126:8000/play/a05f/index.m3u8
 http://179.49.163.34:45000/play/a05c/index.m3u8
 #EXTINF:0,Tooncast (Opcion 3)
 http://181.78.82.6:46090/play/a0as/index.m3u8
-#EXTINF:0,TelefØ (Opcion 1)
+#EXTINF:0,TelefÃ˜ (Opcion 1)
 http://181.78.82.6:46090/play/a0at/index.m3u8
 #EXTINF:0,Telemundo (Opcion 1)
 http://45.228.234.30:16000/play/a00l/index.m3u8
@@ -2167,7 +2168,7 @@ http://181.78.82.6:46090/play/a0bj/index.m3u8
 http://181.78.82.6:46090/play/a0bk/index.m3u8
 #EXTINF:0,Film&Arts (Opcion 1)
 http://181.78.82.6:46090/play/a0bl/index.m3u8
-#EXTINF:0,MÆsChic (Opcion 1)
+#EXTINF:0,MÃ†sChic (Opcion 1)
 http://181.78.82.6:46090/play/a0bn/index.m3u8
 #EXTINF:0,HTV (Opcion 1)
 http://190.60.32.178:8178/play/a0bu/index.m3u8
@@ -2412,7 +2413,7 @@ http://181.13.252.102:8000/play/a0bm/index.m3u8
 #EXTINF:0,Turbo (Opcion 1)
 http://190.60.32.178:8178/play/a0fr/index.m3u8
 #EXTINF:0,De Pelhttp://181.78.82.6:46090/play/a0fs/index.m3u8
-#EXTINF:0,CNN Espaæol (Opcion 1)
+#EXTINF:0,CNN EspaÃ¦ol (Opcion 1)
 http://190.60.32.178:8178/play/a0gh/index.m3u8
 #EXTINF:0,NTN 24 HD (Opcion 1)
 http://190.60.32.178:8178/play/a0h8/index.m3u8
@@ -2640,7 +2641,7 @@ http://38.159.227.126:8000/play/a08u/index.m3u8
 http://38.250.127.17:9800/play/a0b3/index.m3u8
 #EXTINF:0,Canal 460 (Opcion 1)
 http://176.65.146.237:8401/play/a099/index.m3u8
-#EXTINF:0,RNE Andalucía (Opcion 1)
+#EXTINF:0,RNE AndalucÃ­a (Opcion 1)
 http://176.65.146.237:8401/play/a096/index.m3u8
 #EXTINF:0,BBC News (Opcion 1)
 http://200.125.170.122:8000/play/a0d8/index.m3u8
@@ -2920,7 +2921,7 @@ http://45.228.234.30:16000/play/a03i/index.m3u8
 http://38.250.127.17:9800/play/a0bj/index.m3u8
 #EXTINF:0,LOS40 Urban (Opcion 1)
 http://176.65.146.237:8401/play/a0an/index.m3u8
-#EXTINF:0,Radiolé (Opcion 1)
+#EXTINF:0,RadiolÃ© (Opcion 1)
 http://176.65.146.237:8401/play/a0ao/index.m3u8
 #EXTINF:0,Disney Channel HD (Opcion 1)
 http://38.250.127.17:9800/play/a0br/index.m3u8
@@ -3200,7 +3201,7 @@ http://38.97.240.11:8000/play/a0i8/index.m3u8
 http://148.222.225.136:8004/play/a0ix/index.m3u8
 #EXTINF:0,Universal Comedy SD (Opcion 2)
 http://38.97.240.11:8000/play/a0i9/index.m3u8
-#EXTINF:0,DW Espaæol
+#EXTINF:0,DW EspaÃ¦ol
 http://38.199.4.105:9999/play/a0iy/index.m3u8
 #EXTINF:0,AMC Series
 http://38.199.4.105:9999/play/a0km/index.m3u8
@@ -3572,7 +3573,7 @@ http://45.228.234.30:16000/play/a03h/index.m3u8
 http://45.228.234.30:16000/play/a03j/index.m3u8
 #EXTINF:0,CANAL 27 GT (Opcion 1)
 http://45.228.234.30:16000/play/a03l/index.m3u8
-#EXTINF:0,RT ESPAÑOL (Opcion 1)
+#EXTINF:0,RT ESPAÃ‘OL (Opcion 1)
 http://45.228.234.30:16000/play/a03k/index.m3u8
 #EXTINF:0,MARIA VISION (Opcion 1)
 http://45.228.234.30:16000/play/a03n/index.m3u8
@@ -3876,7 +3877,7 @@ http://179.49.163.34:45000/play/a03s/index.m3u8
 http://179.49.163.34:45000/play/a03t/index.m3u8
 #EXTINF:0,LA TELE HD (Opcion 1)
 http://179.49.163.34:45000/play/a03u/index.m3u8
-#EXTINF:0,Azteca Corazón (Opcion 1)
+#EXTINF:0,Azteca CorazÃ³n (Opcion 1)
 http://179.49.163.34:45000/play/a04s/index.m3u8
 #EXTINF:0,Azteca Clic (Opcion 1)
 http://179.49.163.34:45000/play/a04r/index.m3u8
@@ -3884,7 +3885,7 @@ http://179.49.163.34:45000/play/a04r/index.m3u8
 http://179.49.163.34:45000/play/a04q/index.m3u8
 #EXTINF:0,Azteca Cinema (Opcion 2)
 http://190.60.42.86:8000/play/a02d/index.m3u8
-#EXTINF:0,CNN Español (Opcion 1)
+#EXTINF:0,CNN EspaÃ±ol (Opcion 1)
 http://179.49.163.34:45000/play/a04x/index.m3u8
 #EXTINF:0,AZ Deportes (Opcion 1)
 http://179.49.163.34:45000/play/a04t/index.m3u8
