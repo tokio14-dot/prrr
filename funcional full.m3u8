@@ -1,5 +1,4 @@
-#EXTINF:-1,Dsports
-http://147.135.114.221:8001/play/a00m/index.m3u8
+
 #EXTINF:-1,music
 http://147.135.114.221:8001/play/a009/index.m3u8
 #EXTINF:-1,telesystem tv
@@ -18,8 +17,6 @@ http://38.188.186.47:4000/play/a073/index.m3u8
 http://38.188.186.47:4000/play/a065/index.m3u8
 #EXTINF:-1,AV Music
 http://38.188.186.47:4000/play/a06v/index.m3u8
-#EXTINF:-1,FUTV
-http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 62)
 http://45.228.234.30:16000/play/a03v/index.m3u8
 #EXTINF:-1,La voz de Maria
@@ -34,19 +31,24 @@ http://45.228.234.30:16000/play/a00m/index.m3u8
 http://45.228.234.30:16000/play/a01p/index.m3u8
 #EXTINF:-1,HBO
 http://45.228.234.30:16000/play/a008/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.228.234.30:16000/play/a00b/index.m3u8
 #EXTINF:-1,E!
 http://45.228.234.30:16000/play/a01d/index.m3u8
 #EXTINF:-1,R
 http://45.228.234.30:16000/play/a02c/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 81)
-http://45.228.234.30:16000/play/a00b/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 82)
+#EXTINF:-1,Claro sports MX
 http://45.228.234.30:16000/play/a03t/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 90)
+#EXTINF:-1,FUTV
+http://190.92.10.66:4000/play/a00c/index.m3u8
+#EXTINF:-1,Dsports
+http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1,BANDAMAX MX
 http://45.228.234.30:16000/play/a03a/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 91)
+#EXTINF:-1,Cartoon Network
 http://181.205.205.173:8888/play/a0fz/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 92)
+#EXTINF:-1,DHE
 http://45.228.234.30:16000/play/a003/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://181.205.205.173:8888/play/a0gv/index.m3u8
