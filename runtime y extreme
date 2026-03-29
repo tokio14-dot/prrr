@@ -6,6 +6,16 @@ https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",Morbido
 https://cablered.iptvperu.tv:1936/cablered/morbido_new/playlist.m3u8
+EXTINF:-1 tvg-id="cineclasic.us" tvg-name="24/7" tvg-logo="",cine clasico
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+EXTINF:-1 tvg-id="CineK BR" tvg-logo="https://imgur.com/pcVW2tr.png",Br-CineK
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="CineK BR" tvg-logo="",retro plus
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png",extrema terror
