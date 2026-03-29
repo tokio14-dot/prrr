@@ -1,44 +1,42 @@
-#EXTINF:-1,index.m3u8 (Opcion 1)
+#EXTINF:-1,Dsports
 http://147.135.114.221:8001/play/a00m/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 2)
+#EXTINF:-1,music
 http://147.135.114.221:8001/play/a009/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 3)
+#EXTINF:-1,telesystem tv
 http://147.135.114.221:8001/play/a002/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 4)
+#EXTINF:-1,turbo mix tv
 http://147.135.114.221:8001/play/a003/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 5)
+#EXTINF:-1,hoy peru tv
 http://147.135.114.221:8001/play/a001/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 6)
+#EXTINF:-1,45
 http://147.135.114.221:8001/play/a007/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 7)
+#EXTINF:-1,aura tv
 http://147.135.114.221:8001/play/a005/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 33)
+#EXTINF:-1,alfa tv
 http://38.188.186.47:4000/play/a073/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 39)
+#EXTINF:-1,CTV
 http://38.188.186.47:4000/play/a065/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 42)
-http://38.188.186.47:4000/play/a06c/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 48)
+#EXTINF:-1,AV Music
 http://38.188.186.47:4000/play/a06v/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 50)
+#EXTINF:-1,FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 62)
 http://45.228.234.30:16000/play/a03v/index.m3u8
 #EXTINF:-1,La voz de Maria
 http://45.228.234.30:16000/play/a01z/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 66)
+#EXTINF:-1,CINEMAX
 http://45.228.234.30:16000/play/a01q/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 68)
+#EXTINF:-1,Film&arts
 http://45.228.234.30:16000/play/a002/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 69)
+#EXTINF:-1,corazon
 http://45.228.234.30:16000/play/a00m/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 73)
+#EXTINF:-1,Sony channel
 http://45.228.234.30:16000/play/a01p/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 75)
+#EXTINF:-1,HBO
 http://45.228.234.30:16000/play/a008/index.m3u8
 #EXTINF:-1,E!
 http://45.228.234.30:16000/play/a01d/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 79)
+#EXTINF:-1,R
 http://45.228.234.30:16000/play/a02c/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 81)
 http://45.228.234.30:16000/play/a00b/index.m3u8
