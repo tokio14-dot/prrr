@@ -1,7 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rN0vNMn.png"group-title="BeIN Sports",beIN Sports XTRA ñ
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTM3U
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="DSPORTS (Todos)", DSPORTS (IP)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="DSPORTS (Todos)", DSPORTS (217.26)
@@ -143,7 +148,6 @@ http://181.78.82.6:46090/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 6 HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
-
 
 
 
