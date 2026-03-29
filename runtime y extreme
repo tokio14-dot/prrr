@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png",extrema Extremaa
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png",extrema kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png",cartoon
