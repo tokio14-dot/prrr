@@ -53,13 +53,12 @@ http://45.228.234.30:16000/play/a003/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://181.205.205.173:8888/play/a0gv/index.m3u8
 
-#EXTINF:-1,index.m3u8 (Opcion 97)
-http://190.92.10.66:4000/play/a00a/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 115)
+
+#EXTINF:-1, DISNEY channel
 http://190.60.32.178:8178/play/a0iw/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 116)
+#EXTINF:-1,TCM
 http://181.205.205.173:8888/play/a0lu/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 121)
+#EXTINF:-1,COMEDY CENTRAL
 http://181.205.205.173:8888/play/a0hh/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 122)
 http://45.228.234.30:16000/play/a010/index.m3u8
