@@ -226,45 +226,45 @@ http://181.13.252.102:8000/play/a06w/index.m3u8
 http://181.13.252.102:8000/play/a01p/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 388)
 http://181.13.252.102:8000/play/a030/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 389)
+#EXTINF:-1,CRONICA ARG
 http://181.13.252.102:8000/play/a01q/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 390)
+#EXTINF:-1,HISTORY ARG
 http://181.13.252.102:8000/play/a0ab/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 391)
+#EXTINF:-1,TCM ARG
 http://181.13.252.102:8000/play/a020/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 392)
+#EXTINF:-1,METRO ARG
 http://181.13.252.102:8000/play/a02g/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 393)
+#EXTINF:-1,AMC SERIES ARG
 http://181.13.252.102:8000/play/a02y/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 394)
+#EXTINF:-1,24 ARG
 http://181.13.252.102:8000/play/a01o/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 395)
+#EXTINF:-1,HBO Family ARG
 http://181.13.252.102:8000/play/a06r/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 396)
+#EXTINF:-1,DISNEY Primcesas ARG
 http://181.13.252.102:8000/play/a04y/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 397)
+#EXTINF:-1,ESPN 2 ARG
 http://181.13.252.102:8000/play/a059/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 398)
+#EXTINF:-1,USA ARG
 http://181.13.252.102:8000/play/a023/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 399)
+#EXTINF:-1,TNT SERIES ARG
 http://181.13.252.102:8000/play/a07e/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 400)
+#EXTINF:-1,HISTORY ARG
 http://181.13.252.102:8000/play/a05g/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 401)
+#EXTINF:-1,TN ARG
 http://181.13.252.102:8000/play/a058/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 402)
+#EXTINF:-1, DISCOVERY THEATER ARG
 http://181.13.252.102:8000/play/a02z/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 404)
+#EXTINF:-1,LIFETIME ARG
 http://181.13.252.102:8000/play/a06n/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 406)
+#EXTINF:-1,FOX SPORTS 2 ARG
 http://181.13.252.102:8000/play/a05c/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 407)
 http://181.13.252.102:8000/play/a04h/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 408)
+#EXTINF:-1,VOLVER ARG
 http://181.13.252.102:8000/play/a021/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 409)
+#EXTINF:-1,DISCOVERY SCIENCE ARG
 http://181.13.252.102:8000/play/a02k/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 410)
+#EXTINF:-1,ESPN PREMIUM ARG
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 411)
 http://38.199.4.105:9999/play/a0m6/index.m3u8
@@ -612,7 +612,9 @@ http://38.199.4.105:9999/play/a0h8/index.m3u8
 http://181.78.82.6:46090/play/a08c/index.m3u8
 #EXTINF:-1,MTV HD (Opcion 2)
 http://181.78.82.6:46090/play/a0ae/index.m3u8
-#EXTINF:-1,http://190.60.50.193:15028/play/a0ay/index.m3u8 (Opcion 1)
+#EXTINF:-1,8888
+http://190.60.50.193:15028/play/a0ay/index.m3u8 
+#EXTINF:-1,101010
 http://190.60.32.178:8178/play/a08c/index.m3u8
 #EXTINF:-1,Discovery Theater HD (Opcion 1)
 http://181.78.82.6:46090/play/a08f/index.m3u8
@@ -1252,7 +1254,7 @@ http://181.13.252.102:8000/play/a02o/index.m3u8
 http://181.13.252.102:8000/play/a02p/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://181.13.252.102:8000/play/a02s/index.m3u8
-#EXTINF:-1,Canal 999 (Opcion 1)
+#EXTINF:-1,FOX sports
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1,Disney Channel HD
 http://181.13.252.102:8000/play/a02r/index.m3u8
@@ -1260,11 +1262,11 @@ http://181.13.252.102:8000/play/a02r/index.m3u8
 http://181.13.252.102:8000/play/a02v/index.m3u8
 #EXTINF:-1,Space HD
 http://181.13.252.102:8000/play/a02w/index.m3u8
-#EXTINF:-1,Canal 1005 (Opcion 1)
+#EXTINF:-1,99999
 http://181.13.252.102:8000/play/a02x/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY HD
 http://181.13.252.102:8000/play/a04s/index.m3u8
-#EXTINF:-1,Canal 1026 (Opcion 1)
+#EXTINF:-1,DEPORTET
 http://181.13.252.102:8000/play/a06h/index.m3u8
 #EXTINF:-1,Canal 1033 (Opcion 1)
 http://181.13.252.102:8000/play/a06v/index.m3u8
@@ -1276,15 +1278,15 @@ http://181.13.252.102:8000/play/a07h/index.m3u8
 http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://38.199.4.105:9999/play/a0av/index.m3u8
-#EXTINF:-1,Canal 1051 (Opcion 1)
+#EXTINF:-1,BETHEL
 http://38.199.4.105:9999/play/a0co/index.m3u8
-#EXTINF:-1,Canal 1053 (Opcion 1)
+#EXTINF:-1,SHOW DE FE
 http://181.13.252.102:8000/play/a0bg/index.m3u8
-#EXTINF:-1,Canal 1076 (Opcion 1)
+#EXTINF:-1,ESPN 6
 http://38.199.4.105:9999/play/a0gr/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://38.199.4.105:9999/play/a0gy/index.m3u8
-#EXTINF:-1,Canal 1108 (Opcion 1)
+#EXTINF:-1,TNT SPORTS
 http://38.199.4.105:9999/play/a0hy/index.m3u8
 #EXTINF:-1,DW Espa�ol
 http://38.199.4.105:9999/play/a0iy/index.m3u8
@@ -1294,13 +1296,13 @@ http://38.199.4.105:9999/play/a0kl/index.m3u8
 http://38.199.4.105:9999/play/a0ki/index.m3u8
 #EXTINF:-1,HBO HD (Opcion 1)
 http://38.199.4.105:9999/play/a0lg/index.m3u8
-#EXTINF:-1,Canal 1164 (Opcion 1)
+#EXTINF:-1,DISCOVERY
 http://38.199.4.105:9999/play/a0lm/index.m3u8
-#EXTINF:-1,Canal 1186 (Opcion 1)
+#EXTINF:-1,,Canal 1187 (Opción 1)
 http://38.199.4.105:9999/play/a0mc/index.m3u8
-#EXTINF:-1,Canal 1187 (Opcion 1)
+#EXTINF:-1,ESPN 2
 http://38.199.4.105:9999/play/a0md/index.m3u8
-#EXTINF:-1,Canal 1193 (Opcion 1)
+#EXTINF:-1,TNT
 http://38.199.4.105:9999/play/a0mk/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://38.199.4.105:9999/play/a0ms/index.m3u8
@@ -1314,13 +1316,13 @@ http://38.199.4.105:9999/play/a0mx/index.m3u8
 http://38.199.4.105:9999/play/a0n3/index.m3u8
 #EXTINF:-1,Sun Channel HD
 http://38.199.4.105:9999/play/a0n4/index.m3u8
-#EXTINF:-1,Canal 1221 (Opcion 1)
+#EXTINF:-1,HISTORY
 http://38.199.4.105:9999/play/a0np/index.m3u8
-#EXTINF:-1,Canal 1222 (Opcion 1)
+#EXTINF:-1,TV+
 http://38.199.4.105:9999/play/a0nq/index.m3u8
-#EXTINF:-1,Canal 1233 (Opcion 1)
+#EXTINF:-1,Discovery science
 http://38.199.4.105:9999/play/a0nx/index.m3u8
-#EXTINF:-1,Canal 1245 (Opcion 1)
+#EXTINF:-1,CNN chile
 http://38.199.4.105:9999/play/a0o5/index.m3u8
 #EXTINF:-1,ESPN2 (Opcion 1)
 http://181.119.97.124:8080/play/a002/index.m3u8
@@ -1338,7 +1340,7 @@ http://181.119.97.124:8080/play/a005/index.m3u8
 http://181.119.97.124:8080/play/a00b/index.m3u8
 #EXTINF:-1,MakroDigital Television (Opcion 1)
 http://181.119.97.124:8080/play/a00p/index.m3u8
-#EXTINF:-1,Canal 1285 (Opcion 1)
+#EXTINF:-1,RETRO PLUS
 http://181.119.97.124:8080/play/a00t/index.m3u8
 #EXTINF:-1,EDS2 (Opcion 1)
 http://181.119.97.124:8080/play/a00v/index.m3u8
@@ -1350,9 +1352,9 @@ http://181.119.97.124:8080/play/a00w/index.m3u8
 http://181.205.205.173:8888/play/a0hd/index.m3u8
 #EXTINF:-1,DHE
 http://38.199.5.160:8000/play/a00f/index.m3u8
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1,ESPN 6 HD
 http://38.199.5.160:8000/play/a059/index.m3u8
-#EXTINF:-1,Canal 1332 (Opcion 1)
+#EXTINF:-1,TV GO
 http://38.199.5.160:8000/play/a05f/index.m3u8
 #EXTINF:-1,Telenovelas
 http://38.199.5.160:8000/play/a079/index.m3u8
@@ -1388,7 +1390,7 @@ http://38.199.5.160:8000/play/a03r/index.m3u8
 http://38.199.5.160:8000/play/a03w/index.m3u8
 #EXTINF:-1,HBO Signature
 http://38.199.5.160:8000/play/a06t/index.m3u8
-#EXTINF:-1,Canal 1361 (Opcion 1)
+#EXTINF:-1,SPACE
 http://38.199.5.160:8000/play/a03p/index.m3u8
 #EXTINF:-1,ESPN 7 HD
 http://38.199.5.160:8000/play/a07w/index.m3u8
@@ -1408,11 +1410,11 @@ http://38.199.5.160:8000/play/a09o/index.m3u8
 http://38.199.5.160:8000/play/a07m/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://38.199.5.160:8000/play/a0al/index.m3u8
-#EXTINF:-1,Canal 1372 (Opcion 1)
+#EXTINF:-1,Cartoon Network
 http://38.199.5.160:8000/play/a08k/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://38.199.5.160:8000/play/a05m/index.m3u8
-#EXTINF:-1,Canal 1375 (Opcion 1)
+#EXTINF:-1,DISCOVERY H&H
 http://38.199.5.160:8000/play/a08s/index.m3u8
 #EXTINF:-1,La Red HD
 http://38.199.5.160:8000/play/a09n/index.m3u8
@@ -1424,15 +1426,15 @@ http://38.199.5.160:8000/play/a09s/index.m3u8
 http://38.199.5.160:8000/play/a0ag/index.m3u8
 #EXTINF:-1,MEGA 2 HD
 http://38.199.5.160:8000/play/a0ai/index.m3u8
-#EXTINF:-1,Canal 1383 (Opcion 1)
+#EXTINF:-1,TNT Novelas
 http://38.199.5.160:8000/play/a0aj/index.m3u8
 #EXTINF:-1,NTV
 http://38.199.5.160:8000/play/a0ak/index.m3u8
-#EXTINF:-1,Canal 1385 (Opcion 1)
+#EXTINF:-1,HISTORY
 http://38.199.5.160:8000/play/a0ap/index.m3u8
-#EXTINF:-1,Canal 1386 (Opcion 1)
+#EXTINF:-1,DISCOVERY
 http://38.199.5.160:8000/play/a0an/index.m3u8
-#EXTINF:-1,Canal 1387 (Opcion 1)
+#EXTINF:-1,DISCOVERY WORLD
 http://38.199.5.160:8000/play/a0ao/index.m3u8
 #EXTINF:-1,TEVEX
 http://38.199.5.160:8000/play/a0as/index.m3u8
@@ -1446,9 +1448,9 @@ http://38.199.5.160:8000/play/a0bn/index.m3u8
 http://38.188.186.47:4000/play/a001/index.m3u8
 #EXTINF:-1,UNIVERSAL TV (Opcion 1)
 http://38.188.186.47:4000/play/a003/index.m3u8
-#EXTINF:-1,CINE PREMIUM (Opcion 2)
+#EXTINF:-1,FOX sports 2
 http://38.188.186.47:4000/play/a006/index.m3u8
-#EXTINF:-1,MOVIES PREMIUM 1 (Opcion 1)
+#EXTINF:-1,PICOSA TV
 http://38.188.186.47:4000/play/a007/index.m3u8
 #EXTINF:-1,FOX PREMIUM (Opcion 1)
 http://38.188.186.47:4000/play/a00c/index.m3u8
@@ -1508,7 +1510,7 @@ http://45.228.234.30:16000/play/a01u/index.m3u8
 http://45.228.234.30:16000/play/a01x/index.m3u8
 #EXTINF:-1,Canal 3 Telesistemas HND (Opcion 1)
 http://45.228.234.30:16000/play/a02u/index.m3u8
-#EXTINF:-1,Canal 1537 (Opcion 1)
+#EXTINF:-1,T0UDN
 http://45.228.234.30:16000/play/a02x/index.m3u8
 #EXTINF:-1,LIGA
 http://45.228.234.30:16000/play/a03h/index.m3u8
