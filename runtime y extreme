@@ -4,6 +4,16 @@
 https://live20.bozztv.com/giatvplayout7/giatv-209595/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 02
 https://live20.bozztv.com/giatvplayout7/giatv-209595/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="", dibujos animados
+https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="", anime
+https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="", películas animadas
+https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=",pelis
+https://live20.bozztv.com/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="",Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
