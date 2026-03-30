@@ -97,10 +97,10 @@ http://186.194.160.110:9002/play/a0gv/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpson
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
-🧟",Los Simpsons | Casita del Horror (LATAM)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWK0D1DX/24-7-thesimpsons.jpg",Los Simpsons | Classicos (LATAM)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg",Los Simpsons | Classicos (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg",los Simpson 
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 group-title="",Alf 24/7
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/28.m3u8
