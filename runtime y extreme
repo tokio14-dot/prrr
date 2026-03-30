@@ -116,10 +116,10 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Dragon ball Z
 https://live20.bozztv.com/giatv/giatv-dragonball/dragonball/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="",Dragon Ball  Super
+#EXTINF:-1 tvg-logo="",Dragon ball super
 http://186.194.160.110:9002/play/a0gv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/22/21/imgbin-el-chavo-del-ocho-logo-sitcom-television-show-comedy-others-cfmV7MN0y8ijg47aNWgmgWrD1.jpg", EL CHAVO DEL 8
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg", Los Simpson
