@@ -106,64 +106,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/peliplushd2025/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yv8XIGW.png", Canal 2 Alpavision
-https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png", Canal 8 TV+
-https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ODMa27W.jpg", Mas Television
-https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRqfJuj.png", Mundo Vision
-https://movil.ejeserver.com/live/mundovisiontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuQDwTt.jpeg", Canica TV
-https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png", Cali TV
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="", CNC Bugavision
-https://movil.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LNl2o9q.jpg", CNC Santander de Quilichao
-https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w35ICn7.png", CTV Barranquilla
-https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppBdqel.png", Eduvision
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cw5k96N.png", Frecuencia F
-https://tv.frecuenciaf.com/live/envivo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSbmQlu.png", Mi Gente TV
-https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYzFpZ.png", Oasis TV
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png", Red+
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png", Suram TV
-https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKHGRyk.png", Teleislas
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39hy97J.png", Telepacifico
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPwiJTw.png", TeveColombia
-https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLU4Tcu.png", TV San Jorge
-https://asucap.com/livestream/asucap_envivo.m3u8
-#EXTINF:-1 tvg-logo="", Rcn +
-https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png", Senal colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="", 90 minutos
-https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wNSUMhJ.png", Canal 14 Codazzi
-https://eu1.servers10.com:8081/8056/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png", Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HbWadhJ.png", Santa Marta TV
-https://stream.amelbasoluciones.co/live/santamartalive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xG2apUG.jpeg", Mundo Del Campo
-https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYsyNHZ.jpg", Canal 2 Yopal
-https://stream2.micanal2.tv/hls/canal2.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GltIfWW.jpeg", Cucuta Retro
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ohCSMhY.png", Memorias TV Series
@@ -208,32 +150,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpY9D2CxCFQn3cIjByC7Ef4bPYek6hUdnlkY6jcSb0g&s=10pcd9lFG", Toonami
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCVxFf2CKh0_Y7muwpxAvjllDNjgKqTIjpgjjfCqAuQ&s=10", Aztv
-http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1756618770", Teleanimania
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtFY0-R_wyrF6rNjf7CNqbRrLxpuBBrfDZ3_Fb1TeTzg&s=10", AMC
-https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Latino
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Films
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Spanyol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Cine & Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-
-
 
 
 
