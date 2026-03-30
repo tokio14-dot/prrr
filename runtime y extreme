@@ -41,10 +41,8 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/playlist.m3u8
 #EXTINF:-1 tvg-logo="", cine clasico
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-
 EXTINF:-1 tvg-logo="",Br-CineK
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-
 EXTINF:-1 tvg-logo="",retro plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 
@@ -179,11 +177,11 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Aurora Media film
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
 #EXTINF:-1 tvg-logo="", Neo tv
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="", Cine Plus
 https://live20.bozztv.com/akamaissh101/ssh101/peliplushd2025/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GltIfWW.jpeg", Cucuta Retro
 https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8
