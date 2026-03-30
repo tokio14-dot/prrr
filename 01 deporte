@@ -7,7 +7,15 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="", DSPORTS 🇦🇷
+http://201.230.121.186:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-logo="", DSPORTS 1 🇦🇷
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-logo="", DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="", DSPORTS 1 🇦🇷
+http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="DSPORTS (Todos)", DSPORTS (IP)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="DSPORTS (Todos)", DSPORTS (217.26)
