@@ -16,7 +16,8 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="",mega cine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="",jiocimema
+https://live20.bozztv.com/giatvplayout7/giatv-209622/playlist.m3u8
 #EXTINF:-1 tvg-logo="", cine clasico
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
