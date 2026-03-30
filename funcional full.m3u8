@@ -88,23 +88,23 @@ http://181.205.205.173:8888/play/a0sd/index.m3u8
 http://181.205.205.173:8888/play/a0gx/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 163)
 http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 164)
+#EXTINF:-1,ESPN 3
 http://181.205.205.173:8888/play/a0hk/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 168)
+#EXTINF:-1,40 AÑOS
 http://181.205.205.173:8888/play/a0h4/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 171)
+#EXTINF:-1,HISTORY
 http://181.205.205.173:8888/play/a0gp/index.m3u8
 #EXTINF:-1,Warner TV HD
 http://181.205.205.173:8888/play/a0gs/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 195)
+#EXTINF:-1,RETRO PLUS
 http://181.119.97.124:8080/play/a00d/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 196)
+#EXTINF:-1,RETRO PLUS 2
 http://181.119.97.124:8080/play/a00n/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 265)
+#EXTINF:-1,DISNEY jr
 http://38.199.5.160:8000/play/a091/index.m3u8
 #EXTINF:-1,CNN Espa�ol
 http://38.199.5.160:8000/play/a08u/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 269)
+#EXTINF:-1,WD deportes
 http://181.78.82.6:46090/play/a0e1/index.m3u8
 #EXTINF:-1,CARACOL HD 2
 http://181.78.82.6:46090/play/a05y/index.m3u8
@@ -114,25 +114,25 @@ http://181.78.82.6:46090/play/a05v/index.m3u8
 http://181.78.82.6:46090/play/a00f/index.m3u8
 #EXTINF:-1,CARACOL TV HD
 http://181.78.82.6:46090/play/a05x/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 300)
+#EXTINF:-1,star tp
 http://38.250.127.17:9800/play/a0c3/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 304)
+#EXTINF:-1,DISCOVERY WORLD
 http://38.250.127.17:9800/play/a0bq/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 305)
+#EXTINF:-1, NICKELODEON 
 http://38.250.127.17:9800/play/a0bw/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 308)
+#EXTINF:-1,HBO Signature 
 http://38.199.4.105:9999/play/a0im/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 311)
+#EXTINF:-1,BBC News
 http://38.199.4.105:9999/play/a0ig/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 313)
+#EXTINF:-1,HISTORY
 http://38.250.127.17:9800/play/a09v/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 314)
+#EXTINF:-1,DISCOVERY THEATER
 http://38.199.4.105:9999/play/a0hv/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 316)
+#EXTINF:-1,13
 http://38.199.4.105:9999/play/a0mu/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 317)
 http://38.250.127.17:9800/play/a07e/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 318)
+#EXTINF:-1,DISCOVERY ARG
 http://38.250.127.17:9800/play/a0bp/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 322)
 http://38.199.4.105:9999/play/a0i5/index.m3u8
@@ -192,39 +192,39 @@ http://38.199.4.105:9999/play/a0lu/index.m3u8
 http://38.199.4.105:9999/play/a0ie/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 365)
 http://38.199.4.105:9999/play/a0o2/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 366)
+#EXTINF:-1,COMEDY CENTRAL ARG
 http://38.250.127.17:9800/play/a09x/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 367)
+#EXTINF:-1,TELEMUNDO INTERNACIONAL ARG
 http://38.199.4.105:9999/play/a0nz/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 368)
+#EXTINF:-1,HBO ARG
 http://38.199.4.105:9999/play/a0o4/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 369)
+#EXTINF:-1, 13 ARG
 http://38.199.4.105:9999/play/a0ih/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 371)
+#EXTINF:-1,FOOD
 http://38.199.4.105:9999/play/a0nt/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 374)
+#EXTINF:-1,HISTORY
 http://38.199.4.105:9999/play/a0mi/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 375)
+#EXTINF:-1, DISCOVERY H&H
 http://38.199.4.105:9999/play/a0nl/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 376)
+#EXTINF:-1,DISCOVERY WORLD
 http://38.199.4.105:9999/play/a0my/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 377)
+#EXTINF:-1,D Pelicula
 http://147.135.114.221:8001/play/a008/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 378)
+#EXTINF:-1,MAC TV
 http://147.135.114.221:8001/play/a006/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 379)
+#EXTINF:-1,LIGA 1
 http://147.135.114.221:8001/play/a00n/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 382)
+#EXTINF:-1,P
 http://38.199.4.105:9999/play/a0ic/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 383)
+#EXTINF:-1,HBO 2 ARG
 http://181.13.252.102:8000/play/a06q/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 385)
+#EXTINF:-1, NICKELODEON ARG
 http://181.13.252.102:8000/play/a04z/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 386)
+#EXTINF:-1,canal G glamour ARG
 http://181.13.252.102:8000/play/a06w/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 387)
+#EXTINF:-1,C5N ARG
 http://181.13.252.102:8000/play/a01p/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 388)
+#EXTINF:-1,FILM&ART ARG
 http://181.13.252.102:8000/play/a030/index.m3u8
 #EXTINF:-1,CRONICA ARG
 http://181.13.252.102:8000/play/a01q/index.m3u8
