@@ -2,7 +2,8 @@
 
 
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="",Box Cinema
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="",pelis imfantiles
@@ -63,7 +64,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 
-
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Terror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Crimen
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
 
 
 #EXTM3U
