@@ -110,7 +110,7 @@ http://m3u.tvcluboficial.com/Reach.Bot/p6C/85.m3u8
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/43.m3u8
 #EXTINF:-1 group-title="",BitMe
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/92.m3u8
-#EXTINF:-1 group-title="2",Bob Esponja 24/7
+#EXTINF:-1 group-title="",Bob Esponja 24/7
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/96.m3u8
 #EXTINF:-1 group-title="",Breaking Bad 24/7
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/98.m3u8
@@ -118,9 +118,9 @@ http://m3u.tvcluboficial.com/Reach.Bot/p6C/98.m3u8
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/100.m3u8
 #EXTINF:-1 group-title="",Calabozos y Dragones 24/7
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/103.m3u8
-#EXTINF:-1 tvg-id="LosSimpsons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Simpsons_FX_logo.png" group-title="24/7",Los Simpson 24/7 OP 2
+#EXTINF:-1 tvg-id="LosSimpsons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Simpsons_FX_logo.png",Los Simpson 24/7 OP 2
 http://45.225.68.1:8532/Live/774f233b87b8fd8e42dd2bae426c6f9f/online-24-7.playlist.m3u8
-#EXTINF:-1 tvg-id="LosSimpsons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Simpsons_FX_logo.png" group-title="24/7",Los Simpson 24/7 OP 3
+#EXTINF:-1 tvg-id="LosSimpsons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Simpsons_FX_logo.png",Los Simpson 24/7 OP 3
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Yu-Gi-Oh%21_%28Logo%29.jpg", Yu Gi Oh
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
