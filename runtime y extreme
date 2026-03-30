@@ -128,9 +128,12 @@ http://m3u.tvcluboficial.com/Reach.Bot/p6C/98.m3u8
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/100.m3u8
 #EXTINF:-1 group-title="",Calabozos y Dragones 24/7
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/103.m3u8
-
 #EXTINF:-1 tvg-logo="", Yu Gi Oh
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="",el galáctico 
+https://live20.bozztv.com/giatvplayout7/giatv-210701/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="", Zona De Accion
 https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
