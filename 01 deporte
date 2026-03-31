@@ -2,6 +2,41 @@
 
 
 #EXTM3U
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (POL)
+http://79.127.207.193/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (POL)
+http://79.127.207.193/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (POL) (Alt)
+http://79.127.207.193/Eurosport1HD/mpegts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (POL) (Alt)
+http://79.127.207.193/Eurosport2HD/mpegts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 🇷🇺
+http://176.96.241.40/Eurosport1/playlist.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 🇷🇺
+http://176.96.241.40/Eurosport2/playlist.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (FR)
+http://151.80.18.177:86/Eurosport_HD/playlist.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (FR)
+http://151.80.18.177:86/Eurosport_2_HD/playlist.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (FR) (Alt)
+http://151.80.18.177:86/Eurosport_HD/mpegts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (FR) (Alt)
+http://151.80.18.177:86/Eurosport_2_HD/mpegts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport (ESP)
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/143.ts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (ESP)
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/144.ts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (GBR)
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 Portugal
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/911.ts
+#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 Portugal
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/910.ts
+
+
+
+
+#EXTM3U
 #EXTINF:-1 group-title="DEPORTES", ID: Sportstar 1 (alpha5)
 http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=ts
 #EXTINF:-1 group-title="DEPORTES", ID: BEINSPORTS 3_alpha5
