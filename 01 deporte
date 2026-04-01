@@ -69,8 +69,6 @@ http://45.5.117.57:8999/play/a0ef/index.m3u8
 http://190.60.37.118:4000/play/a0bw
 #EXTINF:-1 group-title="DEPORTES", Win1
 http://190.60.37.118:4000/play/a0b2
-#EXTINF:-1 group-title="DEPORTES", TyC SPORTS
-http://205.235.6.29:8000/play/a0oi/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", DSports
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", HGTV
@@ -125,129 +123,16 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 http://kstv.us:8080/live/N427DpynGE/7049166651/46401.ts
 #EXTINF:-1 group-title="DEPORTES", US | Bein Sports
 http://kstv.us:8080/live/N427DpynGE/7049166651/15922.ts
-#EXTINF:-1 group-title="DEPORTES", US | Bein Sports En Español''
-http://kstv.us:8080/live/N427DpynGE/7049166651/46352.ts
 #EXTINF:-1 group-title="DEPORTES", US | Bein Sports Xtra
 http://kstv.us:8080/live/N427DpynGE/7049166651/48383.ts
 #EXTINF:-1 group-title="DEPORTES", US | ESPN HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/15951.ts
-#EXTINF:-1 group-title="DEPORTES", US | ESPN 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/15950.ts
-#EXTINF:-1 group-title="DEPORTES", US | ESPN U
-http://kstv.us:8080/live/N427DpynGE/7049166651/22536.ts
-#EXTINF:-1 group-title="DEPORTES", US | ESPN U HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/15949.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47106.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47107.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN 2 MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47097.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN 2 MEXICO FHD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47098.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN NETWORK MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47108.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN PLUS MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47109.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN PLUS MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN U MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47113.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN U MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47114.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN 2 SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47099.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN 2 SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47100.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN 3 SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47103.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | ESPN 3 SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
-#EXTINF:-1 group-title="DEPORTES", LAT-A | TYC SPORTS (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
-#EXTINF:-1 group-title="DEPORTES", US | Fox Sports 1
-http://kstv.us:8080/live/N427DpynGE/7049166651/22526.ts
-#EXTINF:-1 group-title="DEPORTES", US | Fox Sports 1 HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/15948.ts
-#EXTINF:-1 group-title="DEPORTES", US | Fox Sports 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/22525.ts
-#EXTINF:-1 group-title="DEPORTES", US | Fox Sports 2 HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/15947.ts
-#EXTINF:-1 group-title="DEPORTES", LAT-A | FOX SPORTS PREMIUM (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
-#EXTINF:-1 group-title="DEPORTES", LAT-A | FOX SPORTS PREMIUM HD (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46728.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | Fox Sports 1 Premium Chile
-http://kstv.us:8080/live/N427DpynGE/7049166651/47117.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47127.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47128.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 2 MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47118.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 2 MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 3 MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47122.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 3 MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47123.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS PREMIUM
-http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47130.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47131.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 2 SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47120.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 2 SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47121.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 3 SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47124.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | FOX SPORTS 3 SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47125.ts
-#EXTINF:-1 group-title="DEPORTES", US | FOX DEPORTES
-http://kstv.us:8080/live/N427DpynGE/7049166651/23316.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | TUDN
-http://kstv.us:8080/live/N427DpynGE/7049166651/47140.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | CLARO SPORTS
-http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | DIRECTV SPORTS
-http://kstv.us:8080/live/N427DpynGE/7049166651/47092.ts
-#EXTINF:-1 group-title="DEPORTES", DEPORTES | DIRECTV SPORTS 2 HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
-#EXTINF:-1 group-title="DEPORTES", Mundial Unitel
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Mundial Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Mundial Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="DEPORTES", Mundial Telemundo2
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Mundial Las estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rN0vNMn.png"group-title="BeIN Sports",beIN Sports XTRA ñ
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rN0vNMn.png"group-title="BeIN Sports",beIN Sports XTRA
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png", BEIN SPORTS 1 AU
-https://wahyu1ptv.pages.dev/AstroBein1.m3u8
 #EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png", BEIN SPORTS 1 AU
 https://wahyu1ptv.pages.dev/AstroBein2.m3u8
 #EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png", BEIN SPORTS 1 AU
 https://wahyu1ptv.pages.dev/AstroBein3.m3u8
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png", BEIN Sports 1 1080P
-https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png", BEIN Sports 2 1080P
-https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png", BEIN Sports 3 1080P
-https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png", BEIN Sports 4 1080P
-https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
-#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://d.top4top.io/p_3339nvbfo1.png", BEIN Sports 5 1080P
-https://corestream.ronaldovurdu.help//hls/bein-sports-5.m3u8
 #EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://i.imgur.com/TybQZQS.png", RTI 1 (1080p)
 http://69.64.57.208:8080/rti1/playlist.m3u8
 #EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://i.imgur.com/73ueXrp.png", RTI 2 (1080p)
@@ -255,8 +140,6 @@ http://69.64.57.208:8080/rti2/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 group-title="DSPORTS (Todos)" tvg-logo="", DSPORTS 🇦🇷
-http://201.230.121.186:8000/play/a0od/index.m3u8
 
 #EXTINF:-1 group-title="DSPORTS (Todos)" tvg-logo="", DSPORTS 1 🇦🇷
 http://201.230.121.85:8000/play/a0yv/index.m3u8
@@ -272,8 +155,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
 http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png" group-title="DSPORTS (Todos)", DSPORTS (IP Backup)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3574401799
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DSPORTS (Respaldo)
-http://190.108.89.228:8000/play/a05w/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png" group-title="DSPORTS (Todos)", DSPORTS (190.117)
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DSPORTS (OP 3)
@@ -290,10 +172,6 @@ http://190.238.43.117:8000/play/a09f/index.m3u8
 http://190.238.43.117:8000/play/a09g/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DSports (DEPORTES.AR)
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DIRECTV SPORT 2
-http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8530.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DIRECTV SPORT plus
-http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8489.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", Directv Sports 1 (ARG)
 http://tv.zapping.life:8080/mayleenfunez1/135535683598/9560
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", Directv Sports 2 ARG (Z)
@@ -302,10 +180,6 @@ http://tv.zapping.life:8080/mayleenfunez1/135535683598/9567
 http://tv.zapping.life:8080/mayleenfunez1/135535683598/9566
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", Directv Sports Fight
 http://tv.zapping.life:8080/mayleenfunez1/135535683598/9568
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DSPORTS (DIRECTV)
-http://liketv.pro:80/User1626/28TM4MEU66/131.m3u8
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="DSPORTS (Todos)", DSPORTS (DIRECTV Backup)
-http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports+.png" group-title="DSPORTS (Todos)", DSPORTS + (Deportes)
 http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jul466/an/refs/heads/main/Logos/Deportes/dsports.png" group-title="DSPORTS (Todos)", D$PORTS 2 HD
@@ -343,8 +217,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-03.playl
 #EXTINF:-1 tvg-logo="" group-title="premium",Evento 4
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04.playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="premium",Evento 5
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-05.playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="premium",Evento 6
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-06.playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="premium",TyC Sports
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
@@ -358,37 +230,16 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playl
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="premium",ESPN 4
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 3
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 2
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 5
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="premium",ESPN 7
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-106.playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN
 http://38.44.109.41:8003/play/a03x/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN2
 http://38.44.109.41:8003/play/a03u/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN3
 http://38.44.109.41:8003/play/a03v/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPNPremium
 http://38.44.109.41:8003/play/a03y/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", TyC Sports
-http://200.112.174.230/mtcast_tychd/mpegts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN Premium
-http://46.225.94.157/hls/espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", TNT Sports
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN
-http://46.225.94.157/hls/espn/index.m3u8
 
 
 
@@ -424,15 +275,19 @@ http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN DISNEY PREMIUM HD
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", TUDN3
-http://45.5.119.43:4000/play/a05q/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DSports
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DIRECTV DEPORTES
-http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/9568.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DIRECTV SPORT 2
 http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8530.m3u8
@@ -543,92 +398,14 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN3HD
-http://181.78.82.6:46090/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN6HD
-http://181.78.82.6:46090/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN DISNEY PREMIUM HD
-http://205.235.6.29:8000/play/a0pz/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN DISNEY PREMIUM HD
-http://205.235.6.29:8000/play/a0pz/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", TUDN3
-http://45.5.119.43:4000/play/a05q/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DSports
-http://205.235.6.29:8000/play/a0nq/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN PREMIIUM
-http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DIRECTV DEPORTES
-http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/9568.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DIRECTV SPORT plus
-http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8489.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", BRASIL | ESPN 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/46446.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", BRASIL | ESPN BRASIL HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/46447.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN PLUS MEXICO
-http://kstv.us:8080/live/N427DpynGE/7049166651/47109.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN PLUS MEXICO HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47111.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 2 SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47099.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 2 SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47100.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 3 SUR
-http://kstv.us:8080/live/N427DpynGE/7049166651/47103.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 3 SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", LAT-A | TYC SPORTS (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", LAT-A | TYC SPORTS 1 (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46749.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", BRASIL | FOX SPORTS HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/46453.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", LAT-A | ESPN PREMIUM (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", LAT-A | ESPN PREMIUM HD (ARGENTINA)
-http://kstv.us:8080/live/N427DpynGE/7049166651/46728.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | FOX SPORTS PREMIUM
-http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | FOX SPORTS SUR HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47131.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", US | FOX DEPORTES
-http://kstv.us:8080/live/N427DpynGE/7049166651/23316.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | CLARO SPORTS
-http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | DIRECTV SPORTS HD
-http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | DIRECTV SPORTS 2
-http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | DIRECTV SPORTS 2 HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
