@@ -39,7 +39,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/playlist.m3u8
 #EXTINF:-1 tvg-logo="", cine clasico
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-logo="",Br-CineK
-EXTINF://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="",retro plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 
