@@ -18,10 +18,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 #EXTINF:-1 tvg-logo="",apanines
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
 
 
 #EXTINF:-1 tvg-logo="",Box Cinema
@@ -42,9 +38,9 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/playlist.m3u8
 #EXTINF:-1 tvg-logo="", cine clasico
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-EXTINF:-1 tvg-logo="",Br-CineK
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-EXTINF:-1 tvg-logo="",retro plus
+#EXTINF:-1 tvg-logo="",Br-CineK
+EXTINF://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="",retro plus
 https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w1351996930.m3u8?PlaylistM3UCL
 
 
