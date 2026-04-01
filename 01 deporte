@@ -26,12 +26,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/910.ts
 
 
 #EXTM3U
-#EXTINF:-1 group-title="DEPORTES", ID: Sportstar 1 (alpha5)
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919398&extension=ts
-#EXTINF:-1 group-title="DEPORTES", ID: BEINSPORTS 3_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919470&extension=ts
-#EXTINF:-1 group-title="DEPORTES", ID: BEINSPORTS 5_alpha5
-http://alpha5-bx.me/play/live.php?mac=00:1A:79:00:04:10&stream=1919468&extension=ts
+
 #EXTINF:-1 group-title="DEPORTES", ESPN2HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN3HD
@@ -64,18 +59,12 @@ http://45.5.117.57:8999/play/a05m/index.m3u8
 http://45.5.117.57:8999/play/a05n/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox SPORTS 2
 http://45.5.117.57:8999/play/a058/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox SPORTS 3
-http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Sky SPORTS Bundesliga
 http://45.5.117.57:8999/play/a0f2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN
 http://45.5.117.57:8999/play/a04t/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN2
 http://45.5.117.57:8999/play/a0ef/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", 5
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN3
-http://45.5.119.43:4000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", Win2
 http://190.60.37.118:4000/play/a0bw
 #EXTINF:-1 group-title="DEPORTES", Win1
