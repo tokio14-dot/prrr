@@ -2,18 +2,7 @@
 
 
 
-#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (POL)
-http://79.127.207.193/Eurosport1HD/playlist.m3u8
-#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (POL)
-http://79.127.207.193/Eurosport2HD/playlist.m3u8
-#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (POL) (Alt)
-http://79.127.207.193/Eurosport1HD/mpegts
-#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (POL) (Alt)
-http://79.127.207.193/Eurosport2HD/mpegts
-#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 🇷🇺
-http://176.96.241.40/Eurosport1/playlist.m3u8
-#EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 🇷🇺
-http://176.96.241.40/Eurosport2/playlist.m3u8
+
 #EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (FR)
 http://151.80.18.177:86/Eurosport_HD/playlist.m3u8
 #EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (FR)
