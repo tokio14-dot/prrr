@@ -700,7 +700,7 @@ http://185.57.68.33/110/mpegts
 http://185.57.68.33:8091/110/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", МАТЧ! ФУТБOЛ 3HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.18:1234
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", МАТЧ! ФУТБOЛ 3HD 🇷🇺
+#EXTINF:-1 group-title=https ttpsttpsSPORTS" tvg-logo="", МАТЧ! ФУТБOЛ 3HD 🇷🇺
 http://cdntv.online/low/9mlxywika2/57.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", Футбол 3 (SD) 🇷🇺
 http://185.57.68.33:80/110/index.m3u8
@@ -892,22 +892,22 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://7sport.sk/wp-content/uploads/2023/02/sport1-300x150.png", Sport 1 SK
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", Unknown
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png", Nova Sport 1
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+
+
+
 #EXTINF:-1 group-title="SPORTS" SPORTS="https://r2.thesportsdb.com/images/media/channel/logo/gymhfv1649341436.png", Nova Sport 2
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
 https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg", SPORTV 1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg", SPORTV 2
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/736x/e2/e5/61/e2e561274ae8c25214c4088b9a7c692e.jpg", SPORTV 3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/236x/9a/75/e2/9a75e2c98a67c6c67adc64211cb342cf.jpg", FX SPORTS 2
