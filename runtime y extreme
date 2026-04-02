@@ -1,6 +1,4 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="",prueba
+INFANTILEXTINF:-1 tvg-logo="",prueba
 https://cu.animeheaven.me/video.mp4?1455db037f49cc515027fa5a1f6a9aab&d
 #EXTINF:-1 tvg-logo="", pelis 01
 https://live20.bozztv.com/giatvplayout7/giatv-209595/playlist.m3u8
@@ -131,9 +129,9 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 http://45.225.68.1:8532/Live/774f233b87b8fd8e42dd2bae426c6f9f/online-24-7.playlist.m3u8
 #EXTINF:-1 tvg-id="LosSimpsons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg",Los Simpson OP 2
 hhttp://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7.playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png", LOS SIMPSONSONSIMPSONSS
+OSttp://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="", LOS SIMPSONS
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
 
