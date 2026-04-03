@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="",versa
-https://olimpotorrent.net/movies/versa/
+
 #EXTINF:-1 tvg-logo="", pelis 01
 https://live20.bozztv.com/giatvplayout7/giatv-209595/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 02
