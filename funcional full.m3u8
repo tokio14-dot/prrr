@@ -49,15 +49,20 @@ http://181.205.205.173:8888/play/a0fz/index.m3u8
 http://45.228.234.30:16000/play/a003/index.m3u8
 
 
-
+#EXTINF:-1,CLARO Sports
+http://38.199.4.105:9999/play/a0m2/index.m3u8
 #EXTINF:-1,Claro sports MX
 http://45.228.234.30:16000/play/a03t/index.m3u8
+#EXTINF:-1,ESPN 3 ARG
+http://38.250.127.17:9800/play/a0bh/index.m3u8
 #EXTINF:-1,ESPN 3
 http://190.60.32.178:8178/play/a015/index.m3u8
 #EXTINF:-1,ESPN 3
 http://181.205.205.173:8888/play/a0hk/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://181.205.205.173:8888/play/a0gv/index.m3u8
+#EXTINF:-1,ESPN 5 AR
+http://38.250.127.17:9800/play/a0bs/index.m3u8
 #EXTINF:-1,ESPN 7
 http://181.205.205.173:8888/play/a0ho/index.m3u8
 
@@ -146,62 +151,50 @@ http://38.250.127.17:9800/play/a0c9/index.m3u8
 http://38.250.127.17:9800/play/a0ca/index.m3u8
 #EXTINF:-1, ESTUDIO UNIVEESAL
 http://38.250.127.17:9800/play/a0cg/index.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,
-http://38.250.127.17:9800/play/a0bs/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 331)
+#EXTINF:-1,animal planet
 http://38.250.127.17:9800/play/a09t/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 332)
 http://38.250.127.17:9800/play/a0al/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 334)
+#EXTINF:-1,HBO ARG
 http://38.250.127.17:9800/play/a08w/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 338)
+#EXTINF:-1,FOOD 
 http://38.250.127.17:9800/play/a09q/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 339)
+#EXTINF:-1,H&H Discovery
 http://38.250.127.17:9800/play/a0bc/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 340)
+#EXTINF:-1,film&art SD 
 http://38.250.127.17:9800/play/a0bm/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 342)
+#EXTINF:-1,CNN ARG
 http://38.250.127.17:9800/play/a0b0/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 345)
+#EXTINF:-1,film&art HD 
 http://38.250.127.17:9800/play/a07f/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 347)
+#EXTINF:-1,CD NOTICIAS 
 http://38.250.127.17:9800/play/a05h/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 349)
+#EXTINF:-1,USA NOTICIAS
 http://38.250.127.17:9800/play/a0c6/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 350)
+#EXTINF:-1,CANAL D Drama
 http://38.250.127.17:9800/play/a076/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 351)
-http://38.250.127.17:9800/play/a0bh/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 352)
+
+
+#EXTINF:-1,film & art ARG
 http://38.250.127.17:9800/play/a0c5/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 353)
-http://38.199.4.105:9999/play/a0m2/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 355)
+
+#EXTINF:-1,Mundo
 http://38.199.4.105:9999/play/a0o7/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 357)
+#EXTINF:-1,24 horas central
 http://38.199.4.105:9999/play/a0ns/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 358)
+#EXTINF:-1,FRANCE 24
 http://38.199.4.105:9999/play/a0ip/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 359)
+#EXTINF:-1,A&E
 http://38.250.127.17:9800/play/a09w/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 360)
+#EXTINF:-1,EURO CHANNEL
 http://38.199.4.105:9999/play/a0lt/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 361)
+#EXTINF:-1,H2 HISTORY 
 http://38.250.127.17:9800/play/a078/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 363)
+#EXTINF:-1,EWTN
 http://38.199.4.105:9999/play/a0lu/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 364)
+#EXTINF:-1,RPP
 http://38.199.4.105:9999/play/a0ie/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 365)
+#EXTINF:-1,EWTN
 http://38.199.4.105:9999/play/a0o2/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL ARG
 http://38.250.127.17:9800/play/a09x/index.m3u8
@@ -269,7 +262,7 @@ http://181.13.252.102:8000/play/a02z/index.m3u8
 http://181.13.252.102:8000/play/a06n/index.m3u8
 #EXTINF:-1,FOX SPORTS 2 ARG
 http://181.13.252.102:8000/play/a05c/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 407)
+#EXTINF:-1,el nueve ARG
 http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1,VOLVER ARG
 http://181.13.252.102:8000/play/a021/index.m3u8
@@ -277,15 +270,15 @@ http://181.13.252.102:8000/play/a021/index.m3u8
 http://181.13.252.102:8000/play/a02k/index.m3u8
 #EXTINF:-1,ESPN PREMIUM ARG
 http://181.13.252.102:8000/play/a078/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 411)
+#EXTINF:-1,BABYFIRST
 http://38.199.4.105:9999/play/a0m6/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 412)
+#EXTINF:-1,EVANGELIO
 http://181.13.252.102:8000/play/a0bj/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 413)
+#EXTINF:-1,HBO MUNDIÑ
 http://181.13.252.102:8000/play/a02a/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 415)
+#EXTINF:-1,AMERICA ARG
 http://181.13.252.102:8000/play/a055/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 417)
+#EXTINF:-1,CIUDAD magazine 
 http://181.13.252.102:8000/play/a02h/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 418)
 http://181.13.252.102:8000/play/a076/index.m3u8
