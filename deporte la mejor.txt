@@ -1,0 +1,725 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Golf HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5043/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Premier League HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport News HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2477/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport F1 DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport F1 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19022/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport F1 FHD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/10079/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Mix HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5039/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 1 FHD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2478/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 2 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2479/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Austria 1 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2492/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Austria 2 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6113/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport UHD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19044/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 1 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19028/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 3 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19030/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 4 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19031/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 5 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 6 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19033/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 7 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19034/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 8 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19035/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 9 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19036/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport 10 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19037/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 1 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 2 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7234/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 3 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7235/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 5 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7237/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 6 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7238/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 7 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7239/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 8 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7240/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 9 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7241/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sky Sport Bundesliga 9 FHD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6097/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sportdigital 1+ HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19023/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sportdigital Fussball HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",DAZN 1 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",DAZN 2 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19043/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Sport 1 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2503/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Motorvision TV DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6112/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Eurosport 360 HD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19040/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nr3dtwyv/Picsart-26-01-03-14-24-35-679.jpg",Eurosport 1 FHD DE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15179/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",RMC Sport 1 HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2545/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",RMC Sport 2 HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2546/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",RMC Sport 3 HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2547/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",beIN Sports 1 HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2499/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",beIN Sports 2 HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",beIN Sports 3 HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2501/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",Canal+ Sport HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2502/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1k1t3f3/Picsart-26-01-03-14-31-06-893.jpg",Infosport+ HD FR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2544/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport F1 HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19105/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport 24 FHD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport 24 HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19127/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport Calcio HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19113/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport Arena HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19128/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport Golf HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19132/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sky Sport MotoGP HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19133/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Sportitalia Plus HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19108/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Rai Sport HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Eurosport 2 HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19116/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Super Tennis IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19136/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Super Tennis HD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19111/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhhYqBQQ/Picsart-26-01-03-14-34-03-492.jpg",Super Tennis FHD IT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6079/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV+ HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31590/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Canal 11 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31592/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 1 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2525/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 2 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2526/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 3 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2527/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 4 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2528/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 5 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2529/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sportnig TV FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2530/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 1 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2531/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 2 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2532/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 5 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2534/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 5 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2535/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 6 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2536/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 3 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7062/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 1 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19158/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Benfica TV FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19160/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV+ FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31941/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 1 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31942/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 2 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31943/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 3 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31944/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 4 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31945/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 5 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31946/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 6 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31947/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sport TV 7 FHD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31948/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Eurosport 1 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31949/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Eurosport 2 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31950/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",A Bola TV HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31951/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Benfica TV HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31952/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",Sporting TV HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31953/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 1 PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31954/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 2 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31955/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 3 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31956/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 4 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31957/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",DAZN 5 HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31958/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfd6NvTb/Picsart-26-01-03-14-36-38-346.jpg",FightBox HD PT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31961/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Tennis HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6546/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Racing HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9335/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Racing HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7341/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Premier League HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9334/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Premier League HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7335/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Mix HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9310/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Mix HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7339/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Main Event HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9308/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Main Event HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7337/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Golf HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9293/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Golf HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7344/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Football HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9289/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Football HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7336/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports F1 HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9283/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports F1 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7342/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Cricket HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9258/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Cricket HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7343/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Action HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9155/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports Action HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7340/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Sky Sports+ HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9248/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Premier Sports 1 HD 50 UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2160/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",TNT Sports 1 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6566/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",TNT Sports 1 FHD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2505/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",TNT Sports 2 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2506/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",TNT Sports 3 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6564/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",TNT Sports 4 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19054/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Premier Sports 1 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6555/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sx1fNMtx/Picsart-26-01-03-14-39-35-803.jpg",Eurosport 2 HD UK
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6556/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfCFrNY/Picsart-26-01-03-14-41-52-376.jpg",Tring Sport 1 HD AL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31563/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfCFrNY/Picsart-26-01-03-14-41-52-376.jpg",Tring Sport 2 HD AL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31564/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfCFrNY/Picsart-26-01-03-14-41-52-376.jpg",Tring Sport 3 HD AL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31565/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 1 HD QA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6123/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 3 HD QA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6124/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 4 HD QA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6125/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 5 HD QA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6126/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 6 HD QA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6127/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhqnn4L9/Picsart-26-01-03-14-44-00-721.jpg",beIN Sports 7 HD QA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6128/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 1 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7329/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 1 FHD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7263/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 2 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7330/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 2 FHD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 3 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7331/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 3 FHD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7265/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 4 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7332/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 4 FHD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7266/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 5 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7333/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 5 FHD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7267/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 6 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7334/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Arena Sport 6 FHD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7268/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 1 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7269/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 2 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7270/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 3 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7271/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 4 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7272/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 5 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7273/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 6 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7274/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 7 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7275/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub 8 HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7276/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub Golf HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7277/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htntzy6Q/Picsart-26-01-03-14-46-19-250.png",Sport Klub Fight HD HR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7278/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cytavision Sports 1 GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31572/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cytavision Sports 2 GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31573/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cytavision Sports 3 GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31574/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cytavision Sports 5 GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31575/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cytavision Sports 6 GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31576/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cytavision Sports 7 GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31577/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 1 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31578/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 2 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31579/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 3 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31581/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 4 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31582/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 5 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31583/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 6 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31584/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 7 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31585/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 8 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31586/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport 9 HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31587/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRzSGYyJ/Picsart-26-01-03-14-51-19-688.jpg",Cosmote Sport Highlights HD GR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31588/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",Ziggo Sport HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2560/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",Ziggo Sport 2 HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2561/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",Ziggo Sport 3 HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2559/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",ESPN 1 HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19201/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",ESPN 2 HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19202/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",ESPN 3 HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19203/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63WZr6Pq/Picsart-26-01-03-14-53-59-680.jpg",ESPN 4 HD NL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19204/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Eleven Sports 1 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2518/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Eleven Sports 2 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2517/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport 1 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7296/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport 2 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7310/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport 3 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7303/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Premium 1 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7304/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Premium 2 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7305/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Extra 1 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7308/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Extra 2 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7309/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Extra 3 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7306/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Extra 4 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7307/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Polsat Sport Fight HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7311/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Canal+ Sport HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6098/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Canal+ Sport 2 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6099/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Canal+ Sport 5 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2519/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",TVP Sport HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2520/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Eurosport 1 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20058/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TPC1XVkQ/Picsart-26-01-03-14-56-10-325.jpg",Eurosport 2 HD PL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20066/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4TpQ9bY/Picsart-26-01-03-15-02-10-282.jpg",Nova Sport 1 HD CZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2555/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4TpQ9bY/Picsart-26-01-03-15-02-10-282.jpg",Nova Sport 2 HD CZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2556/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4TpQ9bY/Picsart-26-01-03-15-02-10-282.jpg",Nova Sport 3 HD CZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31570/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4TpQ9bY/Picsart-26-01-03-15-02-10-282.jpg",Nova Sport 4 HD CZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31571/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4TpQ9bY/Picsart-26-01-03-15-02-10-282.jpg",ČT sport HD CZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2551/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4TpQ9bY/Picsart-26-01-03-15-02-10-282.jpg",Sport 2 HD CZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2557/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBnRTY1/Picsart-26-01-03-15-04-15-983.jpg",DIGI Sport 1 HD RO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2523/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBnRTY1/Picsart-26-01-03-15-04-15-983.jpg",DIGI Sport 2 HD RO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2522/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBnRTY1/Picsart-26-01-03-15-04-15-983.jpg",DIGI Sport 3 HD RO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2524/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBnRTY1/Picsart-26-01-03-15-04-15-983.jpg",DIGI Sport 4 HD RO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2538/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMBnRTY1/Picsart-26-01-03-15-04-15-983.jpg",Sport Extra HD RO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31595/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Esport HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31597/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Fight HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31598/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Premium 1 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31599/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Premium 2 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31600/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Premium 3 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31601/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 1 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31602/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 3 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31603/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Premium 3 RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31604/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 4 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31605/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 5 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31606/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 6 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31607/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 7 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31608/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 8 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31609/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 9 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31610/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJtKr60r/Picsart-26-01-03-15-06-17-564.jpg",Arena Sport 1x2 HD RS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31611/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Football SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/11110/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Football HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Vinter SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/11111/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Vinter HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12078/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Motor HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12033/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Golf SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12077/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Ultra HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19163/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Extra SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12074/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",V Sport Premium SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12079/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",TV4 Sportkanalen HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12035/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",Eurosport 1 HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12047/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",Eurosport 2 HD SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12048/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",TV3 Sport SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/12100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKxxyg0n/Picsart-26-01-03-15-09-24-703.jpg",ViaPlay Football SE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5078/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",beIN Sports Max 1 FHD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19062/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",beIN Sports Max 2 HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19066/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",beIN Sports Max 2 FHD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19063/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",beIN Sports Haber HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19064/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",TRT Spor TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19067/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",TRT Spor HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19072/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",TRT Spor FHD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19068/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",A Spor HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19069/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",Spor Smart HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20060/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",Spor Smart 2 HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19073/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",Tivibu Spor 1 HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19074/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2n4KLSZ/Picsart-26-01-03-15-11-15-557.jpg",Tivibu Spor 3 HD TR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19076/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",Fox Sports 1 HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7322/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",Fox Sports 2 HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7323/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",Fox Sports Racing US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19144/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",ESPNews US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19154/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",ESPN HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19156/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",ESPN 2 HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19155/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",Outdoor Channel HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/119/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",CBS Sports Network HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7324/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",NBC Sports Network HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7327/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",NHL Network HD US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7328/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",FanDuel Sports North US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19152/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrPZdThQ/Picsart-26-01-03-15-13-07-764.jpg",FanDuel Sports Midwest US
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19153/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 1 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/271/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 1 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6541/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 2 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6542/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 2 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/270/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6543/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6544/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31754/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports HD UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15183/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports HD UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31755/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports FHD UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/272/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports+ HD UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15184/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports+ UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31756/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports+ HD UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31757/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports+ FHD UA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5068/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Sports 1 FHD KZ
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20065/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Moldova FHD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20074/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Baltic 1 FHD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/5069/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Baltic 1 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20081/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt7yLbmd/Picsart-26-01-03-15-19-34-254.jpg",Setanta Qazaqstan HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/2399/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Fox Sports HD AR
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19138/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Fox Sports HD MX
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19139/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Go3 Sport 1 HD EE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Go3 Sport 2 HD EE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Go3 Sport 1 HD LV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18011/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Go3 Sport 2 HD LV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18012/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Best4Sport HD LV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Best4Sport 2 HD LV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18015/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Go3 Sport Open HD LV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/18025/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20099/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20103/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20104/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20105/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 5
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 6
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 7
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20108/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 8
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20109/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 9
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20110/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 10
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20100/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 11
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20101/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 12
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20102/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",ViP Sport 13
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31674/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport+
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20160/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31675/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31676/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31677/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31678/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport 5
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31679/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Vital Sport 6
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31680/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31650/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 1 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20166/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 2 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20167/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 3 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20168/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 4 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20169/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 5 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20170/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 6 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31648/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",BOX SportCast Live 7 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31649/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14186/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14187/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14188/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14189/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 5
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14190/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 6
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/14191/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 7
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31450/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 8
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31451/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 9
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31452/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 10
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31453/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 11
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31454/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 12
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31457/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 13
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31458/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 14
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31459/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 15
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31463/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 16
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31522/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 17
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31523/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 18
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31524/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 19
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31525/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 20
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31526/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 21
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31527/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 22
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31528/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 23
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31529/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 24
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31530/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 25
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31531/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 26
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31532/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 27
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31533/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 28
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31534/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 29
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31535/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Окко Event 30
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31536/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Спорт HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31612/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Гонг HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31503/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Футбол 1 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31483/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Футбол 2 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31505/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Футбол 3 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31504/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Футбол 4 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31613/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Megogo Футбол 5 HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31614/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",We Sport TV HD MD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31904/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",W-Sport HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31959/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Fight Network HD CA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31960/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",FightBox HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",FightBox
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/15232/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",StrahTV WWE Russian
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/11056/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",MMA-TV.com HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/19243/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",StrahTV MMA TIME HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31710/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",MMA-TV.com
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/9161/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",MMA-TV.com
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/843/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63qmHK2W/Picsart-26-01-03-15-16-10-565.jpg",Extreme Sports HD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/20028/index.m3u8
