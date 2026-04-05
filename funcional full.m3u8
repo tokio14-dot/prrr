@@ -50,11 +50,14 @@ http://45.228.234.30:16000/play/a003/index.m3u8
 
 
 
+#EXTINF:-1,TOONCAST
+http://45.228.234.30:16000/play/a019/index.m3u8
 
 
 
 
-
+#EXTINF:-1,FOX sports 2
+http://45.228.234.30:16000/play/a039/index.m3u8
 #EXTINF:-1,CLARO Sports
 http://45.228.234.30:16000/play/a03s/index.m3u8
 #EXTINF:-1,CLARO Sports
@@ -77,6 +80,10 @@ http://181.13.252.102:8000/play/a076/index.m3u8
 http://38.250.127.17:9800/play/a0bs/index.m3u8
 #EXTINF:-1,ESPN 7
 http://181.205.205.173:8888/play/a0ho/index.m3u8
+#EXTINF:-1,WD deportes
+http://181.78.82.6:46090/play/a0e1/index.m3u8
+
+
 
 
 #EXTINF:-1, DISNEY channel
@@ -123,8 +130,6 @@ http://181.119.97.124:8080/play/a00n/index.m3u8
 http://38.199.5.160:8000/play/a091/index.m3u8
 #EXTINF:-1,CNN Espa�ol
 http://38.199.5.160:8000/play/a08u/index.m3u8
-#EXTINF:-1,WD deportes
-http://181.78.82.6:46090/play/a0e1/index.m3u8
 #EXTINF:-1,CARACOL HD 2
 http://181.78.82.6:46090/play/a05y/index.m3u8
 #EXTINF:-1,RCN HD
@@ -303,32 +308,25 @@ http://45.228.234.30:16000/play/a00o/index.m3u8
 http://45.228.234.30:16000/play/a022/index.m3u8
 #EXTINF:-1,MP
 http://45.228.234.30:16000/play/a025/index.m3u8
-
-
-
-#EXTINF:-1,index.m3u8 (Opcion 458)
+#EXTINF:-1, Nickelodeon
 http://181.205.205.173:8888/play/a0kh/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 459)
+#EXTINF:-1,CINEMAX
 http://181.205.205.173:8888/play/a0kf/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 462)
+#EXTINF:-1,A$E
 http://181.205.205.173:8888/play/a0hg/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 464)
+#EXTINF:-1,TNT
 http://181.205.205.173:8888/play/a0jv/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 466)
+#EXTINF:-1,DISCOVERY
 http://181.205.205.173:8888/play/a0hn/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 472)
+#EXTINF:-1,RURAL ARG
 http://181.13.252.102:8000/play/a02f/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 473)
+#EXTINF:-1,EXITOSA
 http://147.135.114.221:8001/play/a00c/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 475)
-http://45.228.234.30:16000/play/a019/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 476)
+#EXTINF:-1,FRANCE 24
 http://147.135.114.221:8001/play/a004/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 478)
+#EXTINF:-1,HISTORY
 http://45.228.234.30:16000/play/a011/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 479)
-http://45.228.234.30:16000/play/a039/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 480)
+FEXTINF:-1,index.Opcion
 http://181.205.205.173:8888/play/a0gr/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 490)
 http://181.205.205.173:8888/play/a0nj/index.m3u8
