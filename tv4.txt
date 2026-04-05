@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TVE%20Internacional.png?raw=true",LA 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31826/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TVE%20Internacional.png?raw=true",TVE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31824/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png",24 HORAS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31818/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mr85QWRz/logo12-14-19410.png",ANTENA 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31825/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Cuatro%20HD.png?raw=true",CUATRO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31827/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Telecinco%20HD.png?raw=true",TELECINCO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31828/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/La%20Sexta%20HD.png?raw=true",LA SEXTA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31833/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png",A3SERIES
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31882/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png",BE MAD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31819/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png",ENERGY
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31879/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png",COSMO
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31871/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png",NOVA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31837/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png",COMEDY CENTRAL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31843/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png",TRECE
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31885/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png",UBEAT
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31876/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png",MTV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31841/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Teledeporte.png?raw=true",TDP
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31857/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCHt5NQy/GolPlay.png",GOL PLAY
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31863/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Real%20Madrid%20TV.png?raw=true",REAL MADRID TV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31847/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png",M+ ACCION
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7065/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png",M+ ACCION
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31868/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png",M+ COMEDIA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7066/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png",M+ COMEDIA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31869/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png",M+ DRAMA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/7067/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png",M+ DRAMA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31866/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png",M+ ESTRENOS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31872/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png",M+ ESTRENOS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6078/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png",M+ CINE ESPANOL
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31870/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png",M+ NAVIDAD
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31884/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png",CALLE 13
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31836/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png",WARNER TV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31873/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png",AXN
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31877/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png",SYFY
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31880/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png",TCM
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31883/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png",NICK JR
+https://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31852/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png",NICKELODEON
+https://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31846/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png",DISNEY JUNIOR
+https://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31840/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png",BOING
+https://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31839/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Baby%20TV.png",BABY TV
+https://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31838/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png",M+ LALIGA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31853/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png",M+ LALIGA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6073/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png",M+ LALIGA 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31854/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png",M+ LALIGA 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31858/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png",M+ LALIGA 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31822/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png",LALIGA HYPERMOTION
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31823/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png",LALIGA HYPERMOTION 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31859/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png",LALIGA HYPERMOTION 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31865/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ LIGA CAMPEONES
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31842/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ LIGA CAMPEONES
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6074/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ LIGA CAMPEONES 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31860/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",M+ LIGA CAMPEONES 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31820/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png",M+ LIGA CAMPEONES 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31864/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png",M+ LIGA CAMPEONES 5
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31821/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Deportes%201%20HD.png?raw=true",M+ DEPORTES
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31830/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Deportes%201%20HD.png?raw=true",M+ DEPORTES
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6070/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Deportes%202%20HD.png?raw=true",M+ DEPORTES 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31835/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Deportes%203%20HD.png?raw=true",M+ DEPORTES 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31849/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png",M+ DEPORTES 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31850/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png",M+ DEPORTES 5
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31851/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png",M+ DEPORTES 6
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31874/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20%23Vamos%20HD.png?raw=true",M+ VAMOS
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31867/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png",M+ ELLAS#V
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31875/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Golf%20HD.png?raw=true",M+ GOLF
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31844/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/M+%20Golf%20HD.png?raw=true",M+ GOLF
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6075/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png",M+ GOLF 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31878/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png",EUROSPORT 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31845/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png",EUROSPORT 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31848/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png",DAZN LALIGA
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31856/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png",DAZN LALIGA 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31855/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6071/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVs7ttQ9/DAZN-1-Logo.png",DAZN 1
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31831/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J44MDjjf/DAZN-2-Logo.png",DAZN 2
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31832/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png",DAZN 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31861/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png",DAZN 4
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31862/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20Baloncesto.png?raw=true",DAZN BALONCESTO
+https://bolaloca.my/player/2/65
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20Baloncesto%202.png?raw=true",DAZN BALONCESTO 2
+https://bolaloca.my/player/2/66
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20Baloncesto%203.png?raw=true",DAZN BALONCESTO 3
+https://bolaloca.my/player/2/67
