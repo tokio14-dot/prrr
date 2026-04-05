@@ -17,7 +17,7 @@ http://38.188.186.47:4000/play/a073/index.m3u8
 http://38.188.186.47:4000/play/a065/index.m3u8
 #EXTINF:-1,AV Music
 http://38.188.186.47:4000/play/a06v/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 62)
+#EXTINF:-1,canal 4
 http://45.228.234.30:16000/play/a03v/index.m3u8
 #EXTINF:-1,La voz de Maria
 http://45.228.234.30:16000/play/a01z/index.m3u8
@@ -37,21 +37,29 @@ http://45.228.234.30:16000/play/a00b/index.m3u8
 http://45.228.234.30:16000/play/a01d/index.m3u8
 #EXTINF:-1,R
 http://45.228.234.30:16000/play/a02c/index.m3u8
-#EXTINF:-1,Claro sports MX
-http://45.228.234.30:16000/play/a03t/index.m3u8
 #EXTINF:-1,FUTV
 http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1,Dsports
 http://147.135.114.221:8001/play/a00m/index.m3u8
-
 #EXTINF:-1,BANDAMAX MX
 http://45.228.234.30:16000/play/a03a/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://181.205.205.173:8888/play/a0fz/index.m3u8
 #EXTINF:-1,DHE
 http://45.228.234.30:16000/play/a003/index.m3u8
+
+
+
+#EXTINF:-1,Claro sports MX
+http://45.228.234.30:16000/play/a03t/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.205.205.173:8888/play/a0hk/index.m3u8
 #EXTINF:-1,ESPN 4 HD
 http://181.205.205.173:8888/play/a0gv/index.m3u8
+#EXTINF:-1,ESPN 7
+http://181.205.205.173:8888/play/a0ho/index.m3u8
 
 
 #EXTINF:-1, DISNEY channel
@@ -64,32 +72,26 @@ http://181.205.205.173:8888/play/a0hh/index.m3u8
 http://45.228.234.30:16000/play/a010/index.m3u8
 #EXTINF:-1,TA 40 AÑOS
 http://181.205.205.173:8888/play/a0gz/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 125)
+#EXTINF:-1,TNT novelas
 http://190.60.32.178:8178/play/a0k5/index.m3u8
 #EXTINF:-1,ID HD
 http://181.205.205.173:8888/play/a0gu/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 140)
+#EXTINF:-1,CINEMAX
 http://190.60.32.178:8178/play/a0ke/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 144)
-http://181.205.205.173:8888/play/a0ho/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 151)
+#EXTINF:-1,DISCOVERU TURBO
 http://181.205.205.173:8888/play/a0h2/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 152)
 http://181.205.205.173:8888/play/a0ls/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 153)
+#EXTINF:-1,BETHEL
 http://190.60.32.178:8178/play/a0hp/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 154)
+#EXTINF:-1,UNIVERSAL
 http://181.205.205.173:8888/play/a0lt/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 156)
+#EXTINF:-1, TELEPÁTICO 
 http://181.205.205.173:8888/play/a0h1/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 159)
+#EXTINF:-1,cityTV
 http://181.205.205.173:8888/play/a0sd/index.m3u8
 #EXTINF:-1,Star Channel HD
 http://181.205.205.173:8888/play/a0gx/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 163)
-http://190.60.32.178:8178/play/a015/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.205.205.173:8888/play/a0hk/index.m3u8
 #EXTINF:-1,40 AÑOS
 http://181.205.205.173:8888/play/a0h4/index.m3u8
 #EXTINF:-1,HISTORY
@@ -134,17 +136,26 @@ http://38.199.4.105:9999/play/a0mu/index.m3u8
 http://38.250.127.17:9800/play/a07e/index.m3u8
 #EXTINF:-1,DISCOVERY ARG
 http://38.250.127.17:9800/play/a0bp/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 322)
+#EXTINF:-1,NOTICIAS M
 http://38.199.4.105:9999/play/a0i5/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 326)
-http://38.250.127.17:9800/play/a09z/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 327)
-http://38.250.127.17:9800/play/a0c9/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 328)
+http://38.250.127.17:9800/play/a09z/index.m3u8
+#EXTINF:-1,FOX NEWS US
+http://38.250.127.17:9800/play/a0c9/index.m3u8
+#EXTINF:-1,NTN 24 PERU
 http://38.250.127.17:9800/play/a0ca/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 329)
+#EXTINF:-1, ESTUDIO UNIVEESAL
 http://38.250.127.17:9800/play/a0cg/index.m3u8
-#EXTINF:-1,index.m3u8 (Opcion 330)
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,
 http://38.250.127.17:9800/play/a0bs/index.m3u8
 #EXTINF:-1,index.m3u8 (Opcion 331)
 http://38.250.127.17:9800/play/a09t/index.m3u8
