@@ -85,17 +85,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 
 
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Drama
+#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Sureño
+#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Sureño
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Terror
+#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Terror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Familia
+#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Accion
+#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Accion
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Estella
+#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Estella
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
 
 
