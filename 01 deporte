@@ -3,6 +3,76 @@
 
 
 
+#EXTINF:-1 group-title="MX&USA",ESPN DEPORTES
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 group-title="MX&USA",FOX DEPORTADOS
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+#EXTINF:-1 group-title="MX&USA",COMBATE x DAZN
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="MX&USA",PLUTO.TV FUTBOL PARA FANS
+https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
+#EXTINF:-1 group-title="MX&USA",PLUTO.TV DEPORTES
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 group-title="MX&USA",FOX SPORTS SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",FOX SPORTS 2 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-93.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",FOX SPORTS 3 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",FOX TUBI
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",TUDN
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 group-title="MX&USA",ESPN SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",ESPN 2 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",ESPN 3 SUR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",ESPN 4 SUR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",ESPN 5 SUR
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",ESPN POR YOUTUBE
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="MX&USA",ESPN 2 POR YOUTUBE
+https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="MX&USA",ESPN 3 POR YOUTUBE
+https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="MX&USA",ESPN 4 POR YOUTUBE
+https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="MX&USA",ESPN PREMIUM
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",TNT SPORTS POR TWITCH
+https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="MX&USA",DIRECTV DEPORTES
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 group-title="MX&USA",¡GOLAZO DE CBS SPORTS!
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 group-title="MX&USA",CBS SPORTS HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 group-title="MX&USA",BEIN SPORTS XTRA
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
+#EXTINF:-1 group-title="MX&USA",N.SPORTS BR
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 group-title="MX&USA",CAZE.TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="MX&USA",CANAL DE TENIS
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
+#EXTINF:-1 group-title="MX&USA",FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",CLARO SPORTS
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
+#EXTINF:-1 group-title="MX&USA",CLARO DEPORTES PLUTO TV
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 group-title="MX&USA",TYC SPORTS
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90.playlist.m3u8
+#EXTINF:-1 group-title="MX&USA",LALIGA SMARTBANK
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+#EXTINF:-1 group-title="MX&USA",REALMADRID.TV
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
+
+
 #EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 1 (FR)
 http://151.80.18.177:86/Eurosport_HD/playlist.m3u8
 #EXTINF:-1 group-title="Eurosport" tvg-logo="", Eurosport 2 (FR)
