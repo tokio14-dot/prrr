@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Cartoon_Classics.svg" group-title="",CARTOON CLASSICO 
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31886/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvnews.by/uploads/posts/2024-11/suspence.webp",suspense
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31896/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/05/Dynamo-Kyiv-logo.png",Dynamo Kyiv TV sports
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31911/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DiemaSport3logo.png",DiemaSport 3
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31917/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/2/match-tv-russia-logo-png_seeklogo-310748.png",Match TV
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31920/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TVE%20Internacional.png?raw=true",LA 1
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31826/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TVE%20Internacional.png?raw=true",TVE
