@@ -149,9 +149,5 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31832/index.m3u8
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31861/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png",DAZN 4
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31862/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20Baloncesto.png?raw=true",DAZN BALONCESTO
-https://bolaloca.my/player/2/65
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20Baloncesto%202.png?raw=true",DAZN BALONCESTO 2
-https://bolaloca.my/player/2/66
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/DAZN%20Baloncesto%203.png?raw=true",DAZN BALONCESTO 3
-https://bolaloca.my/player/2/67
+
+
