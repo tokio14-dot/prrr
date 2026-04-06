@@ -61,7 +61,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Films
@@ -84,6 +84,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 
+
+#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Sureño
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Terror
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Familia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Accion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="ON DEMAND" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Estella
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Accion
@@ -98,7 +114,7 @@ https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png",Angry Birds
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9
 #EXTINF:-1 tvg-logo="",Dinosaurios
