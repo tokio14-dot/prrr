@@ -144,7 +144,18 @@ http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7_480.m3
 
 #EXTINF:-1 tvg-logo="",South Park
 https://live20.bozztv.com/giatvplayout7/giatv-209660/playlist.m3u8
-
+#EXTINF:-1 tvg-name="EnerGeek Retro" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png",EnerGeek Retro (1)
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-name="EnerGeek Retro" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png",EnerGeek Retro (2)
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="EnerGeek Retro" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png",EnerGeek Retro (3)
+https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-name="EnerGeek Retro" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png",EnerGeek Retro (4)
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-name="EnerGeek Fan" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png",EnerGeek Fan (1)
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-name="EnerGeek Fan" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png",EnerGeek Fan (2)
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 
 #EXTINF:-1 group-title="",Alf 24/7
 http://m3u.tvcluboficial.com/Reach.Bot/p6C/28.m3u8
