@@ -33,20 +33,8 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playl
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-95.playlist.m3u8
 #EXTINF:-1 group-title="MX&USA",ESPN 5 SUR
 http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8
-#EXTINF:-1 group-title="MX&USA",ESPN POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
-#EXTINF:-1 group-title="MX&USA",ESPN 2 POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
-#EXTINF:-1 group-title="MX&USA",ESPN 3 POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
-#EXTINF:-1 group-title="MX&USA",ESPN 4 POR YOUTUBE
-https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="MX&USA",ESPN PREMIUM
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8
-#EXTINF:-1 group-title="MX&USA",TNT SPORTS POR TWITCH
-https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
-#EXTINF:-1 group-title="MX&USA",DIRECTV DEPORTES
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="MX&USA",¡GOLAZO DE CBS SPORTS!
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 group-title="MX&USA",CBS SPORTS HQ
