@@ -2,6 +2,37 @@
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.es" group-title="REAL MADRID TV",🇪🇸 REAL MADRID TV - Español (Oficial)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.en" group-title="REAL MADRID TV",🇬🇧 REAL MADRID TV - English (Oficial)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.alternative" group-title="REAL MADRID TV",🇪🇸 REAL MADRID TV - Alternativo 1
+https://cdnlive.shoowin.com/rmtv/smil:rmtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.backup" group-title="REAL MADRID TV",🇪🇸 REAL MADRID TV - Backup
+https://play.agenciastreaming.com:8081/rmtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.yt" group-title="REAL MADRID TV",🇪🇸 REAL MADRID TV - YouTube Live (cuando hay evento)
+https://youtube.com/c/RealMadrid/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.dai" group-title="REAL MADRID TV",🇪🇸 REAL MADRID TV - DAI Connect
+https://daiconnect.com/live/hls/rmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qZqXq0.png" tvg-id="RealMadridTV.m3u8" group-title="REAL MADRID TV",🇪🇸 REAL MADRID TV - Stream alternativo
+https://vida.lol:443/play/JooXTNKWxKTfOGG2mP2foEvWqBkZ8ClA1mfsupPW-hQ
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="MX&USA",ESPN DEPORTES
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
