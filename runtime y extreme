@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1,CIUDAD magazine 
-http://181.13.252.102:8000/play/a02h/index.m3u8
+#EXTINF:-1,pelis series
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 01
 https://live20.bozztv.com/giatvplayout7/giatv-209595/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 02
