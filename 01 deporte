@@ -1,7 +1,197 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="DEPORT", ESPN 1 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2865.ts
+#EXTINF:-1 group-title="DEPORT", ESPN 2 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/1636.ts
+#EXTINF:-1 group-title="DEPORT", ESPN 3 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2864.ts
+#EXTINF:-1 group-title="DEPORT", ESPN 4 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2862.ts
+#EXTINF:-1 group-title="DEPORT", Latino | ESPN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.ts
+#EXTINF:-1 group-title="DEPORT", ESPN 2 Latin (alt)
+http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Latino | ESPN 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.ts
+#EXTINF:-1 group-title="DEPORT", Latino | ESPN 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/109.ts
+#EXTINF:-1 group-title="DEPORT", Latino | ESPN 4 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/110.ts
+#EXTINF:-1 group-title="DEPORT", ESPN 4 Latin (Alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 group-title="DEPORT", ESPN 5 (Alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 group-title="DEPORT", ESPN 7 Latin
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF:-1 group-title="DEPORT", ESPN 6 Latin (alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 group-title="DEPORT", ESPN Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 group-title="DEPORT", ESPN DEPORTES
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.ts
+#EXTINF:-1 group-title="DEPORT", TVC Deportes
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.ts
+#EXTINF:-1 group-title="DEPORT", FOX SPORTS Premium
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/375.ts
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS Ñ
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.ts
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 1 Turkey
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 2 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 3 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 4 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 5 Turkey
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS France
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS France (alt)
+http://99.27.51.147:8080/BeinSport/mpegts
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 3 France
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 3 France (Alt)
+http://99.27.51.147:8080/BeinSport3/mpegts
+#EXTINF:-1 group-title="DEPORT", BEIN SPORTS 3 France (Alt2)
+http://145.239.5.177/559/mpegts
+#EXTINF:-1 group-title="DEPORT", TNT Sports Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 group-title="DEPORT", NBC Team USA
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", TYC Sports (alt)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
+#EXTINF:-1 group-title="DEPORT", AYM Sports
+https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-1 group-title="DEPORT", BEK Sports West (USA)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/.m3u8
+#EXTINF:-1 group-title="DEPORT", RS News
+https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS Sports 1
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS Sports 2
+https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS Sports 3
+https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS Sports 4
+https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS Sports 5
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS News Web
+https://video01.logicahost.com.br/rsnewswebtv/rsnewswebtv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS PREMIERE
+https://video03.logicahost.com.br/rspremiere/rspremiere/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS PREMIERE 2
+https://video03.logicahost.com.br/rspremiere2/rspremiere2/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS PREMIERE 3
+https://video03.logicahost.com.br/rspremiere3/rspremiere3/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", RS PREMIERE 4
+https://video03.logicahost.com.br/rspremiere4/rspremiere4/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Setanta Sport 2
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 group-title="DEPORT", CLARO SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.ts
+#EXTINF:-1 group-title="DEPORT", Win Sports HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/125.ts
+#EXTINF:-1 group-title="DEPORT", Win Sports + HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS Mix
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS Premier League
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS NEWS
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS MAIN EVENT
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS MAIN EVENT (alt)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2185.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS Golf
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2186.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS Football
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2188.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS F1
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS F1 (alt)
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2190.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS Action
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2194.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS +
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2193.ts
+#EXTINF:-1 group-title="DEPORT", SKY SPORTS Cricket
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2192.ts
+#EXTINF:-1 group-title="DEPORT", TNT Sports 1 UK
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2337.ts
+#EXTINF:-1 group-title="DEPORT", TNT Sports 2 UK
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2336.ts
+#EXTINF:-1 group-title="DEPORT", TNT Sports 3 UK
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2335.ts
+#EXTINF:-1 group-title="DEPORT", TNT Sports 4 UK
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/675021.ts
+#EXTINF:-1 group-title="DEPORT", Latino | FOX SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/113.ts
+#EXTINF:-1 group-title="DEPORT", Latino | FOX SPORTS 2 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.ts
+#EXTINF:-1 group-title="DEPORT", Latino | FOX SPORTS 3 HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/115.ts
+#EXTINF:-1 group-title="DEPORT", TUDN HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.ts
+#EXTINF:-1 group-title="DEPORT", Red Bull TV
+https://freqsyndlin.redbull.com/582/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Red Bull TV Brasil
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Red Bull TV Europe
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Red Bull TV Australia
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Red Bull TV Alemanha
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Red Bull TV Espanha
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="DEPORT", Canal + Live 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170885&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170884&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170883&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170882&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 5
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170881&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 6
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170880&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 7
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170879&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 8
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170878&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 9
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170877&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 10
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170876&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 11
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170875&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 12
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170874&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 13
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170873&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 14
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170872&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 15
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170871&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 16
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170870&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 17
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170869&extension=ts
+#EXTINF:-1 group-title="DEPORT", Canal + Live 18
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170868&extension=ts
 
-#EXTM3U
+
+
+
+
+
 #EXTINF:-1 group-title="DEPORTES", espn4
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", la liga
@@ -368,14 +558,6 @@ https://s.rocketdns.info/live/superreal1/superreal1/3639.ts
 https://s.rocketdns.info/live/superreal1/superreal1/3864.ts
 #EXTINF:-1 group-title="MX&USA", ACC Network
 https://s.rocketdns.info/live/superreal1/superreal1/5287.ts
-#EXTINF:-1 group-title="MX&USA", ESPN 1 Argentina
-https://s.rocketdns.info/live/superreal1/superreal1/2865.ts
-#EXTINF:-1 group-title="MX&USA", ESPN 2 Argentina
-https://s.rocketdns.info/live/superreal1/superreal1/1636.ts
-#EXTINF:-1 group-title="MX&USA", ESPN 3 Argentina
-https://s.rocketdns.info/live/superreal1/superreal1/2864.ts
-#EXTINF:-1 group-title="MX&USA", ESPN 4 Argentina
-https://s.rocketdns.info/live/superreal1/superreal1/2862.ts
 #EXTINF:-1 group-title="MX&USA", CBS Sports Network
 https://s.rocketdns.info/live/superreal1/superreal1/3621.ts
 #EXTINF:-1 group-title="MX&USA", CBS Sports Golazo Network
