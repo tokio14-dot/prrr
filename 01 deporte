@@ -347,7 +347,231 @@ https://vida.lol:443/play/JooXTNKWxKTfOGG2mP2foEvWqBkZ8ClA1mfsupPW-hQ
 
 
 
-
+#EXTM3U
+#EXTINF:-1 group-title="MX&USA", ESPN SD
+https://s.rocketdns.info/live/superreal1/superreal1/21589.ts
+#EXTINF:-1 group-title="MX&USA", ESPN
+https://s.rocketdns.info/live/superreal1/superreal1/3636.ts
+#EXTINF:-1 group-title="MX&USA", ESPN 2
+https://s.rocketdns.info/live/superreal1/superreal1/3637.ts
+#EXTINF:-1 group-title="MX&USA", ESPN U
+https://s.rocketdns.info/live/superreal1/superreal1/2576.ts
+#EXTINF:-1 group-title="MX&USA", ESPN NEWS
+https://s.rocketdns.info/live/superreal1/superreal1/3640.ts
+#EXTINF:-1 group-title="MX&USA", ESPN NEWS (alt)
+https://s.rocketdns.info/live/superreal1/superreal1/2577.ts
+#EXTINF:-1 group-title="MX&USA", ESPN DEPORTES
+https://s.rocketdns.info/live/superreal1/superreal1/2578.ts
+#EXTINF:-1 group-title="MX&USA", ESPN DEPORTES (alt)
+https://s.rocketdns.info/live/superreal1/superreal1/3639.ts
+#EXTINF:-1 group-title="MX&USA", SEC Network
+https://s.rocketdns.info/live/superreal1/superreal1/3864.ts
+#EXTINF:-1 group-title="MX&USA", ACC Network
+https://s.rocketdns.info/live/superreal1/superreal1/5287.ts
+#EXTINF:-1 group-title="MX&USA", ESPN 1 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2865.ts
+#EXTINF:-1 group-title="MX&USA", ESPN 2 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/1636.ts
+#EXTINF:-1 group-title="MX&USA", ESPN 3 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2864.ts
+#EXTINF:-1 group-title="MX&USA", ESPN 4 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2862.ts
+#EXTINF:-1 group-title="MX&USA", CBS Sports Network
+https://s.rocketdns.info/live/superreal1/superreal1/3621.ts
+#EXTINF:-1 group-title="MX&USA", CBS Sports Golazo Network
+https://s.rocketdns.info/live/superreal1/superreal1/660925.ts
+#EXTINF:-1 group-title="MX&USA", Fox Sports 1
+https://s.rocketdns.info/live/superreal1/superreal1/3645.ts
+#EXTINF:-1 group-title="MX&USA", Fox Sports 2
+https://s.rocketdns.info/live/superreal1/superreal1/3646.ts
+#EXTINF:-1 group-title="MX&USA", Fox Sports 1 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2882.ts
+#EXTINF:-1 group-title="MX&USA", Fox Sports 2 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2880.ts
+#EXTINF:-1 group-title="MX&USA", Fox Sports 3 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2881.ts
+#EXTINF:-1 group-title="MX&USA", Fox Sports México
+https://s.rocketdns.info/live/superreal1/superreal1/4243.ts
+#EXTINF:-1 group-title="MX&USA", FOX Deportes
+https://s.rocketdns.info/live/superreal1/superreal1/97535.ts
+#EXTINF:-1 group-title="MX&USA", FOX Deportes (Alt)
+https://s.rocketdns.info/live/superreal1/superreal1/2559.ts
+#EXTINF:-1 group-title="MX&USA", FOX Soccer Plus
+https://s.rocketdns.info/live/superreal1/superreal1/2531.ts
+#EXTINF:-1 group-title="MX&USA", Big Ten Network
+https://s.rocketdns.info/live/superreal1/superreal1/4443.ts
+#EXTINF:-1 group-title="MX&USA", NBC Sports Bay Area
+https://s.rocketdns.info/live/superreal1/superreal1/2436.ts
+#EXTINF:-1 group-title="MX&USA", NBC Sports Boston
+https://s.rocketdns.info/live/superreal1/superreal1/2435.ts
+#EXTINF:-1 group-title="MX&USA", NBC Sports California
+https://s.rocketdns.info/live/superreal1/superreal1/3821.ts
+#EXTINF:-1 group-title="MX&USA", NBC Sports Philadelphia
+https://s.rocketdns.info/live/superreal1/superreal1/3769.ts
+#EXTINF:-1 group-title="MX&USA", Spectrum Sportsnet Lakers
+https://s.rocketdns.info/live/superreal1/superreal1/74684.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet New York
+https://s.rocketdns.info/live/superreal1/superreal1/2413.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet (East)
+https://s.rocketdns.info/live/superreal1/superreal1/3072.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet 360
+https://s.rocketdns.info/live/superreal1/superreal1/3073.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet One
+https://s.rocketdns.info/live/superreal1/superreal1/3071.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet Ontario
+https://s.rocketdns.info/live/superreal1/superreal1/3070.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet Pacific
+https://s.rocketdns.info/live/superreal1/superreal1/3069.ts
+#EXTINF:-1 group-title="MX&USA", Sportsnet West
+https://s.rocketdns.info/live/superreal1/superreal1/3068.ts
+#EXTINF:-1 group-title="MX&USA", TSN 1
+https://s.rocketdns.info/live/superreal1/superreal1/3146.ts
+#EXTINF:-1 group-title="MX&USA", TSN 2
+https://s.rocketdns.info/live/superreal1/superreal1/3145.ts
+#EXTINF:-1 group-title="MX&USA", TSN 3
+https://s.rocketdns.info/live/superreal1/superreal1/3144.ts
+#EXTINF:-1 group-title="MX&USA", TSN 4
+https://s.rocketdns.info/live/superreal1/superreal1/3143.ts
+#EXTINF:-1 group-title="MX&USA", TSN 5
+https://s.rocketdns.info/live/superreal1/superreal1/3142.ts
+#EXTINF:-1 group-title="MX&USA", RDS
+https://s.rocketdns.info/live/superreal1/superreal1/59870.ts
+#EXTINF:-1 group-title="MX&USA", TVA Sports 2
+https://s.rocketdns.info/live/superreal1/superreal1/59869.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS ñ
+https://s.rocketdns.info/live/superreal1/superreal1/3613.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS
+https://s.rocketdns.info/live/superreal1/superreal1/3612.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS Global
+https://s.rocketdns.info/live/superreal1/superreal1/659426.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 1 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/714411.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 1 Britsh
+https://s.rocketdns.info/live/superreal1/superreal1/659436.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 2 Britsh
+https://s.rocketdns.info/live/superreal1/superreal1/659437.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 3 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659429.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 4 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659430.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 5 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659431.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 6 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659432.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 7 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659433.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 8 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659434.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 9 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659435.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 1 France
+https://s.rocketdns.info/live/superreal1/superreal1/659439.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 2 France
+https://s.rocketdns.info/live/superreal1/superreal1/659440.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 3 France
+https://s.rocketdns.info/live/superreal1/superreal1/659441.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 3
+https://s.rocketdns.info/live/superreal1/superreal1/5308.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 4
+https://s.rocketdns.info/live/superreal1/superreal1/5313.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 5
+https://s.rocketdns.info/live/superreal1/superreal1/5312.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 6
+https://s.rocketdns.info/live/superreal1/superreal1/5311.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 7
+https://s.rocketdns.info/live/superreal1/superreal1/5310.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS 8
+https://s.rocketdns.info/live/superreal1/superreal1/5309.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS Xtra 1
+https://s.rocketdns.info/live/superreal1/superreal1/659442.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS Xtra 2
+https://s.rocketdns.info/live/superreal1/superreal1/659443.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS Xtra 3
+https://s.rocketdns.info/live/superreal1/superreal1/659444.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS Canadá
+https://s.rocketdns.info/live/superreal1/superreal1/88062.ts
+#EXTINF:-1 group-title="MX&USA", BEIN SPORTS Canadá (Alt)
+https://s.rocketdns.info/live/superreal1/superreal1/3153.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS Mix
+https://s.rocketdns.info/live/superreal1/superreal1/2180.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS Premier League
+https://s.rocketdns.info/live/superreal1/superreal1/2181.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS NEWS
+https://s.rocketdns.info/live/superreal1/superreal1/2183.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS MAIN EVENT
+https://s.rocketdns.info/live/superreal1/superreal1/2184.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS MAIN EVENT (alt)
+https://s.rocketdns.info/live/superreal1/superreal1/2185.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS Golf
+https://s.rocketdns.info/live/superreal1/superreal1/2186.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS Football
+https://s.rocketdns.info/live/superreal1/superreal1/2188.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS F1
+https://s.rocketdns.info/live/superreal1/superreal1/2189.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS F1 (alt)
+https://s.rocketdns.info/live/superreal1/superreal1/2190.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS Action
+https://s.rocketdns.info/live/superreal1/superreal1/2194.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS +
+https://s.rocketdns.info/live/superreal1/superreal1/2193.ts
+#EXTINF:-1 group-title="MX&USA", SKY SPORTS Cricket
+https://s.rocketdns.info/live/superreal1/superreal1/2192.ts
+#EXTINF:-1 group-title="MX&USA", TYC Sports
+https://s.rocketdns.info/live/superreal1/superreal1/4445.ts
+#EXTINF:-1 group-title="MX&USA", TNT Sports 1 UK
+https://s.rocketdns.info/live/superreal1/superreal1/2337.ts
+#EXTINF:-1 group-title="MX&USA", TNT Sports 2 UK
+https://s.rocketdns.info/live/superreal1/superreal1/2336.ts
+#EXTINF:-1 group-title="MX&USA", TNT Sports 2 UK (Alt)
+https://s.rocketdns.info/live/superreal1/superreal1/2326.ts
+#EXTINF:-1 group-title="MX&USA", TNT Sports 3 UK
+https://s.rocketdns.info/live/superreal1/superreal1/2335.ts
+#EXTINF:-1 group-title="MX&USA", TNT Sports 3 UK (Alt)
+https://s.rocketdns.info/live/superreal1/superreal1/2325.ts
+#EXTINF:-1 group-title="MX&USA", TNT Sports 4 UK
+https://s.rocketdns.info/live/superreal1/superreal1/675021.ts
+#EXTINF:-1 group-title="MX&USA", RMS Sport 1
+https://s.rocketdns.info/live/superreal1/superreal1/599595.ts
+#EXTINF:-1 group-title="MX&USA", TUDN
+https://s.rocketdns.info/live/superreal1/superreal1/553262.ts
+#EXTINF:-1 group-title="MX&USA", TUDN 2
+https://s.rocketdns.info/live/superreal1/superreal1/38039.ts
+#EXTINF:-1 group-title="MX&USA", TUDN 2 (Alt)
+https://s.rocketdns.info/live/superreal1/superreal1/21825.ts
+#EXTINF:-1 group-title="MX&USA", DAZN 1 Portugal
+https://s.rocketdns.info/live/superreal1/superreal1/926.ts
+#EXTINF:-1 group-title="MX&USA", DAZN 2 Portugal
+https://s.rocketdns.info/live/superreal1/superreal1/924.ts
+#EXTINF:-1 group-title="MX&USA", DAZN 3 Portugal
+https://s.rocketdns.info/live/superreal1/superreal1/921.ts
+#EXTINF:-1 group-title="MX&USA", DAZN 4 Portugal
+https://s.rocketdns.info/live/superreal1/superreal1/920.ts
+#EXTINF:-1 group-title="MX&USA", DAZN 5 Portugal
+https://s.rocketdns.info/live/superreal1/superreal1/918.ts
+#EXTINF:-1 group-title="MX&USA", Sport TV 1
+https://s.rocketdns.info/live/superreal1/superreal1/848.ts
+#EXTINF:-1 group-title="MX&USA", Sport TV 2
+https://s.rocketdns.info/live/superreal1/superreal1/846.ts
+#EXTINF:-1 group-title="MX&USA", Sport TV 3
+https://s.rocketdns.info/live/superreal1/superreal1/844.ts
+#EXTINF:-1 group-title="MX&USA", Sport TV 4
+https://s.rocketdns.info/live/superreal1/superreal1/842.ts
+#EXTINF:-1 group-title="MX&USA", Sport TV 5
+https://s.rocketdns.info/live/superreal1/superreal1/839.ts
+#EXTINF:-1 group-title="MX&USA", Sport TV +
+https://s.rocketdns.info/live/superreal1/superreal1/51139.ts
+#EXTINF:-1 group-title="MX&USA", StarZplay Sports 1
+https://s.rocketdns.info/live/superreal1/superreal1/659445.ts
+#EXTINF:-1 group-title="MX&USA", StarZplay Sports 2
+https://s.rocketdns.info/live/superreal1/superreal1/659446.ts
+#EXTINF:-1 group-title="MX&USA", StarZplay Sports 2 (Alt)
+https://s.rocketdns.info/live/superreal1/superreal1/659447.ts
+#EXTINF:-1 group-title="MX&USA", DeporTV
+https://s.rocketdns.info/live/superreal1/superreal1/2855.ts
+#EXTINF:-1 group-title="MX&USA", Fanduel Sports Network
+https://s.rocketdns.info/live/superreal1/superreal1/2508.ts
+#EXTINF:-1 group-title="MX&USA", Tennis Channel
+https://s.rocketdns.info/live/superreal1/superreal1/2386.ts
 #EXTINF:-1 group-title="MX&USA",ESPN DEPORTES
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 #EXTINF:-1 group-title="MX&USA",FOX DEPORTADOS
