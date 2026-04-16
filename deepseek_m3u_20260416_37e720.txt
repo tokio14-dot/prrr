@@ -502,3 +502,1007 @@ http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F162
 http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F165
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cine247.png", Cine Terror Sagas HD
 http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F182
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telefe.png", Telefe | Argentina
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F874
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/el13argentina.png", El Trece (13) Argentina
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F362
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tn.png", TN
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1164
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mx_lasestrellas.png", Canal de las Estrellas HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F118
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/distritocomedia.png", Distrito Comedia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F293
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/c5n.png", C5N
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1162
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/a24.png", A24
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1163
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/elnueveargentina.png", El Nueve (9) | Argentina
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F353
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ar_america.png", America | Argentina
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1068
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tlnovelas.png", Tlnovelas HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F915
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo.png", HBO HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F527
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telefe.png", Telefe | USA
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1166
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal.png", Universal HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F998
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/space.png", Space HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F826
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/goldenedge.png", Golden Edge
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F495
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nbcuniverso.png", NBC Universo
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F714
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tlnovelas.png", Tlnovelas
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F912
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbofamily.png", HBO Family HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F526
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/space.png", Space
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F823
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboplus.png", HBO Plus HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F534
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/axn.png", AXN HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F58
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tnt.png", TNT
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F921
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemax.png", Cinemax
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F190
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoveryhh.png", Discovery H&H
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F254
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tntseries.png", TNT Series HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F933
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/investigationdiscovery.png", Investigation Discovery HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F581
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo.png", HBO
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F512
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/univision.png", Univision
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1009
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png", Discovery Turbo
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F274
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/rcn.png", RCN HD | Colombia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1146
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/latinatv.png", Latina | Peru
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F765
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal.png", Universal Channel
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F984
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tnt.png", TNT HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F926
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/elgourmet.png", El Gourmet
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F349
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/history.png", History Channel
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F558
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemax.png", Cinemax HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F196
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tntseries.png", TNT Series
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F929
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemundo.png", Telemundo
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F888
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/warnerchannel.png", Warner Channel HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1034
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo2.png", HBO 2
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F518
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonnetwork.png", Cartoon Network
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F128
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/history.png", History Channel HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F560
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tlc.png", TLC
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F911
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/h2.png", H2
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F509
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/americaperu.png", America TV | Peru
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F35
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/investigationdiscovery.png", Investigation Discovery
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F579
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbopop.png", HBO Pop
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F538
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonito.png", Cartoonito
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F134
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverychannel.png", Discovery Channel
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F247
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbofamily.png", HBO Family
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F525
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/natgeowild.png", Nat Geo Wild
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F709
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tvglobo.png", Globo | Brasil
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1103
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverychannel.png", Discovery Channel HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F251
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboxtreme.png", HBO Xtreme
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F543
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/antena3.png", Antena 3
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F45
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png", Discovery Turbo HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F275
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/retromusic.png", Retro Music
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F791
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nickjr.png", Nick JR
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F729
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mlb.png", MLB Network
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F658
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/studiouniversal.png", Studio Universal
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F845
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ecuavisa.png", Ecuavisa | Ecuador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F338
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mega.png", Mega | Chile
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F651
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pasiones.png", Pasiones HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F757
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo2.png", HBO 2 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F520
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverytheater.png", Discovery Theater HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F271
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/axn.png", AXN
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F54
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemundo.png", Telemundo Internacional
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1108
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/history.png", Historia (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F554
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fx.png", FX HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F477
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboxtreme.png", HBO Xtreme HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F545
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/a3series.png", A3Series
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F17
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ae.png", A&E
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F5
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboplus.png", HBO Plus
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F531
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tooncast.png", Tooncast
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F941
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ae.png", A&E HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F8
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/depelicula.png", De Pelicula
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F234
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal_premier.png", Universal Premiere HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1003
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azteca1.png", Azteca Uno
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F76
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/eltrecechile.png", El Trece (13) Chile
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F360
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nick.png", Nick
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F724
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneychannel.png", Disney Channel
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F280
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/natgeo.png", Nat Geo
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F703
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/atv.png", ATV: Novelas Turcas
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1120
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hboplus.png", HBO Plus Oeste HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F536
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal_crime.png", Universal Crime HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F996
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinecanal.png", Cinecanal
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F185
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azteca1.png", Azteca Uno HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F78
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemundo.png", Telemundo HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F889
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/adn40.png", ADN 40
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F20
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbomundi.png", HBO Mundi
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1101
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foodnetwork.png", Food Network
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F424
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneyjr.png", Disney Junior
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F284
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telehitmusica.png", Telehit
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F878
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/animalplanet.png", Animal Planet
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F41
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lasexta.png", La Sexta HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F603
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/la1.png", La 1 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F588
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverykids.png", Discovery Kids HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F266
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mega.png", Mega ES HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F653
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/moviestar.png", Movie Max
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F660
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pe_atv.png", ATV | Peru
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1063
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mx_lasestrellas.png", Canal de las Estrellas
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F114
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/wapa.png", Wapa PR
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1030
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnplus.png", ESPN Plus HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F405
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cr_teletica.png", Teletica (Canal 7) | Costa Rica
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1073
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mariavision.png", Maria Vision
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1097
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dw.png", DW
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1091
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/babytv.png", Baby TV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F79
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/golden.png", Golden
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F494
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnplus.png", ESPN Plus
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F404
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telecinco.png", Telecinco HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F871
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/comedycentral.png", Comedy Central HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F220
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/axn.png", AXN HD (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F59
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/imagentv.png", Imagen Television
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F576
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/warnerchannel.png", Warner Channel
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1032
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/canaldelfutbol.png", El Canal Del Futbol
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F342
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/depelicula.png", De Pelicula HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F237
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/rcn.png", RCN | Colombia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F785
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mega.png", Mega
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F652
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/natgeo.png", Nat Geo HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F706
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/multimedios.png", Multimedios (Monterrey)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F691
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tvchile.png", TV Chile
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F958
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/caracol.png", Caracol Internacional
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F127
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/axn.png", AXN WHITE HD (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F61
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/winsportsplus.png", Win Sports + HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1042
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amc.png", AMC HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F33
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/play.png", Tele
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F866
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ch_chilevision.png", Chilevision (CHV) | Chile
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F155
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneyjr.png", Disney Junior HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F287
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/syfy.png", SyFy (ES) HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F856
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/maccion.png", Movistar Accion HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F661
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/rcnnovelas.png", RCN Novelas
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F788
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hchhonduras.png", HCH
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F547
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sony.png", Sony HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F818
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverysci.png", Discovery SCI
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F267
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/paramount.png", Paramount HD (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F754
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/bitme.png", BitMe
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F92
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hola.png", Hola TV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F564
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tnt.png", TNT HD (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F927
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/e.png", E!
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F333
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/syfy.png", SyFy
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F853
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/unicable.png", Unicable
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F978
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/bandamax.png", Bandamax
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F83
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/latinatv.png", Latina | Uruguay
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F609
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tc.png", TC | Ecuador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F861
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/movistar_laliga.png", Movistar LaLiga
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1100
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/e.png", E! HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F336
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fx.png", FX
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F474
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/unicable.png", Unicable HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F980
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tcm.png", TCM
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F862
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/golden.png", Golden HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F497
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nick2.png", Nick 2 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F726
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pe_canaln.png", Canal N | Peru
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1065
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/winsports.png", Win Sports HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1044
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fs2.png", FS2 USA HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F472
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/estrellatv.png", Estrella TV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F409
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azteca7.png", Azteca 7
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F72
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pakapaka.png", PakaPaka
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F748
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/europa.png", Europa Europa
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F413
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cdf.png", CDF Premium
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F142
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azteca7.png", Azteca 7 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F74
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amc.png", AMC (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F32
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/enlace.png", Enlace
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1092
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/teennick.png", TeenNick
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F865
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sa_canal2.png", Canal 2 | El Salvador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1078
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azcorazon.png", Az Corazón HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F68
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mtvlive.png", MTV Live
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F683
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/aljazeera.png", Al Jazeera
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F27
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/movistar_comedia.png", Movistar Comedia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F663
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/canal5.png", Canal 5
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F106
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cr_canal6.png", Canal 6 | Costa Rica
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1084
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinecanal.png", Cinecanal HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F188
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonnetwork.png", Cartoon Network HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F132
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nbcgolf.png", NBC Golf
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F712
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/la2hd.png", La 2 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F589
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/a3cine.png", A3Cine
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F14
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverykids.png", Discovery Kids
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F264
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/galatv.png", Gala TV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F481
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telehitmusica.png", Telehit HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F879
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal_cinema.png", Universal Cinema HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F988
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/multipremier.png", MultiPremier
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F696
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sony.png", Sony
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F815
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/vtv.png", VTV | Uruaguay
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1028
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneyxd.png", Disney XD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F289
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pa_rpc.png", RPC Panama
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1158
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dpeliculaplus.png", De Pelicula Plus HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F239
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tigosports.png", TigoSports | Costa Rica
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1077
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/bandamax.png", Bandamax HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F84
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoveryworld.png", Discovery World
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F276
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/studiouniversal.png", Studio Universal HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F848
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azcorazon.png", AZ Corazon
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F66
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal_comedy.png", Universal Comedy HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F992
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverycivilization.png", Discovery Civilization
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F252
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/play.png", Music Now
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F698
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/beinsportsn.png", BeinSports Ñ HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F91
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mtv.png", MTV (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F674
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/syfy.png", SyFy HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F857
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/unicable.png", Unicable HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F981
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fs1.png", FS1 USA HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F471
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nicktoons.png", Nick Toons
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F735
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/vamos.png", Vamos HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1015
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tigosports.png", TigoSports Paraguay
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F906
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fox.png", Fox (ES) HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F430
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sa_canal12.png", Canal 12 | El Salvador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1083
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/unimas.png", UniMas
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F982
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starz_encorefamily.png", Starz Encore Family
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F843
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/multimedios.png", Multimedios HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F693
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/star.png", Star Channel HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F834
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/guatevision.png", Guatevision
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1089
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/beinsports.png", BeinSports
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F88
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/movistar_laliga.png", Movistar LaLiga HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F668
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/comedycentral.png", Comedy Central
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F216
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/maschic.png", Más chic
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F643
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starz_cinema.png", Starz Cinema
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F839
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ni_canal2.png", Canal 2 | Nicaragua
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1075
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nick.png", Nick HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F728
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azcinema.png", Az Cinema
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F63
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starz_hd.png", Starz HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F844
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tve.png", TVE
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F968
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/beinsports.png", BeinSports HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F89
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ho_deportestvc.png", Deportes TVC | Honduras
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1071
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amc.png", AMC
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F29
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/isat.png", I.Sat
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F572
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/star_fun.png", Star Fun
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F836
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ho_canal5.png", Canal 5 Honduras
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F109
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/animalplanet.png", Animal Planet HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F42
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tve.png", TVE HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F969
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tigosports.png", Tigo Sports Guatemala
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F904
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sa_canal4.png", Canal 4 | El Salvador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1081
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nova.png", Nova (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F740
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tumusicahd.png", Tu Musica HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F951
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ur_vtvplus.png", VTV Plus | Uruguay
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1072
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nhl.png", NHL Network
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F723
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universal_reality.png", Universal Reality HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1006
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ur_vtvplus.png", VTV Plus HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1142
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starz_encoreaction.png", Starz Encore Action
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F841
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/locomotion.png", Locomotion
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1096
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/popcornflix.png", PopCornFlix HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F775
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemax.png", Telemax
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F883
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ve_aguacate.png", Aguacate TV | Venezuela
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1087
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/galatv.png", Gala TV HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F482
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/paramount.png", Paramount HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F753
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nickjr.png", Nick JR HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F732
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/co_uno.png", Canal Uno (1) | Colombia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1014
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/trece_colombia.png", Trece
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F943
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/novelisima.png", Novelisima
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1149
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonito.png", Cartoonito HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F137
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tigosports.png", TigoSports Bolivia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F905
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/americaperu.png", America TV | Peru op. 2
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1135
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/star_hits.png", Star Hits HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F837
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/glitz.png", Glitz
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F488
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/forotv.png", Foro TV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F429
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sa_canal6.png", Canal 6 | El Salvador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1082
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cdfpremium.png", CDF Premium HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F143
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/movistar_comedia.png", Movistar Cine Ñ
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F662
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/play.png", Max Up HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F648
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starz_encoreblack.png", Starz Encore Black
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F842
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinelatino.png", Cine Latino
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F173
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pe_panamericana.png", Panamericana | Peru
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1064
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dhe.png", DHE
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F242
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/star.png", Star Channel
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F832
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ve_reformatv.png", Reforma TV | Venezuela
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1088
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/gamavision.png", Gamavision
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F483
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/filmarts.png", Film & Arts HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F419
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/multimedios.png", Multimedios (Monterrey) HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F692
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/movistar_estrenos.png", Movistar Estrenos HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F667
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lifetime.png", Lifetime
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F615
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/novelisima.png", Novelisima HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1150
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn4.png", ESPN 4 | Sur
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1069
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/imagentv.png", Imagen Televisión HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F577
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/startve.png", StarTVE
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F838
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ewtn.png", EWTN
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1093
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/musictop.png", Music Top
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F699
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tudn.png", TUDN HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F955
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fxm.png", FXM
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F478
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/univisiondeportes.png", Univisión Deportes
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1010
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tbs.png", TBS Very Funny
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F859
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cdnsportsmax.png", CDN Sportsmax
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F146
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cr_futv.png", Futv | Costa Rica
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1074
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/aymsports.png", AyM Sports
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F62
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/teleritmo.png", TLR (Teleritmo)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F916
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/aztecaguate.png", Azteca Guate
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1098
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/quieromusica.png", Quiero Musica
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F779
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/televicentro.png", Televicentro (TVC) | Ecuador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F966
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nickelodeon.png", Nickelodeon
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F736
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/vh1.png", VH1
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1016
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/aplus.png", A+
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F9
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/trutv.png", TruTV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F949
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/neox.png", Neox (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F717
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ritmoson.png", Ritmoson Latino
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F792
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cbeebies.png", CBeebies
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F139
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/foxnews.png", Fox News
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F433
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tiin.png", Tiin
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F907
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoveryhh.png", Discovery H&H HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F258
+
+:-1 tvg-logo="http://i.tvcluboficial.com/mx_justiciatv.png", Justicia TV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1094
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/toros.png", Canal+ Toros
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F121
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/muchmusic.png", Much Music
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F686
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dpeliculaclasico.png", De Pelicula Clasico
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F236
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fxm.png", FXM HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F480
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/play.png", Univisión TDN
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1012
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tbs.png", TBS Very Funny HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F860
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cdopremium.png", CDO Premium
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F149
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/co_telecaribe.png", Telecaribe | Colombia
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1066
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/teleritmo.png", TLR HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F917
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/golfchannel.png", Golf Channel HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F504
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ec_rts.png", RTS | Ecuador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1090
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/garagetv.png", Garage TV HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F485
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/canal5.png", Canal 5 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F108
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/multimedios.png", Multimedios Plus
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F694
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/htv.png", HTV
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F568
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/star.png", Star Channel HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F835
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sa_canal3.png", Canal 3 | El Salvador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1080
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/vh1.png", VH1 HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1017
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/movistar_series.png", Movistar Series HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F669
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/trutv.png", TruTv HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F950
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/teleamazonas.png", TeleAmazonas | Ecuador
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F867
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/comedycentral.png", Comedy Central (ES)
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F219
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cbs.png", CBS HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F140
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemadinamita.png", Cinema Dinamita
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1153
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/itv.png", ITV Deportes
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1095
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/play.png", Max Prime HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F646
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starz_comedy.png", Starz Comedy
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F840
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ve_alcancetv.png", Alcance TV | Venezuela
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1086
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/multimedios.png", Multimedios
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F690
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tudn.png", TUDN HD | Usa
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F957
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ni_canal10.png", Canal 10 | Nicaragua
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1076
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tlnovelasunivision.png", Univision Tlnovelas
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1013
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/gt_televisiete.png", Televisiete (Canal 7) | Guatemala
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F1067
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nbc.png", NBC HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F713
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/azclic.png", Az Clic
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F64
+
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/teleritmo.png", TLR HD
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F918
+
+
+
+
+
+
+
+
+
+
