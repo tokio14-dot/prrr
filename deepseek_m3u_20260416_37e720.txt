@@ -2,6 +2,10 @@
 #==================== 24/7 ====================
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lossimpsons.png", Los Simpson 24/7
 http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F635
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lossimpsons.png", Los Simpson 24/7
+http://streametx.app/php/proxy_magma.php?r=/stream/635
+
+
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/elchavodel8.png", El Chavo del 8 24/7
 http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F344
 #EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dragonballz.png", Dragon Ball Z 24/7
