@@ -1199,34 +1199,19 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playl
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN
-http://38.44.109.41:8003/play/a03x/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN2
-http://38.44.109.41:8003/play/a03u/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN3
-http://38.44.109.41:8003/play/a03v/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPNPremium
-http://38.44.109.41:8003/play/a03y/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN Premium
+http://38.44.109.41:8003/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN2HD
 http://181.78.82.6:46090/play/a00i/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN3HD
 http://181.78.82.6:46090/play/a00v/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN6HD
 http://181.78.82.6:46090/play/a00w/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN DISNEY PREMIUM HD
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DSports
 http://205.235.6.29:8000/play/a0nq/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", BRASIL | ESPN 2
 http://kstv.us:8080/live/N427DpynGE/7049166651/46446.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", BRASIL | ESPN BRASIL HD
@@ -1251,9 +1236,6 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47105.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47107.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN SUR HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47108.ts
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 7 HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47113.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | ESPN 7
@@ -1268,22 +1250,6 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47118.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47119.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | FOX SPORTS 2
 http://kstv.us:8080/live/N427DpynGE/7049166651/47120.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", LAT-A | TYC SPORTS (ARGENTINA)
 http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", LAT-A | TYC SPORTS 1 (ARGENTINA)
@@ -1306,14 +1272,11 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | DIRECTV SPORTS 2
 http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DEPORTES | DIRECTV SPORTS 2 HD
 http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", TyC Sports
 http://200.112.174.230/mtcast_tychd/mpegts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Fútbol Argentino", ESPN Premium
@@ -1348,26 +1311,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/xtremacnadeportes.png" group-title="⚽ Deportes", ✔️ Xtrema TV Cna Deportes 2
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TNT_Sports_2022_Logo.svg" group-title="⚽ DEPORTES", TNT Sports Pre HD
-http://189.50.210.3:8008/play/a031/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TNT_Sports_2022_Logo.svg" group-title="⚽ DEPORTES", TNT Sports Pre HD (Opción 2)
-http://189.50.210.3:8008/play/a07c/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN Premium HD
-http://189.50.210.3:8008/play/a07q/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN Pre. HD (Opción 2)
-http://189.50.210.3:8008/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN HD
-http://189.50.210.3:8008/play/a04h/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN HD
-http://189.50.210.3:8008/play/a07m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 2 HD
-http://189.50.210.3:8008/play/a04e/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 2 HD
-http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 3 HD (Opción 2)
-http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 6 HD
-http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="⚽ Deportes", ✔️ Bein Sports Xtra ñ
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="⚽ Deportes", ✔️ Bein Sports Xtra ñ *2
@@ -1379,14 +1322,29 @@ http://181.78.82.6:46090/play/a00i/index.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 2 HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 3 HD (Opción 2)
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/1200px-ESPN_logo.svg.png" group-title="⚽ DEPORTES", ESPN 6 HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS
 http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS
 http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS
 http://190.108.93.75:8001/play/a05d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/512px-DAZN_F1_logo.svg.png" group-title="Tango Sports", DAZNF1
-http://liketv.pro:80/User1626/28TM4MEU66/158.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/368px-Win_Sports_nuevo_logo.svg.png" group-title="Tango Sports", WIN SPORTS
 http://181.78.71.71:18000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
@@ -1416,16 +1374,10 @@ http://185.132.134.159:80/sport5/index.m3u8
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", МАТЧ! ФУТБOЛ 2HD 🇷🇺
 http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", ESPN DEPORTES 🇺🇸
-https://cors-proxy.wangzhishi.net/http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", ESPN DEPORTES 🇺🇸
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", SKY SPORT LALIGA 🇲🇽
-http://45.5.117.57:8200/play/a050/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", SKY SPORT LALIGA 🇲🇽
 http://179.60.224.196:8000/play/a0i7/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", HYP 🇪🇸
-http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", LIG 🇪🇸
 http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="", SCTV 22 - SSPORT 1 🇻🇳
