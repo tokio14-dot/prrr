@@ -1,6 +1,13 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="DEPORTES1",ESPN
+http://181.118.158.103:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="DEPORTES1",ESPN 2
+http://181.118.158.103:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremiun.png" group-title="DEPORTES1",ESPN Premium
+http://streametx.app/php/proxy_magma.php?r=%2Fstream%2F408
+#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="DEPORTES1",ESPN 2 (Opcion 2)
+http://181.118.158.103:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="DEPORTES1",TNT Sports (Principal)
 http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1 group-title="DEPORTES1",TNT Sports (Backup)
