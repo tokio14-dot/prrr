@@ -12,13 +12,6 @@ http://m3u.tvcluboficial.com/free/oct/oct/1159.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1,pelis series
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 01
@@ -27,8 +20,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209595/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209595/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="", dibujos animados
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="", anime
-https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="", familia cine 2
 https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=",pelis
