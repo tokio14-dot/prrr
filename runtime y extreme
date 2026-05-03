@@ -1,59 +1,16 @@
 #EXTM3U
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg", Chespirito 24/7
 http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Marvel HD
+http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine 2024
 http://m3u.tvcluboficial.com/free/oct/oct/1099.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine 2025
 http://m3u.tvcluboficial.com/free/oct/oct/1159.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Acción
-http://m3u.tvcluboficial.com/free/oct/oct/157.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Acción HD
-http://m3u.tvcluboficial.com/free/oct/oct/158.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Acción Sagas
-http://m3u.tvcluboficial.com/free/oct/oct/159.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Acción Sagas HD
-http://m3u.tvcluboficial.com/free/oct/oct/160.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Comedia
-http://m3u.tvcluboficial.com/free/oct/oct/161.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Comedia 1 HD
-http://m3u.tvcluboficial.com/free/oct/oct/162.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Comedia 2
-http://m3u.tvcluboficial.com/free/oct/oct/163.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Comedia 2 HD
-http://m3u.tvcluboficial.com/free/oct/oct/164.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Ficción/Fantasia
-http://m3u.tvcluboficial.com/free/oct/oct/165.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Ficción/Fantasia 2
-http://m3u.tvcluboficial.com/free/oct/oct/166.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Ficción/Fantasia 2 HD
-http://m3u.tvcluboficial.com/free/oct/oct/167.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Ficción/Fantasia HD
-http://m3u.tvcluboficial.com/free/oct/oct/168.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Infantil
-http://m3u.tvcluboficial.com/free/oct/oct/169.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Infantil HD
-http://m3u.tvcluboficial.com/free/oct/oct/170.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Infantil Sagas
-http://m3u.tvcluboficial.com/free/oct/oct/171.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Infantil Sagas HD
-http://m3u.tvcluboficial.com/free/oct/oct/172.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Marvel HD
-http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Navideño
-http://m3u.tvcluboficial.com/free/oct/oct/1058.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Navideño HD
-http://m3u.tvcluboficial.com/free/oct/oct/1059.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Romance
-http://m3u.tvcluboficial.com/free/oct/oct/178.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Romance HD
-http://m3u.tvcluboficial.com/free/oct/oct/179.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Zombis
-http://m3u.tvcluboficial.com/free/oct/oct/183.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Zombis HD
-http://m3u.tvcluboficial.com/free/oct/oct/184.m3u8
+
+
 
 
 
