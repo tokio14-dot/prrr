@@ -23,15 +23,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=",pelis
 https://live20.bozztv.com/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="",retrotoons
-https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 #EXTINF:-1 tvg-logo="",apanines
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="",Box Cinema
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="",pelis imfantiles
@@ -40,8 +34,7 @@ http://38.51.234.11:8888/play/a06d
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 #EXTINF:-1 tvg-logo="",VerTV (VTV) (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 group-title="",megacine
-https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="",mega cine
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",jiocimema
@@ -89,22 +82,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-
-
-
-#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Sureño
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Terror
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Familia
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Accion
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png",FREETV Estella
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime Peliculas
