@@ -149,11 +149,29 @@ https://m.ok.ru/video/1893715610326
 #EXTINF:-1 tvg-logo="",La casa de los abuelos | 2002
 https://m.ok.ru/video/4702394256086
 
-#EXTINF:-1 tvg-logo="",El hombre inquieto | 1954
-https://m.ok.ru/video/7959437970134
 
-#EXTINF:-1 tvg-logo="",Loco por ellas | 1966
-https://m.ok.ru/video/7894309735126
+
+
+
+
+#EXTINF:-1 tvg-logo="",Dark City | 1998
+https://m.ok.ru/video/7070781278804
+
+#EXTINF:-1 tvg-logo="",Dark City Castellano | 1998
+https://m.ok.ru/video/7845895670319
+
+#EXTINF:-1 tvg-logo="",Dark City HD Español | 1998
+https://m.ok.ru/video/7179675372200
+
+#EXTINF:-1 tvg-logo="",Dark City Ciudad en Tinieblas | 1998
+https://ok.ru/video/2639717796373
+
+
+
+
+
+
+
 
 
 
