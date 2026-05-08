@@ -59,6 +59,12 @@ https://m.ok.ru/video/3456789012345
 
 
 
+#EXTINF:-1 tvg-logo="https://m.ok.ru/video/4295614401155",Ouija (2014)
+https://m.ok.ru/video/4295614401155
+#EXTINF:-1 tvg-logo="https://m.ok.ru/video/12033918210",Las ruinas 2
+https://m.ok.ru/video/12033918210
+#EXTINF:-1 tvg-logo="https://m.ok.ru/video/2701065914963",Suspiria (1977)
+https://m.ok.ru/video/2701065914963
 
 
 
