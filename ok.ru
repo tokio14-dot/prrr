@@ -71,26 +71,8 @@ https://m.ok.ru/video/2701065914963
 #EXTINF:-1 tvg-logo="",El Pianista | 2002
 https://m.ok.ru/video/7698519820852
 
-#EXTINF:-1 tvg-logo="",El color púrpura | 1985
-https://m.ok.ru/video/7020830526036
-
-#EXTINF:-1 tvg-logo="",Dark City | 1998
-https://m.ok.ru/video/7070781278804
-
-#EXTINF:-1 tvg-logo="",Porky's | 1981
-https://m.ok.ru/video/6737490020948
-
-#EXTINF:-1 tvg-logo="",La caja de música | 1989
-https://m.ok.ru/video/7255063661140
-
 #EXTINF:-1 tvg-logo="",Triangle | 2009
 https://m.ok.ru/video/5587739937364
-
-#EXTINF:-1 tvg-logo="",Conan el Bárbaro | 1982
-https://m.ok.ru/video/6918316690004
-
-#EXTINF:-1 tvg-logo="",Nido de ratas | 1954
-https://m.ok.ru/video/7337036352084
 
 #EXTINF:-1 tvg-logo="",Breakin' | 1984
 https://m.ok.ru/video/6921079556692
@@ -98,52 +80,23 @@ https://m.ok.ru/video/6921079556692
 #EXTINF:-1 tvg-logo="",El sustituto | 1996
 https://m.ok.ru/video/6959818869332
 
-#EXTINF:-1 tvg-logo="",La aventura del Poseidón | 1972
-https://m.ok.ru/video/7082764274260
+#EXTINF:-1 tvg-logo="",Primer | 2004
+https://m.ok.ru/video/6912076876372
 
-#EXTINF:-1 tvg-logo="",Mi bella dama | 1964
-https://m.ok.ru/video/7200967690836
+#EXTINF:-1 tvg-logo="",Dark City | 1998
+https://m.ok.ru/video/7070781278804
 
-#EXTINF:-1 tvg-logo="",La lotería del amor | 1994
-https://ok.ru/video/1930368191190
+#EXTINF:-1 tvg-logo="",El color púrpura | 1985
+https://m.ok.ru/video/7020830526036
 
-#EXTINF:-1 tvg-logo="",Loco por ellas | 1966
-https://m.ok.ru/video/7894309735126
+#EXTINF:-1 tvg-logo="",Lazos ardientes | 1996
+https://m.ok.ru/video/8603845200468
 
-#EXTINF:-1 tvg-logo="",El hombre inquieto | 1954
-https://m.ok.ru/video/7959437970134
+#EXTINF:-1 tvg-logo="",Río Místico | 2003
+https://m.ok.ru/video/5699999304276
 
-#EXTINF:-1 tvg-logo="",El circo de las mariposas | 2009
-https://m.ok.ru/video/1893715610326
-
-#EXTINF:-1 tvg-logo="",La casa de los abuelos | 2002
-https://m.ok.ru/video/4702394256086
-
-#EXTINF:-1 tvg-logo="",El pistolero desconocido | 1967
-https://ok.ru/video/1902172441302
-
-#EXTINF:-1 tvg-logo="",Tina: La luz brillante | 1993
-https://ok.ru/video/7575997123286
-
-#EXTINF:-1 tvg-logo="",Ben-Hur | 1959
-https://ok.ru/video/4899302673020
-
-#EXTINF:-1 tvg-logo="",Cinderella Man | 2005
-https://m.ok.ru/video/35341732571
-
-#EXTINF:-1 tvg-logo="",1984 | 1984
-https://m.ok.ru/video/11888385067742
-
-#EXTINF:-1 tvg-logo="",Revancha | 1990
-https://m.ok.ru/video/7607180921484
-
-#EXTINF:-1 tvg-logo="",Tal para cual | 1983
-https://m.ok.ru/video/3830428797580
-
-#EXTINF:-1 tvg-logo="",Los verduleros | 1986
-https://m.ok.ru/video/7216230238860
-
-
+#EXTINF:-1 tvg-logo="",Flash Gordon | 1980
+https://m.ok.ru/video/7661825690196
 
 
 
