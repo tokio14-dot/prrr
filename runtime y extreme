@@ -12,8 +12,6 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1tvg-logo="",RETRO PLAY
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg", Chespirito 24/7
-http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Marvel HD
 http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine 2024
@@ -142,8 +140,8 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/22/21/imgbin-el-chavo-del-ocho-logo-sitcom-television-show-comedy-others-cfmV7MN0y8ijg47aNWgmgWrD1.jpg", EL CHAVO DEL 8
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg", Chespirito 24/7
+http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg",Los Simpsons | Classicos (LATAM)
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg",los Simpson 
