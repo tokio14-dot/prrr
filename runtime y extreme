@@ -1,6 +1,17 @@
 #EXTM3U
 
-
+#EXTINF:-1tvg-logo="https://i.ibb.co/DPh0JyJD/nickclasico.jpg",NICK CLASICO
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9kMRdQ7/MAGAZINE.jpg",MAGAZINE OP1
+http://181.13.252.102:8000/play/a02h/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
+http://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
+http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
+#EXTINF:-1tvg-logo="",CLASICOS ANIMALOS
+https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1tvg-logo="",RETRO PLAY
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/chespirito.jpg", Chespirito 24/7
 http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
 #EXTINF:-1 tvg-logo="http://img.tvcluboficial.com/cine247.png", Cine Marvel HD
@@ -117,6 +128,18 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png",LOS SIMPSONS 
+http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png",LOS SIMPSONS OP2
+http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg",FUTURAMA
+http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/22/21/imgbin-el-chavo-del-ocho-logo-sitcom-television-show-comedy-others-cfmV7MN0y8ijg47aNWgmgWrD1.jpg", EL CHAVO DEL 8
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
