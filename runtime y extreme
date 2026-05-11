@@ -12,6 +12,14 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="",CLASICOS ANIMADOS 2
 https://rpn.bozztv.com/gusa/gusa-cartoonclassics/index.m3u8
+
+#EXTINF:-1 tvg-logo="",apanines
+https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
+
+
+
+#EXTINF:-1,pelis series
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1tvg-logo="",RETRO PLAY
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="", Cine Marvel HD
@@ -20,22 +28,16 @@ http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
 http://m3u.tvcluboficial.com/free/oct/oct/1099.m3u8
 #EXTINF:-1 tvg-logo="", Cine 2025
 http://m3u.tvcluboficial.com/free/oct/oct/1159.m3u8
-
-
-#EXTINF:-1,pelis series
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 01
 https://live20.bozztv.com/giatvplayout7/giatv-209595/playlist.m3u8
 #EXTINF:-1 tvg-logo="", pelis 02
 https://live20.bozztv.com/giatvplayout7/giatv-209595/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="", dibujos animados
-https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 tvg-logo="", familia cine 2
 https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo=",pelis
 https://live20.bozztv.com/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="",apanines
-https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="", Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
