@@ -2,7 +2,19 @@
 
 
 
-
+#EXTM3U
+#EXTINF:-1, BEIN SPORTS 1 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78378.ts
+#EXTINF:-1, BEIN SPORTS 2 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78379.ts
+#EXTINF:-1, BEIN SPORTS 3 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
+#EXTINF:-1, BEIN SPORTS 4 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts
+#EXTINF:-1, BEIN SPORTS 5 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78382.ts
+#EXTINF:-1, BEIN SPORTS 6 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78383.ts
 #EXTINF:-1, CAZE TV 1
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1, RTI 1 (1080p) [Not 24/7]
