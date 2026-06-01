@@ -2,6 +2,21 @@
 
 
 
+
+#EXTINF:-1, CAZE TV 1
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1, RTI 1 (1080p) [Not 24/7]
+http://69.64.57.208:8080/rti1/playlist.m3u8
+#EXTINF:-1, RTI 2 (1080p) [Not 24/7]
+http://69.64.57.208:8080/rti2/playlist.m3u8
+#EXTINF:-1, FOX DEPOTES
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1, BEIN SPORTS Extra
+https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS Extra+
+https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8
+#EXTINF:-1, GOAL TV
+https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
 #EXTINF:-1, FUBO SPORTS 1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1, FUBO SPORTS 2
