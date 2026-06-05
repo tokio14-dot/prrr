@@ -1,8 +1,36 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",ARG ESPN 1
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327914
+#EXTINF:-1 tvg-logo="",ARG ESPN 2
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327915
+#EXTINF:-1 tvg-logo="",ARG ESPN 3
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327916
+#EXTINF:-1 tvg-logo="",ARG ESPN PREMIUM 
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327917
+#EXTINF:-1 tvg-logo="",ARG TNT SPORTS
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327919
+#EXTINF:-1 tvg-logo="",ARG TNT SPORTS
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327920
+#EXTINF:-1 tvg-logo="",ARG FOX SPORT 1
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327908
+#EXTINF:-1 tvg-logo="",ARG FOX SPORT 2
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327908
+#EXTINF:-1 tvg-logo="",ARG FOX SPORT 3
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327910
+#EXTINF:-1 tvg-logo="",ARG FOX SPORT PREMIUM
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327911
+#EXTINF:-1 tvg-logo="",ARG ESPN PREMIUM OP2
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/377719
+#EXTINF:-1 tvg-logo="", ARG deport tv 
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/397594
 
-#EXTM3U
+
+
+
+
+
 #EXTINF:-1, BEIN SPORTS 1 HD
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78378.ts
 #EXTINF:-1, BEIN SPORTS 2 HD
