@@ -102,8 +102,16 @@ http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306486.ts
 http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306487.ts
 
 
-
-
+#EXTINF:-1 tvg-logo="",DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 tvg-logo="",DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 tvg-logo="",DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 tvg-logo="",DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 tvg-logo="",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 HD
 http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78378.ts
