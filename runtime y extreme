@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",WISPTV Retro
+https://live20.bozztv.com/giatvplayout7/giatv-209595/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="",WISPTV
+https://live20.bozztv.com/giatv/giatv-rocket/rocket/chunks.m3u8
 DIBUJOS 
 #EXTINF:-1 tvg-logo="",CLASICOS ANIMALOS
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
@@ -174,15 +186,15 @@ https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Los_Pitufos_%282019%29.png", Los pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:-1 tvg-logo="",los pitufos 
+https://jmp2.uk/stvp-ESBD130000205
+
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/04/Pantera_Rosa_2.jpg", La Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg", GOKU TV
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="",DRAGON BALL Z
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="",South Park
