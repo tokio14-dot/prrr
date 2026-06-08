@@ -31,7 +31,12 @@ http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/490458
 #EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png",DIRECTV SPORTS
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666
 
-
+#EXTINF:-1 tvg-logo="",ESPN
+https://cdn.gambeta.vip/fl/disney13.m3u8?k=1608e3c923c1b31754963731
+#EXTINF:-1 tvg-logo="",FOX SPORTS 2
+https://cdn.gambeta.vip/tv/fox-sports-2.m3u8?k=1608e3c923c1b31754963731
+#EXTINF:-1 tvg-logo="",Sport Brasil
+https://cdn.gambeta.vip/fl/sportv.m3u8?k=1608e3c923c1b31754963731
 #EXTINF:-1 tvg-logo="",CARACOL GOL
 https://cdn.gambeta.vip/fl/caracol.m3u8?k=1608e3c923c1b31754963731
 #EXTINF:-1 tvg-logo="",danz la liga
