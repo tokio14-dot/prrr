@@ -43,7 +43,16 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
-
+#EXTINF:-1,ADRENALINA SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/98.m3u8
+#EXTINF:-1,CLARO SPORTS
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8
+#EXTINF:-1,TNT SPORTS CHILE
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/462.m3u8
+#EXTINF:-1,EUROSPORT 1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/618.m3u8
+#EXTINF:-1,EUROSPORT 2
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/619.m3u8
 #EXTINF:-1,DSPORTS
 http://217.26.190.76:8888/play/a0co/index.m3u8
 #EXTINF:-1,DSPORTS +
