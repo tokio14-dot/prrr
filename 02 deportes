@@ -43,7 +43,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="",DIRECTV 2
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 #EXTINF:-1 tvg-logo="",ARG ESPN 1
 http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327914
 #EXTINF:-1 tvg-logo="",ARG ESPN 2
