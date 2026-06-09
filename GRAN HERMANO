@@ -5,23 +5,3 @@ http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA", 24 HS 
-http://codetvx.xyz:80/juliotapia2022/https/749367.ts
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",CAM 1
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749368.ts
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",CAM 2
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749369.ts
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",CAM 3
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749370.ts
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA", MULTICAMARA
-http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/749371.ts
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",CAM 1
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454927.m3u8
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",CAM 2
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454928.m3u8
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",CAM 3
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454929.m3u8
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO MULTICAMARA
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454930.m3u8
-#EXTINF:-1 tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",ARGENTINA EN PRUEBA
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
