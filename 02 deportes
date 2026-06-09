@@ -32,6 +32,62 @@ http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/490458
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666
 
 
+
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/web/logoFIFA.png",T1
+https://executeandship.com/premiumcr.php?player=mobile&live=skystennis
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYaRVYuD4W_piwxgpm45nmOnrRhaI9rjsCQ&s",FOX DEPOTES
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",BEIN SPORTS Extra
+https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png",BEIN SPORTS Extra+
+https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://goaltv.ca/static/media/goal-logo-color-1-rgb.84577cb6.png",GOAL TV
+https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/asportse.png",A SPORTS
+http://172.16.29.138:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/TSports.jpg",T SPORTS
+http://172.16.29.138:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/ptvsports.png",PTV SPORTS
+http://172.16.29.138:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/starsportsselect1.png",STAR SPORTS SELECT
+http://172.16.29.138:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/starsportsselect2hd.png",STAR SPORTS SELECT 2
+http://172.16.29.138:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/starsports1.png",STAR SPORTS 1
+http://172.16.29.138:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/starsports2.png",STAR SPORTS 2
+http://172.16.29.138:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/sony-ten-1.png",SONY TEN 1
+http://172.16.29.138:8090/hls/tensportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/sony-ten-2.png",SONY TEN 2
+http://172.16.29.138:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/sony-ten-3.png",SONY TEN 3
+http://172.16.29.138:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/sonyten5.png",SONY TEN 5
+http://172.16.29.138:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/eurosport.png",EUROSPORTS
+http://172.16.29.138:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/images/skysportsgolfhd.png",SKY SPORTS GOLF
+http://172.16.29.138:8090/hls/SkySportsGolf.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/images/eurosport.png",SKY SPORTS CRICKET
+http://172.16.29.138:8090/hls/SkySportsCricketHD.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/willow.png",WILLOW CRICKET
+http://172.16.29.138:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/images/tntsports.png",TNT SPORTS 2
+http://172.16.29.138:8090/hls/tntsports2hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/images/tntsports.png",TNT SPORTS3
+http://172.16.29.138:8090/hls/tntsports3hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/images/tntsports.png",TNT SPORTS 4
+http://172.16.29.138:8090/hls/tntsports4hd.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/images/bein1.png",BEIN SPORTS1 ENG
+http://172.16.29.138:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.29.28/images/sony-ten-1.png",WORLD FREE SPORTS
+http://172.16.29.138:8090/hls/WorldofFreeSports.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="",IPTV deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-logo="", Barcelona TV
