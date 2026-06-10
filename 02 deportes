@@ -56,7 +56,12 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="",real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",TyC Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 #EXTINF:-1 tvg-logo="",ESPN LAT
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnlat_720.m3u8
 #EXTINF:-1 tvg-logo="",ESPN LAT 720p
@@ -71,7 +76,6 @@ http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn2ar_lng.m3u
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espnlat_720.m3u8
 #EXTINF:-1 tvg-logo="",ESPN 3
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn3ar_lng.m3u8
-
 #EXTINF:-1 tvg-logo="",ESPN 3 720p
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-espn3lat_720.m3u8
 #EXTINF:-1 tvg-logo="",ESPN 4 720p
