@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png", ARGENTINA VS ISLANDIA
+http://sertw.cloud:8081/app/www12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMC8yMDI2IDE6MTA6NTcgQU0maGFzaF92YWx1ZT0rR3NJeTFSL0cvVW9aM1dlclQvTm1nPT0mdmFsaWRtaW51dGVzPTIyMA==
 
 
 #EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png",señal exclusiva (1)
