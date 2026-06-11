@@ -274,8 +274,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/112.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/126.m3u8
 #EXTINF:-1,TUDN 2
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
-#EXTINF:-1,Azteca Deportes
-http://45.5.117.57:8999/play/a0e5/index.m3u8
+
 #EXTINF:-1,ESPN PREMIUM CHI
 http://186.33.40.97:8789/play/22
 #EXTINF:-1,DSPORTS 2 HD
@@ -538,8 +537,6 @@ http://nocable.cc:8080/wfcason@gmail.com/wfcason@2024/99623
 http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTINF:-1, Sky Sport BUNDESLIGA HD
 http://daleplaytv.vip:80//live/123MMM/654321/406840.ts
-#EXTINF:-1, Azteca Deportes FHD
-http://deluxe-tv.site:80/raul_gutierrez/Guti2022R/412068.ts
 #EXTINF:-1, FOX Sports 3
 http://45.167.2.138:8000/play/a0qn/index.m3u8
 #EXTINF:-1, Claro Sports 1
@@ -736,13 +733,13 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170870&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170869&extension=ts
 #EXTINF:-1, Canal + Live 18
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=1170868&extension=ts
-#EXTINF:-1, espn4
+#EXTINF:-1, ESPN 4
 http://45.5.119.43:4000/play/a028/index.m3u8
 #EXTINF:-1, la liga
 http://45.5.119.43:4000/play/a05r/index.m3u8
 #EXTINF:-1, tudn
 http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:-1, espn2
+#EXTINF:-1, ESPN 2
 http://45.5.119.43:4000/play/a053/index.m3u8
 #EXTINF:-1, Latino | beIN Sports ñ HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/101.m3u8
