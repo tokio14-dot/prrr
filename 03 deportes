@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ARGENTINA VS ISLANDIA
+#EXTINF:-1, Yelefe
 http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-telefe_720.m3u8
 #EXTINF:-1, señal exclusiva (1)
 http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169
@@ -19,6 +19,17 @@ http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/490458
 #EXTINF:-1, DIRECTV SPORTS
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666
+
+#EXTINF:-1,DSports
+http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1,RCN (Colombia) (🇨🇴)
+http://181.78.211.244:8005/play/a0ak/index.m3u8
+#EXTINF:-1,WIN Sports (Peru) (🇵🇪)
+http://200.69.92.222:8000/play/a04r/index.m3u8
+#EXTINF:-1,WIN+ (Peru) (🇵🇪)
+http://147.135.114.221:8001/play/a00u/index.m3u8
+#EXTINF:-1,Caracol
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 #EXTINF:-1, BEIN SPORTS Extra
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS Extra+
