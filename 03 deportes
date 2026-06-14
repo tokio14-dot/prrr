@@ -4,14 +4,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",Daznsports
-https://tinyurl.com/daznsportstv
-#EXTINF:-1 tvg-logo="",tudnspprts
-https://tinyurl.com/tudnsports
-#EXTINF:-1 tvg-logo="",DSportsGO
-https://tinyurl.com/dsportsgo
-#EXTINF:-1, telefe
-http://181.191.141.7/Live/51334cbb88db0e050c59ef2d28c53491/local-telefe_720.m3u8
+
+
 #EXTINF:-1, señal exclusiva (1)
 http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169
 #EXTINF:-1, señal exclusiva (3)
@@ -31,6 +25,8 @@ http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/490458
 #EXTINF:-1, DIRECTV SPORTS
 http://redworld.pro:8880/56974081590w/A8TsKszFcs6n/428666
 
+#EXTINF:-1 tvg-logo="",tudnspprts
+https://tinyurl.com/tudnsports
 #EXTINF:-1,DSports
 http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1,RCN (Colombia) (🇨🇴)
