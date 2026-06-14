@@ -1,12 +1,106 @@
 #EXTM3U
 
 
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png", FOX
+http://84.17.50.102/fox/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png", FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png", Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FOX NY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FOX 11 Green Bay WI (WLUK)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png", FOX One
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png", Fox Soccer Plus
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png", FOX Sports 2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png", FOX Sports 2 [2]
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Telemundo 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Bein US
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Dazn 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Dazn 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Dazn 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Dazn 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Dazn 6
+http://23.237.104.106:8080/DAZN_6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", TUDN [2]
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 2)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 3)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 4)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 5)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 7)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 8)
+http://190.117.20.37:8000/play/a08d/index.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 9)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 10)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 11)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg", DSports (Opción 12)
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", Fox One
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="",prueba
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
 #EXTINF:-1 tvg-logo="",Teledeporte
