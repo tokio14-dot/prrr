@@ -19,6 +19,187 @@ http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/67533
 http://skynetdigital.us:8080/josextream/yPGg7PFzY25n/537361
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="", SABC Sports (720)
+https://sabctwotasp.cdn.mangomolo.com/sport/smil:sport.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="", TNT Sports 1 (720)
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
+
+#EXTINF:-1 tvg-logo="", Fubo Sports Network (720)
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+
+#EXTINF:-1 tvg-logo="", Fubo Sports Network (1080)
+https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Willow TV (720)
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Bein Xtra (720)
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX Sports (720)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+
+#EXTINF:-1 tvg-logo="", FS1 (1080)
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Caze TV (720)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="", BEIN USA (720)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TUDN
+http://24.152.53.3:8090/play/a012/index.m3u8?
+
+#EXTINF:-1 tvg-logo="", Fubo Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-logo="", Fubo Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-logo="", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="", Fifa+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", FIFA Plus B
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+
+#EXTINF:-1 tvg-logo="", MatchNow | Blue Sport 1
+https://match-now.site/live/blue_sport_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="", MatchNow | Blue Sport 2
+https://match-now.site/live/blue_sport_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Star Sport 1
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Star Sport 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="", T Sports
+https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TSN 1
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="", FS2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+
+#EXTINF:-1 tvg-logo="", NBA
+http://41.223.30.230/ESPN2/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CBS Sports Network (USA)
+https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX (WC 2026)
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-logo="", FS1 (WC 2026)
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Fox Sports 2 (WC 2026)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX NY (WC 2026)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX 11 Green Bay WI (WLUK) (WC 2026)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX One (WC 2026)
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Fox Soccer Plus (WC 2026)
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX Sports 2 (WC 2026)
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="", FOX Sports 2 [2] (WC 2026)
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="", TVRI Sport (720p) (WC 2026)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
+
+#EXTINF:-1 tvg-logo="", Telemundo (WC 2026)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+
+#EXTINF:-1 tvg-logo="", Telemundo 2 (WC 2026)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="", Fox Deportes (WC 2026)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Bein US (WC 2026)
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Dazn 2 (WC 2026)
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Dazn 3 (WC 2026)
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Dazn 4 (WC 2026)
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Dazn 5 (WC 2026)
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Dazn 6 (WC 2026)
+http://23.237.104.106:8080/DAZN_6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TUDN [2] (WC 2026)
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 1) (WC 2026)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 2) (WC 2026)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 3) (WC 2026)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 4) (WC 2026)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 5) (WC 2026)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 6) (WC 2026)
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 7) (WC 2026)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 8) (WC 2026)
+http://190.117.20.37:8000/play/a08d/index.m3u
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 9) (WC 2026)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 10) (WC 2026)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 11) (WC 2026)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-logo="", DSports (Opción 12) (WC 2026)
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Fox One (WC 2026)
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="",copa del mundo win sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1, señal exclusiva (1)
