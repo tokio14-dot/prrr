@@ -135,6 +135,9 @@ http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 22)
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 23)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports 2
 http://neoyjpw.top:8080/01691613063102/4f503120a59b/58866
 
