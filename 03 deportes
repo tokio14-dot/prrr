@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 1)
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 2)
+https://s2.bufaloweb.com/bufalo10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 3)
+https://s2.bufaloweb.com/bufalo11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FOX
 http://84.17.50.102/fox/index.m3u8
@@ -127,20 +135,24 @@ http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 22)
 http://217.26.190.76:8888/play/a0co/index.m3u8
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports 2
 http://neoyjpw.top:8080/01691613063102/4f503120a59b/58866
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports AR
 http://neoyjpw.top:8080/01691613063102/4f503120a59b/18393
 
-
+#EXTINF:-1 tvg-logo="",ESPN 2
+https://s2.bufaloweb.com/bufalo4/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 3
+https://s2.bufaloweb.com/bufalo5/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 4
+https://s2.bufaloweb.com/bufalo6/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 5
+https://s2.bufaloweb.com/bufalo7/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 6
+https://s2.bufaloweb.com/bufalo8/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 7
+https://s2.bufaloweb.com/bufalo12/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="", Fox One
