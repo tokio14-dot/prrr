@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", FOX
 http://84.17.50.102/fox/index.m3u8
 
@@ -85,21 +83,12 @@ http://190.223.48.46:8000/play/a028/index.m3u8
 http://191.97.59.33:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 8)
-http://190.117.20.37:8000/play/a08d/index.m3u
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 9)
-http://177.53.152.117:8000/play/a07d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 10)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 11)
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 9)
 http://177.10.184.193:8000/play/a0fc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 12)
-http://217.26.190.76:8888/play/a0co/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 10)
 http://38.226.210.46:8000/play/A008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports 2
@@ -108,28 +97,16 @@ http://neoyjpw.top:8080/01691613063102/4f503120a59b/58866
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports AR
 http://neoyjpw.top:8080/01691613063102/4f503120a59b/18393
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSPORTS | 1 CH HD
-https://zona593movie.com:8443/56984699680w1/310724zplayer/525778
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSPORTS | 1 COL
-https://zona593movie.com:8443/56984699680w1/310724zplayer/525779
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSPORTS | 2 ARG
-https://zona593movie.com:8443/56984699680w1/310724zplayer/525784
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSPORTS | PLUS PE
-https://zona593movie.com:8443/56984699680w1/310724zplayer/525793
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSPORTS | 2 EC
-https://zona593movie.com:8443/56984699680w1/310724zplayer/525787
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSPORTS | PLUS ARG
-https://zona593movie.com:8443/56984699680w1/310724zplayer/525790
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp", Fox One
+
+
+
+
+
+#EXTINF:-1 tvg-logo="", Fox One
 https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="",prueba
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
