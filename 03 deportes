@@ -91,6 +91,49 @@ http://177.10.184.193:8000/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 10)
 http://38.226.210.46:8000/play/A008/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 11)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 12)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 13)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 14)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 15)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 16)
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 17)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 18)
+http://190.117.20.37:8000/play/a08d/index.m3u
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 19)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 20)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 21)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 22)
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports 2
 http://neoyjpw.top:8080/01691613063102/4f503120a59b/58866
 
