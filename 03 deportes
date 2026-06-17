@@ -155,6 +155,8 @@ http://neoyjpw.top:8080/01691613063102/4f503120a59b/18393
 
 #EXTINF:-1 tvg-logo="",ESPN USA
 http://84.17.50.102/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 2 USA
+http://84.17.50.102/espn2/index.m3u8
 #EXTINF:-1 tvg-logo="",ESPN 2
 https://s2.bufaloweb.com/bufalo4/index.m3u8
 #EXTINF:-1 tvg-logo="",ESPN 3
