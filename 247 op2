@@ -52,19 +52,53 @@ http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYfloUpdeRHrOsfS_L_Adr0B_gk
 #EXTINF:-1 tvg-id="" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/sobrenatural-temporada-14-1532605939.jpg?crop=1.00xw:0.738xh;0,0&resize=640:*" group-title="CANALES 24/7",24/7 Sobrenatural
 http://cdn-abc.xyz:2086/play/j72rdxfUW3_gUo9huYfloWmxGfDzh9dC65PlN8LN7RQ
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1684938017100/1684938017100.png",Familia P. Luche
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", los picapiedras
+http://xstr.cyou:8080/JARED34/675GTd/484847
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484848
+http://xstr.cyou:8080/JARED34/675GTd/484848
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484849
+http://xstr.cyou:8080/JARED34/675GTd/484849
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484853
+http://xstr.cyou:8080/JARED34/675GTd/484853
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484856
+http://xstr.cyou:8080/JARED34/675GTd/484856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484858
+http://xstr.cyou:8080/JARED34/675GTd/484858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", familia peluche
 http://xstr.cyou:8080/JARED34/675GTd/484859
-#EXTINF:-1 tvg-logo="",cine
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484860
 http://xstr.cyou:8080/JARED34/675GTd/484860
 
-#EXTINF:-1 tvg-logo="",los picapiedras
-http://xstr.cyou:8080/JARED34/675GTd/484847
-#EXTINF:-1 tvg-logo="",Clarence
-http://xstr.cyou:8080/JARED34/675GTd/484848
-#EXTINF:-1 tvg-logo="",
-http://xstr.cyou:8080/JARED34/675GTd/4848
-#EXTINF:-1 tvg-logo="",
-http://xstr.cyou:8080/JARED34/675GTd/4848
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484862
+http://xstr.cyou:8080/JARED34/675GTd/484862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484864
+http://xstr.cyou:8080/JARED34/675GTd/484864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484865
+http://xstr.cyou:8080/JARED34/675GTd/484865
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 484866
+http://xstr.cyou:8080/JARED34/675GTd/484866
+
+
+
+
+
+
+
+
+
+
 
 
 
