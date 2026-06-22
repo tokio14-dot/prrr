@@ -1,65 +1,115 @@
 #EXTM3U
-22/6
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Español (DSPORTS FHD)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (DSPORTS FHD)
 https://sudamericaplay2.com/canal_8112/cza_dsports.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Español (DSPORTS FHD OP2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (TV LA 1 ES FHD)
+https://sudamericaplay2.com/canal_8112/tvla1es.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (DSPORTS FHD OP2)
 https://sudamericaplay2.com/canal_8112/dsports4541.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Español (TRECE PY)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (RPC ES HD)
+https://sudamericaplay2.com/canal_41/rpc.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (TRECE PY HD)
 https://sudamericaplay2.com/canal_41/trecepy.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Portugués (SPORT TV 1 BR)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Portugués (SPORT TV 1 BR)
 https://sudamericaplay2.com/canal_8112/1sportv1.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Alemán (ZDF)
-https://sudamericaplay2.com/canal_8112/zdf1.html
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Alemán (DAS DE)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Alemán (DAS DE)
 https://sudamericaplay2.com/canal_8112/das_de.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Inglés (FOX 1 US)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Inglés (FOX ONE US)
+https://sudamericaplay2.com/canal_8112/1foxone.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Español (DSPORTS GLOBAL)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Francés (M6 FR)
+https://sudamericaplay2.com/canal_8112/m661.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (DSPORTS GLOBAL)
 https://streamtpday1.xyz/global2.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Español (VIX+)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (VIX+)
 https://streamtpday1.xyz/global2.php?stream=vix1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Uruguay vs Cabo Verde - 17:00 - Español (TELEMUNDO)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (DISNEY+)
+https://streamtpday1.xyz/global2.php?stream=disney3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Argentina vs Austria - 12:00 - Español (TELEMUNDO)
 https://streamtpday1.xyz/global2.php?stream=telemundousa
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",O'Higgins vs Unión Española - 19:00 - Español (MAX)
-https://streamtpday1.xyz/global2.php?stream=max1
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Español (DSPORTS FHD)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Español (DSPORTS FHD)
 https://sudamericaplay2.com/canal_8112/cza_dsports.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Español (DSPORTS FHD OP2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Español (DSPORTS FHD OP2)
 https://sudamericaplay2.com/canal_8112/dsports4541.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Español (UNICANAL)
-https://sudamericaplay2.com/canal_8112/unicanal.php
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Español (TRECE PY HD)
+https://sudamericaplay2.com/canal_41/trecepy.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Inglés (FOX 1 US)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Inglés (FOX ONE US)
+https://sudamericaplay2.com/canal_8112/1foxone.html
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Español (DSPORTS GLOBAL)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Portugués (CAZE TV)
+https://sudamericaplay2.com/canal_8112/34cazetv.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Alemán (DAS DE)
+https://sudamericaplay2.com/canal_8112/das_de.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Francés (M6 FR)
+https://sudamericaplay2.com/canal_8112/m661.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Español (DSPORTS GLOBAL)
 https://streamtpday1.xyz/global2.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Español (VIX+)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Español (VIX+)
 https://streamtpday1.xyz/global2.php?stream=vix1
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Nueva Zelanda vs Egipto - 20:00 - Español (TELEMUNDO)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Francia vs Iraq - 16:00 - Español (TELEMUNDO)
+https://streamtpday1.xyz/global2.php?stream=telemundousa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (DSPORTS FHD)
+https://sudamericaplay2.com/canal_8112/cza_dsports.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (CANAL 5 MX FHD)
+https://sudamericaplay2.com/canal_8112/21canalfive.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (DSPORTS FHD OP2)
+https://sudamericaplay2.com/canal_8112/dsports4541.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (AMERICA TV FHD)
+https://sudamericaplay2.com/canal_41/1america.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Inglés (FOX ONE US)
+https://sudamericaplay2.com/canal_8112/1foxone.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (DSPORTS GLOBAL)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (VIX+)
+https://streamtpday1.xyz/global2.php?stream=vix1
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Noruega vs Senegal - 19:00 - Español (TELEMUNDO)
+https://streamtpday1.xyz/global2.php?stream=telemundousa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Jordania vs Argelia - 22:00 - Español (DSPORTS FHD)
+https://sudamericaplay2.com/canal_8112/cza_dsports.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Jordania vs Argelia - 22:00 - Español (DSPORTS FHD OP2)
+https://sudamericaplay2.com/canal_8112/dsports4541.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Jordania vs Argelia - 22:00 - Inglés (FOX 1 US)
+https://sudamericaplay2.com/canal_8112/1fox1usa.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Jordania vs Argelia - 22:00 - Español (DSPORTS GLOBAL)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Jordania vs Argelia - 22:00 - Español (VIX+)
+https://streamtpday1.xyz/global2.php?stream=vix1
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/avi0s0xkji6ltu72q0p4m/image_fb9588bc.png?rlkey=ccu7ew8ns6efykma7x0rf9dyj&st=vk8xetrq&.png",Jordania vs Argelia - 22:00 - Español (TELEMUNDO)
 https://streamtpday1.xyz/global2.php?stream=telemundousa
 
 
 
-
-
-
-
-
-.
