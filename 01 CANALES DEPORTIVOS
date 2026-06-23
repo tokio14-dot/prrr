@@ -1,10 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",winsport
+https://la18hd.com/vivo/canales.php?stream=winsports
 #EXTINF:-1 tvg-logo="",tund MX
 https://la18hd.com/vivo/canales.php?stream=tudn_mx
 #EXTINF:-1 tvg-logo="",Canal 5
 https://la18hd.com/vivo/canales.php?stream=canal5
-#EXTINF:-1 tvg-logo="",DSports 
-https://la16hd.com/dsportslatam.php
+#EXTINF:-1 tvg-logo="",DSports 2
+https://la18hd.com/vivo/canales.php?stream=dsports2
+
+#EXTINF:-1 tvg-logo="",america tv
+https://la18hd.com/vivo/canales.php?stream=americatv
 #EXTINF:-1 tvg-logo="",Telefe
 https://la18hd.com/vivo/canal.php?stream=telefe
 #EXTINF:-1 tvg-logo="",Caracol
@@ -15,12 +20,40 @@ https://la18hd.com/vivo/canal.php?stream=tycsports
 https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
 #EXTINF:-1 tvg-logo="",SporTV
 https://la18hd.com/vivo/canales.php?stream=sportv
+#EXTINF:-1 tvg-logo="",premiere1
+https://la18hd.com/vivo/canales.php?stream=premiere1
+#EXTINF:-1 tvg-logo="",premiere2
+https://la18hd.com/vivo/canales.php?stream=premiere2
+#EXTINF:-1 tvg-logo="",premiere3
+https://la18hd.com/vivo/canales.php?stream=premiere3
+#EXTINF:-1 tvg-logo="",premiere4
+https://la18hd.com/vivo/canales.php?stream=premiere4
+#EXTINF:-1 tvg-logo="",premiere5
+https://la18hd.com/vivo/canales.php?stream=premiere5
+#EXTINF:-1 tvg-logo="",premiere6
+https://la18hd.com/vivo/canales.php?stream=premiere6
+#EXTINF:-1 tvg-logo="",premiere7
+https://la18hd.com/vivo/canales.php?stream=premiere7
+#EXTINF:-1 tvg-logo="",premiere8
+https://la18hd.com/vivo/canales.php?stream=premiere8
+#EXTINF:-1 tvg-logo="",sportv1
+https://la18hd.com/vivo/canales.php?stream=sportv
+#EXTINF:-1 tvg-logo="",sportv2
+https://la18hd.com/vivo/canales.php?stream=sportv2
+#EXTINF:-1 tvg-logo="",sportv3
+https://la18hd.com/vivo/canales.php?stream=sportv
+#EXTINF:-1 tvg-logo="", universo 
+https://la18hd.com/vivo/canales.php?stream=universo
+#EXTINF:-1 tvg-logo="",tundn
+https://la18hd.com/vivo/canales.php?stream=tudn
 
 ___
 #EXTINF:-1 tvg-logo="",DSports ARG
 https://la16hd.com/dsports2ar.php
 #EXTINF:-1 tvg-logo="",DSports 2
 https://la18hd.com/vivo/canales.php?stream=dsports2
+#EXTINF:-1 tvg-logo="",Dsports 
+https://la18hd.com/vivo/canales.php?stream=dsports
 #EXTINF:-1 tvg-logo="",Telemundo 
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
