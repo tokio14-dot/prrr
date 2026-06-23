@@ -1,206 +1,204 @@
+
+
 #EXTM3U
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Español 1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Español 1)
 https://sudamericaplay2.com/canal_8112/cza_dsports.html
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Español 2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Español 2)
 https://sudamericaplay2.com/canal_8112/dsports4541.html
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Español 3)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Español 3)
 https://sudamericaplay2.com/canal_41/123tvi.php
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Español 4)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Español 4)
 https://sudamericaplay2.com/canal_41/trecepy.php
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Inglés)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Inglés)
 https://sudamericaplay2.com/canal_8112/1foxone.html
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Portugués)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Portugués)
 https://sudamericaplay2.com/canal_8112/34cazetv.html
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Alemán)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (sudamericaplay2 - Alemán)
 https://sudamericaplay2.com/canal_8112/das_de.html
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Stream DSports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (streamtpday1 - DSports)
 https://streamtpday1.xyz/global2.php?stream=dsports
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Stream Vix1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (streamtpday1 - Vix1)
 https://streamtpday1.xyz/global2.php?stream=vix1
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Stream Telemundo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (streamtpday1 - Telemundo)
 https://streamtpday1.xyz/global2.php?stream=telemundousa
 
-#EXTINF:-1 group-title="Fútbol",Portugal vs Uzbekistán - 11:00 AM (Stream Disney)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (streamtpday1 - Disney)
 https://streamtpday1.xyz/global2.php?stream=disney1
 
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Español 1)
-https://sudamericaplay2.com/canal_8112/cza_dsports.html
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Español 2)
-https://sudamericaplay2.com/canal_8112/tvla1es.html
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Español 3)
-https://sudamericaplay2.com/canal_8112/dsports4541.html
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Español 4)
-https://sudamericaplay2.com/canal_41/1america.php
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Español 5)
-https://sudamericaplay2.com/canal_41/trecepy.php
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Inglés)
-https://sudamericaplay2.com/canal_8112/1foxone.html
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Portugués)
-https://sudamericaplay2.com/canal_8112/1sportv1.html
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Stream DSports)
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Stream Vix2)
-https://streamtpday1.xyz/global2.php?stream=vix2
-
-#EXTINF:-1 group-title="Fútbol",Inglaterra vs Ghana - 2:00 PM (Stream Telemundo)
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Español 1)
-https://sudamericaplay2.com/canal_8112/1dzportsplus.html
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Español 2)
-https://sudamericaplay2.com/canal_41/rpc.php
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Inglés)
-https://sudamericaplay2.com/canal_8112/1foxone.html
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Portugués)
-https://sudamericaplay2.com/canal_8112/34cazetv.html
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Stream DSports+)
-https://streamtpday1.xyz/global2.php?stream=dsportsplus
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Stream Vix1)
-https://streamtpday1.xyz/global2.php?stream=vix1
-
-#EXTINF:-1 group-title="Fútbol",Panamá vs Croacia - 5:00 PM (Stream Telemundo)
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Español 1)
-https://sudamericaplay2.com/canal_8112/cza_dsports.html
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Español 2)
-https://sudamericaplay2.com/canal_41/trecepy.php
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Español 3)
-https://sudamericaplay2.com/canal_41/123tvi.php
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Español 4)
-https://sudamericaplay2.com/canal_41/1america.php
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Alemán)
-https://sudamericaplay2.com/canal_8112/das_de.html
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Portugués)
-https://sudamericaplay2.com/canal_8112/1sportv1.html
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Inglés)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Stream DSports)
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Stream Vix2)
-https://streamtpday1.xyz/global2.php?stream=vix2
-
-#EXTINF:-1 group-title="Fútbol",Colombia vs RD del Congo - 8:00 PM (Stream Telemundo)
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (DSports AR)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la16hd - DSports AR)
 https://la16hd.com/dsportsar.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (DSports Latam)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la16hd - DSports Latam)
 https://la16hd.com/dsportslatam.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (DSports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la18hd - DSports)
 https://la18hd.com/vivo/canales.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (TyC Sports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la18hd - TyC Sports)
 https://la18hd.com/vivo/canales.php?stream=tycsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (Telefe)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la18hd - Telefe)
 https://la18hd.com/vivo/canales.php?stream=telefe
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (Telemundo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la18hd - Telemundo)
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0" group-title="Mundial 2026",Portugal vs Uzbekistán - 11:00 AM (Win Sports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p6oudzo0papqxufiek4so/image_a5faa9c1.png?rlkey=veryx6pnv33kr0xh3o584hj2z&st=paq0w0u3&dl=0",Portugal vs Uzbekistán - 11:00 AM (la18hd - Win Sports)
 https://la18hd.com/vivo/canales.php?stream=winsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (DSports AR)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Español 1)
+https://sudamericaplay2.com/canal_8112/cza_dsports.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Español 2)
+https://sudamericaplay2.com/canal_8112/tvla1es.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Español 3)
+https://sudamericaplay2.com/canal_8112/dsports4541.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Español 4)
+https://sudamericaplay2.com/canal_41/1america.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Español 5)
+https://sudamericaplay2.com/canal_41/trecepy.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Inglés)
+https://sudamericaplay2.com/canal_8112/1foxone.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (sudamericaplay2 - Portugués)
+https://sudamericaplay2.com/canal_8112/1sportv1.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (streamtpday1 - DSports)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (streamtpday1 - Vix2)
+https://streamtpday1.xyz/global2.php?stream=vix2
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (streamtpday1 - Telemundo)
+https://streamtpday1.xyz/global2.php?stream=telemundousa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la16hd - DSports AR)
 https://la16hd.com/dsportsar.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (DSports Latam)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la16hd - DSports Latam)
 https://la16hd.com/dsportslatam.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (Disney 2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la18hd - Disney 2)
 https://la18hd.com/vivo/canales.php?stream=disney2
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (DSports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la18hd - DSports)
 https://la18hd.com/vivo/canales.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (América TV)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la18hd - América TV)
 https://la18hd.com/vivo/canales.php?stream=americatv
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (Telefe)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la18hd - Telefe)
 https://la18hd.com/vivo/canales.php?stream=telefe
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (Telemundo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la18hd - Telemundo)
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0" group-title="Mundial 2026",Inglaterra vs Ghana - 2:00 PM (Sportv - Portugués)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/6lceinaeid3b5ipjo0isb/image_1892cb0.png?rlkey=kaevdoj5wgnjw6j6alraomkk7&st=wvd7k6it&dl=0",Inglaterra vs Ghana - 2:00 PM (la18hd - Sportv - Portugués)
 https://la18hd.com/vivo/canales.php?stream=sportv
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0" group-title="Mundial 2026",Panamá vs Croacia - 5:00 PM (DSports AR)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (sudamericaplay2 - Español 1)
+https://sudamericaplay2.com/canal_8112/1dzportsplus.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (sudamericaplay2 - Español 2)
+https://sudamericaplay2.com/canal_41/rpc.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (sudamericaplay2 - Inglés)
+https://sudamericaplay2.com/canal_8112/1foxone.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (sudamericaplay2 - Portugués)
+https://sudamericaplay2.com/canal_8112/34cazetv.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (streamtpday1 - DSports+)
+https://streamtpday1.xyz/global2.php?stream=dsportsplus
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (streamtpday1 - Vix1)
+https://streamtpday1.xyz/global2.php?stream=vix1
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (streamtpday1 - Telemundo)
+https://streamtpday1.xyz/global2.php?stream=telemundousa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (la16hd - DSports AR)
 https://la16hd.com/dsportsar.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0" group-title="Mundial 2026",Panamá vs Croacia - 5:00 PM (DSports Latam)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (la16hd - DSports Latam)
 https://la16hd.com/dsportslatam.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0" group-title="Mundial 2026",Panamá vs Croacia - 5:00 PM (DSports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (la18hd - DSports)
 https://la18hd.com/vivo/canales.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0" group-title="Mundial 2026",Panamá vs Croacia - 5:00 PM (TyC Sports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (la18hd - TyC Sports)
 https://la18hd.com/vivo/canales.php?stream=tycsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0" group-title="Mundial 2026",Panamá vs Croacia - 5:00 PM (Telemundo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w1v2g028rquiyvf7mpm3m/image_e75877d5.png?rlkey=qcor7ptrqm350kayi6278cbwa&st=03ei5e0p&dl=0",Panamá vs Croacia - 5:00 PM (la18hd - Telemundo)
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (DSports AR)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Español 1)
+https://sudamericaplay2.com/canal_8112/cza_dsports.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Español 2)
+https://sudamericaplay2.com/canal_41/trecepy.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Español 3)
+https://sudamericaplay2.com/canal_41/123tvi.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Español 4)
+https://sudamericaplay2.com/canal_41/1america.php
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Alemán)
+https://sudamericaplay2.com/canal_8112/das_de.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Portugués)
+https://sudamericaplay2.com/canal_8112/1sportv1.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (sudamericaplay2 - Inglés)
+https://sudamericaplay2.com/canal_8112/1fox1usa.html
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (streamtpday1 - DSports)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (streamtpday1 - Vix2)
+https://streamtpday1.xyz/global2.php?stream=vix2
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (streamtpday1 - Telemundo)
+https://streamtpday1.xyz/global2.php?stream=telemundousa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la16hd - DSports AR)
 https://la16hd.com/dsportsar.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (DSports Latam)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la16hd - DSports Latam)
 https://la16hd.com/dsportslatam.php
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (DSports)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la18hd - DSports)
 https://la18hd.com/vivo/canales.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (Disney 3)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la18hd - Disney 3)
 https://la18hd.com/vivo/canales.php?stream=disney3
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (América TV)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la18hd - América TV)
 https://la18hd.com/vivo/canales.php?stream=americatv
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (Caracol)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la18hd - Caracol)
 https://la18hd.com/vivo/canales.php?stream=caracol
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (Telemundo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la18hd - Telemundo)
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0" group-title="Mundial 2026",Colombia vs RD del Congo - 8:00 PM (Fox Sports 1 USA - Inglés)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ue3bmky7qkvyiry1v296f/IMG_20260623_021223.jpg?rlkey=5orkh7i2c9bqg8m3y3d9ccdq4&st=v74qiqo5&dl=0",Colombia vs RD del Congo - 8:00 PM (la18hd - Fox Sports 1 USA - Inglés)
 https://la18hd.com/vivo/canales.php?stream=foxsports1_usa
-
-
 
 
 
