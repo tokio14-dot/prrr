@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",tund MX
+https://la18hd.com/vivo/canales.php?stream=tudn_mx
+#EXTINF:-1 tvg-logo="",Canal 5
+https://la18hd.com/vivo/canales.php?stream=canal5
+#EXTINF:-1 tvg-logo="",Disney 1
+https://la18hd.com/vivo/canal.php?stream=disney1
+#EXTINF:-1 tvg-logo="",DSports 
+https://la18hd.com/vivo/canal.php?stream=dsports
+#EXTINF:-1 tvg-logo="",Telefe
+https://la18hd.com/vivo/canal.php?stream=telefe
+#EXTINF:-1 tvg-logo="",Caracol
+https://la18hd.com/vivo/canal.php?stream=caracol
+#EXTINF:-1 tvg-logo="",TyC Sports
+https://la18hd.com/vivo/canal.php?stream=tycsports
+#EXTINF:-1 tvg-logo="",FOX Sports USA
+https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
+#EXTINF:-1 tvg-logo="",SporTV
+https://la18hd.com/vivo/canales.php?stream=sportv
+
+___
+#EXTINF:-1 tvg-logo="",DSports ARG
+https://la16hd.com/dsports2ar.php
+#EXTINF:-1 tvg-logo="",DSports 2
+https://la18hd.com/vivo/canales.php?stream=dsports2
+#EXTINF:-1 tvg-logo="",Telemundo 
+https://la18hd.com/vivo/canales.php?stream=telemundo
+
+______
 
 #EXTINF:-1 tvg-logo="",ESPN 1
 https://streamtpday1.xyz/global1.php?stream=espn
