@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",prueba
+https://streamtpday1.xyz/global1.php?stream=dsports
+
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - la18hd DSports
 https://la18hd.com/vivo/canales.php?stream=dsports
 
