@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 20:00 (ARG) - la18hd DSports
 https://la18hd.com/vivo/canales.php?stream=dsports
 
@@ -107,4 +111,21 @@ https://streamtpday1.xyz/global2.php?stream=vix1
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 02:00 (ARG) - streamtpday1 Telemundo
 https://streamtpday1.xyz/global2.php?stream=telemundousa
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="",prueba 1
+https://sudamericaplay2.com/canal_8112/cza_dsports.html
+#EXTINF:-1 tvg-logo="",prueba 2
+https://sudamericaplay2.com/canal_8112/cza_dsports
+
+
+
+
+
+
 
