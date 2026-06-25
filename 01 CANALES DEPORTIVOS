@@ -1,178 +1,299 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",winsport
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",winsport
 https://la18hd.com/vivo/canales.php?stream=winsports
-#EXTINF:-1 tvg-logo="",tund MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",tund MX
 https://la18hd.com/vivo/canales.php?stream=tudn_mx
-#EXTINF:-1 tvg-logo="",Canal 5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Canal 5
 https://la18hd.com/vivo/canales.php?stream=canal5
-#EXTINF:-1 tvg-logo="",DSports 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 2
 https://la18hd.com/vivo/canales.php?stream=dsports2
-
-#EXTINF:-1 tvg-logo="",america tv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",america tv
 https://la18hd.com/vivo/canales.php?stream=americatv
-#EXTINF:-1 tvg-logo="",Telefe
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Telefe
 https://la18hd.com/vivo/canal.php?stream=telefe
-#EXTINF:-1 tvg-logo="",Caracol
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Caracol
 https://la18hd.com/vivo/canal.php?stream=caracol
-#EXTINF:-1 tvg-logo="",TyC Sports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TyC Sports
 https://la18hd.com/vivo/canal.php?stream=tycsports
-#EXTINF:-1 tvg-logo="",FOX Sports USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Sports USA
 https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
-#EXTINF:-1 tvg-logo="",SporTV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",SporTV
 https://la18hd.com/vivo/canales.php?stream=sportv
-#EXTINF:-1 tvg-logo="",premiere1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere1
 https://la18hd.com/vivo/canales.php?stream=premiere1
-#EXTINF:-1 tvg-logo="",premiere2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere2
 https://la18hd.com/vivo/canales.php?stream=premiere2
-#EXTINF:-1 tvg-logo="",premiere3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere3
 https://la18hd.com/vivo/canales.php?stream=premiere3
-#EXTINF:-1 tvg-logo="",premiere4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere4
 https://la18hd.com/vivo/canales.php?stream=premiere4
-#EXTINF:-1 tvg-logo="",premiere5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere5
 https://la18hd.com/vivo/canales.php?stream=premiere5
-#EXTINF:-1 tvg-logo="",premiere6
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere6
 https://la18hd.com/vivo/canales.php?stream=premiere6
-#EXTINF:-1 tvg-logo="",premiere7
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere7
 https://la18hd.com/vivo/canales.php?stream=premiere7
-#EXTINF:-1 tvg-logo="",premiere8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",premiere8
 https://la18hd.com/vivo/canales.php?stream=premiere8
-#EXTINF:-1 tvg-logo="",sportv1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",sportv1
 https://la18hd.com/vivo/canales.php?stream=sportv
-#EXTINF:-1 tvg-logo="",sportv2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",sportv2
 https://la18hd.com/vivo/canales.php?stream=sportv2
-#EXTINF:-1 tvg-logo="",sportv3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",sportv3
 https://la18hd.com/vivo/canales.php?stream=sportv
-#EXTINF:-1 tvg-logo="", universo 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0", universo 
 https://la18hd.com/vivo/canales.php?stream=universo
-#EXTINF:-1 tvg-logo="",tundn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",tundn
 https://la18hd.com/vivo/canales.php?stream=tudn
 
-___
-#EXTINF:-1 tvg-logo="",DSports ARG
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports ARG
 https://la16hd.com/dsports2ar.php
-#EXTINF:-1 tvg-logo="",DSports 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 2
 https://la18hd.com/vivo/canales.php?stream=dsports2
-#EXTINF:-1 tvg-logo="",Dsports 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Dsports 
 https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="",Telemundo 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Telemundo 
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
-______
-
-#EXTINF:-1 tvg-logo="",ESPN 1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 1
 https://streamtpday1.xyz/global1.php?stream=espn
-#EXTINF:-1 tvg-logo="",ESPN 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 2
 https://streamtpday1.xyz/global1.php?stream=espn2
-#EXTINF:-1 tvg-logo="",ESPN 3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 3
 https://streamtpday1.xyz/global1.php?stream=espn3
-#EXTINF:-1 tvg-logo="",ESPN 4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 4
 https://streamtpday1.xyz/global1.php?stream=espn4
-#EXTINF:-1 tvg-logo="",ESPN 5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 5
 https://streamtpday1.xyz/global1.php?stream=espn5
-#EXTINF:-1 tvg-logo="",ESPN 6
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 6
 https://streamtpday1.xyz/global1.php?stream=espn6
-#EXTINF:-1 tvg-logo="",ESPN 7
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 7
 https://streamtpday1.xyz/global1.php?stream=espn7
-#EXTINF:-1 tvg-logo="",winplus
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",winplus
 https://streamtpday1.xyz/global1.php?stream=winplus
-#EXTINF:-1 tvg-logo="",winplus op 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",winplus op 2
 https://streamtpday1.xyz/global1.php?stream=winplus2
-#EXTINF:-1 tvg-logo="",wins sport
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",wins sport
 https://streamtpday1.xyz/global1.php?stream=winsports
-#EXTINF:-1 tvg-logo="",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 1
 https://streamtpday1.xyz/global1.php?stream=fox1ar
-#EXTINF:-1 tvg-logo="",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 2
 https://streamtpday1.xyz/global1.php?stream=fox2ar
-#EXTINF:-1 tvg-logo="",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 3
 https://streamtpday1.xyz/global1.php?stream=fox3ar
-#EXTINF:-1 tvg-logo="",DSports 1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 1
 https://streamtpday1.xyz/global1.php?stream=dsports
-#EXTINF:-1 tvg-logo="",DSports 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 2
 https://streamtpday1.xyz/global1.php?stream=dsports2
-#EXTINF:-1 tvg-logo="",DSports 3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 3
 https://streamtpday1.xyz/global1.php?stream=dsportsplus
-#EXTINF:-1 tvg-logo="",TNT Sports chile
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT Sports chile
 https://streamtpday1.xyz/global1.php?stream=tntsportschile
-#EXTINF:-1 tvg-logo="",TNT Sports ARG
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT Sports ARG
 https://streamtpday1.xyz/global1.php?stream=tntsports
-#EXTINF:-1 tvg-logo="",ESPN PREMIUM ARG
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN PREMIUM ARG
 https://streamtpday1.xyz/global1.php?stream=espnpremium
-#EXTINF:-1 tvg-logo="",TyC Sports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TyC Sports
 https://streamtpday1.xyz/global1.php?stream=tycsports
-#EXTINF:-1 tvg-logo="",Telefe
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Telefe
 https://streamtpday1.xyz/global1.php?stream=telefe
-#EXTINF:-1 tvg-logo="",TV publica
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TV publica
 https://streamtpday1.xyz/global1.php?stream=tv_publica
-#EXTINF:-1 tvg-logo="",LIGA 1 MAX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",LIGA 1 MAX
 https://streamtpday1.xyz/global1.php?stream=liga1max
-#EXTINF:-1 tvg-logo="",ESPN USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN USA
 https://streamtpday1.xyz/global1.php?stream=espndeportes
-#EXTINF:-1 tvg-logo="",TUDN USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TUDN USA
 https://streamtpday1.xyz/global1.php?stream=tudn_usa
-#EXTINF:-1 tvg-logo="",FOX Sports 1 USA 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Sports 1 USA 
 https://streamtpday1.xyz/global1.php?stream=fox_1_usa
-#EXTINF:-1 tvg-logo="",FOX Sports 2 USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Sports 2 USA
 https://streamtpday1.xyz/global1.php?stream=fox_2_usa
-#EXTINF:-1 tvg-logo="",Universo USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Universo USA
 https://streamtpday1.xyz/global1.php?stream=universo_usa
-#EXTINF:-1 tvg-logo="", Univision USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0", Univision USA
 https://streamtpday1.xyz/global1.php?stream=univision_usa
-#EXTINF:-1 tvg-logo="",FOX Deportes USA
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Deportes USA
 https://streamtpday1.xyz/global1.php?stream=fox_deportes_usa
-#EXTINF:-1 tvg-logo="",Azteca 7 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Azteca 7 MX
 https://streamtpday1.xyz/global1.php?stream=azteca7
-#EXTINF:-1 tvg-logo="",Fox Sports 1 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 1 MX
 https://streamtpday1.xyz/global1.php?stream=foxsportsmx
-#EXTINF:-1 tvg-logo="",Fox Sports 2 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 2 MX
 https://streamtpday1.xyz/global1.php?stream=foxsports2mx
-#EXTINF:-1 tvg-logo="",Fox Sports 3 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 3 MX
 https://streamtpday1.xyz/global1.php?stream=foxsports3mx
-#EXTINF:-1 tvg-logo="",Fox Sports Premium MX 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports Premium MX 
 https://streamtpday1.xyz/global1.php?stream=foxsportspremium
-#EXTINF:-1 tvg-logo="",ESPN 1 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 1 MX
 https://streamtpday1.xyz/global1.php?stream=espnmx 
-#EXTINF:-1 tvg-logo="",ESPN 2 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 2 MX
 https://streamtpday1.xyz/global1.php?stream=espn2mx
-#EXTINF:-1 tvg-logo="",ESPN 3 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 3 MX
 https://streamtpday1.xyz/global1.php?stream=espn3mx
-#EXTINF:-1 tvg-logo="",TNT 1 GB
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 1 GB
 https://streamtpday1.xyz/global1.php?stream=tnt_1_gb
-#EXTINF:-1 tvg-logo="",TNT 2 GB
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 2 GB
 https://streamtpday1.xyz/global1.php?stream=tnt_2_gb
-#EXTINF:-1 tvg-logo="",TNT 3 GB
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 3 GB
 https://streamtpday1.xyz/global1.php?stream=tnt_3_gb
-#EXTINF:-1 tvg-logo="",TNT 4 GB
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 4 GB
 https://streamtpday1.xyz/global1.php?stream=tnt_4_gb
-#EXTINF:-1 tvg-logo="",Sports tv 1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sports tv 1
 https://streamtpday1.xyz/global1.php?stream=sporttvbr1
-#EXTINF:-1 tvg-logo="",Sport tv 2 BR
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sport tv 2 BR
 https://streamtpday1.xyz/global1.php?stream=sporttvbr2
-#EXTINF:-1 tvg-logo="",Sport tv 3 BR
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sport tv 3 BR
 https://streamtpday1.xyz/global1.php?stream=sporttvbr3
-#EXTINF:-1 tvg-logo="",Premiere 1 BR
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Premiere 1 BR
 https://streamtpday1.xyz/global1.php?stream=premiere1
-#EXTINF:-1 tvg-logo="",Premiere 2 BR
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Premiere 2 BR
 https://streamtpday1.xyz/global1.php?stream=premiere2
-#EXTINF:-1 tvg-logo="",Premiere 3 BR
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Premiere 3 BR
 https://streamtpday1.xyz/global1.php?stream=premiere3
-#EXTINF:-1 tvg-logo="",FOX one MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one MX
 https://streamtpday1.xyz/global1.php?stream=foxone
-#EXTINF:-1 tvg-logo="",FOX one 1 MX 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one 1 MX 
 https://streamtpday1.xyz/global1.php?stream=foxone1
-#EXTINF:-1 tvg-logo="",FOX one 2 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one 2 MX
 https://streamtpday1.xyz/global1.php?stream=foxone2
-#EXTINF:-1 tvg-logo="",FOX one 3 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one 3 MX
 https://streamtpday1.xyz/global1.php?stream=foxone3
-#EXTINF:-1 tvg-logo="",TyC Sports internacional 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TyC Sports internacional 
 https://streamtpday1.xyz/global1.php?stream=tycinternacional
-#EXTINF:-1 tvg-logo="",Canal 5 MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Canal 5 MX
 https://streamtpday1.xyz/global1.php?stream=canal5mx
-#EXTINF:-1 tvg-logo="",TUND MX
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TUND MX
 https://streamtpday1.xyz/global1.php?stream=tudnmx
-#EXTINF:-1 tvg-logo="",futv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",futv
 https://streamtpday1.xyz/global1.php?stream=futv
-#EXTINF:-1 tvg-logo="",lal iga hypermotion
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",lal iga hypermotion
 https://streamtpday1.xyz/global1.php?stream=laligahypermotion
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 1 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 3 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 4 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 5 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 6 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn6
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 7 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn7
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",winplus (global2)
+https://streamtpday1.xyz/global2.php?stream=winplus
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",winplus op 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=winplus2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",wins sport (global2)
+https://streamtpday1.xyz/global2.php?stream=winsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 1 (global2)
+https://streamtpday1.xyz/global2.php?stream=fox1ar
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=fox2ar
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 3 (global2)
+https://streamtpday1.xyz/global2.php?stream=fox3ar
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 1 (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 3 (global2)
+https://streamtpday1.xyz/global2.php?stream=dsportsplus
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT Sports chile (global2)
+https://streamtpday1.xyz/global2.php?stream=tntsportschile
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT Sports ARG (global2)
+https://streamtpday1.xyz/global2.php?stream=tntsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN PREMIUM ARG (global2)
+https://streamtpday1.xyz/global2.php?stream=espnpremium
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TyC Sports (global2)
+https://streamtpday1.xyz/global2.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Telefe (global2)
+https://streamtpday1.xyz/global2.php?stream=telefe
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TV publica (global2)
+https://streamtpday1.xyz/global2.php?stream=tv_publica
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",LIGA 1 MAX (global2)
+https://streamtpday1.xyz/global2.php?stream=liga1max
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN USA (global2)
+https://streamtpday1.xyz/global2.php?stream=espndeportes
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TUDN USA (global2)
+https://streamtpday1.xyz/global2.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Sports 1 USA (global2)
+https://streamtpday1.xyz/global2.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Sports 2 USA (global2)
+https://streamtpday1.xyz/global2.php?stream=fox_2_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Universo USA (global2)
+https://streamtpday1.xyz/global2.php?stream=universo_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Univision USA (global2)
+https://streamtpday1.xyz/global2.php?stream=univision_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX Deportes USA (global2)
+https://streamtpday1.xyz/global2.php?stream=fox_deportes_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Azteca 7 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=azteca7
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 1 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxsportsmx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 2 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxsports2mx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports 3 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxsports3mx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Fox Sports Premium MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxsportspremium
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 1 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=espnmx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 2 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=espn2mx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 3 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=espn3mx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 1 GB (global2)
+https://streamtpday1.xyz/global2.php?stream=tnt_1_gb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 2 GB (global2)
+https://streamtpday1.xyz/global2.php?stream=tnt_2_gb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 3 GB (global2)
+https://streamtpday1.xyz/global2.php?stream=tnt_3_gb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TNT 4 GB (global2)
+https://streamtpday1.xyz/global2.php?stream=tnt_4_gb
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sports tv 1 (global2)
+https://streamtpday1.xyz/global2.php?stream=sporttvbr1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sport tv 2 BR (global2)
+https://streamtpday1.xyz/global2.php?stream=sporttvbr2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sport tv 3 BR (global2)
+https://streamtpday1.xyz/global2.php?stream=sporttvbr3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Premiere 1 BR (global2)
+https://streamtpday1.xyz/global2.php?stream=premiere1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Premiere 2 BR (global2)
+https://streamtpday1.xyz/global2.php?stream=premiere2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Premiere 3 BR (global2)
+https://streamtpday1.xyz/global2.php?stream=premiere3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxone
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one 1 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxone1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one 2 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxone2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",FOX one 3 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=foxone3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TyC Sports internacional (global2)
+https://streamtpday1.xyz/global2.php?stream=tycinternacional
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Canal 5 MX (global2)
+https://streamtpday1.xyz/global2.php?stream=canal5mx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",TUND MX (global2)
+https://streamtpday1.xyz/global2.php?stream=tudnmx
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",futv (global2)
+https://streamtpday1.xyz/global2.php?stream=futv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",lal iga hypermotion (global2)
+https://streamtpday1.xyz/global2.php?stream=laligahypermotion
+
+
+
+
+
+
+
+
+
+
 
 
 
