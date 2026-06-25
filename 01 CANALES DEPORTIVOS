@@ -370,6 +370,51 @@ https://la18hd.com/vivo/canales.php?stream=tntsports
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Colo-Colo vs O'Higgins - 20:30 ARG - TNT Sports ARG (global2)
 https://streamtpday1.xyz/global2.php?stream=tntsports
 
+#EXTM3U
+
+#================= OTROS DEPORTES - 25/06/2026 =================
+
+#----------------- HOCKEY - Pro League Femenina - 13:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Inglaterra vs Argentina - 13:00 ARG - ESPN 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Inglaterra vs Argentina - 13:00 ARG - ESPN 2 (global1)
+https://streamtpday1.xyz/global1.php?stream=espn2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Inglaterra vs Argentina - 13:00 ARG - ESPN 2 (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn2
+
+#----------------- VÓLEIBOL - Nations League Masculino - 15:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Polonia vs Turquía - 15:00 ARG - DSports (la18hd)
+https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Polonia vs Turquía - 15:00 ARG - DSports (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#----------------- GOLF - PGA Travelers Championship - 16:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Travelers Championship - 16:00 ARG - ESPN 2 (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Travelers Championship - 16:00 ARG - ESPN 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=espn2
+
+#----------------- BÉISBOL - MLB - Jornada del 25/06 -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",MLB - Kansas City vs Tampa Bay - 13:10 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",MLB - Seattle vs Pittsburgh - 13:35 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",MLB - N.Y. Yankees vs Boston - 20:10 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+
+#----------------- BALONMANO PLAYA - Mundial 2026 - Todo el día -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Balonmano Playa - Mundial 2026 - DSports (la18hd)
+https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Balonmano Playa - Mundial 2026 - DSports (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#----------------- TENIS - Wimbledon (Clasificación) / ATP/WTA -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Tenis - Wimbledon / ATP / WTA - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Tenis - Wimbledon / ATP / WTA - ESPN (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn
+
+
 
 
 
