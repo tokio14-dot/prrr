@@ -5,145 +5,44 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Unión La Calera vs U. Chile - 19:30 ARG - MAX 1
 https://streamtpday1.xyz/global2.php?stream=max1
 
-#================= 24/06/2026 - COPA DEL MUNDO (HORARIOS ARG) =================
+#EXTM3U
 
-#----------------- 4:00 PM (ARG) - Suiza vs Canadá -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - DSports (sudamericaplay2)
-https://sudamericaplay2.com/canal_8112/cza_dsports.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - Trecepy
-https://sudamericaplay2.com/canal_41/trecepy.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - 123 TVI
-https://sudamericaplay2.com/canal_41/123tvi.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - TSN 1 (Inglés)
-https://sudamericaplay2.com/canal_8112/1tsn1.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - CTV (Inglés)
-https://sudamericaplay2.com/canal_8112/ctv.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - Das Erste (Alemán)
-https://sudamericaplay2.com/canal_8112/das_de.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - Caze TV (Portugués)
-https://sudamericaplay2.com/canal_8112/34cazetv.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - Fox Sports 1 USA (Inglés)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - DSports (streamtpday1)
-https://streamtpday1.xyz/global2.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - VIX 1
-https://streamtpday1.xyz/global2.php?stream=vix1
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - Telemundo USA
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - DSports (la18hd)
+#================= 25/06/2026 - COPA DEL MUNDO =================
+
+#----------------- GRUPO E - 17:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania 17:00 ARG - DSports
 https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - TyC Sports
-https://la18hd.com/vivo/canales.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Suiza vs Canadá - 16:00 ARG - Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#----------------- 4:00 PM (ARG) - Bosnia-Herzegovina vs Qatar -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - DSports 2 (sudamericaplay2)
-https://sudamericaplay2.com/canal_8112/dsports2.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - Unicanal
-https://sudamericaplay2.com/canal_41/unicanal.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - Caze TV 2 (Portugués)
-https://sudamericaplay2.com/canal_8112/cazetv2.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - DSports 2 (streamtpday1)
-https://streamtpday1.xyz/global2.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - VIX 2
-https://streamtpday1.xyz/global2.php?stream=vix2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - DSports 2 (la18hd)
-https://la18hd.com/vivo/canales.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - Universo
-https://la18hd.com/vivo/canales.php?stream=universo
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Bosnia vs Qatar - 16:00 ARG - Fox Sports 1 USA (Inglés)
-https://la18hd.com/vivo/canales.php?stream=foxsports1_usa
-
-#----------------- 7:00 PM (ARG) - Marruecos vs Haití -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - DSports Plus (sudamericaplay2)
-https://sudamericaplay2.com/canal_8112/1dzportsplus.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - Unicanal
-https://sudamericaplay2.com/canal_41/unicanal.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - ZDF
-https://sudamericaplay2.com/canal_8112/zdf.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - Fox Sports 1 USA (Inglés)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - Caze TV 2 (Portugués)
-https://sudamericaplay2.com/canal_8112/cazetv2.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - DSports Plus (streamtpday1)
-https://streamtpday1.xyz/global2.php?stream=dsportsplus
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - VIX 3
-https://streamtpday1.xyz/global2.php?stream=vix3
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - DSports Plus (la18hd)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania 17:00 ARG - DSports (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil 17:00 ARG - DSports Plus
 https://la18hd.com/vivo/canales.php?stream=dsportsplus
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - Eventos 15
-https://la18hd.com/vivo/canales.php?stream=eventos15
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - TyC Sports
-https://la18hd.com/vivo/canales.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - Universo
-https://la18hd.com/vivo/canales.php?stream=universo
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Marruecos vs Haití - 19:00 ARG - Fox Sports 1 USA (Inglés)
-https://la18hd.com/vivo/canales.php?stream=foxsports1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil 17:00 ARG - TUDN
+https://la18hd.com/vivo/canales.php?stream=tudn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil 17:00 ARG - TUDN (global2)
+https://streamtpday1.xyz/global2.php?stream=tudn_usa
 
-#----------------- 7:00 PM (ARG) - Escocia vs Brasil -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - DSports (sudamericaplay2)
-https://sudamericaplay2.com/canal_8112/cza_dsports.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - TVLA1
-https://sudamericaplay2.com/canal_8112/tvla1es.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Trecepy
-https://sudamericaplay2.com/canal_41/trecepy.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - TSN 1 (Inglés)
-https://sudamericaplay2.com/canal_8112/1tsn1.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Caze TV (Portugués)
-https://sudamericaplay2.com/canal_8112/34cazetv.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Fox Sports 1 USA (Inglés)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - DSports (streamtpday1)
-https://streamtpday1.xyz/global2.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - VIX 4
-https://streamtpday1.xyz/global2.php?stream=vix4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Telemundo USA
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - DSports (la18hd)
-https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - VTV Plus
-https://la18hd.com/vivo/canales.php?stream=vtvplus
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Disney 1
-https://la18hd.com/vivo/canales.php?stream=disney1
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - América TV
-https://la18hd.com/vivo/canales.php?stream=americatv
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Telefe
-https://la18hd.com/vivo/canales.php?stream=telefe
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Caracol
-https://la18hd.com/vivo/canales.php?stream=caracol
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Escocia vs Brasil - 19:00 ARG - Telemundo
+#----------------- GRUPO F - 20:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia 20:00 ARG - DSports 2
+https://la18hd.com/vivo/canales.php?stream=dsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia 20:00 ARG - DSports 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos 20:00 ARG - TyC Sports
+https://la18hd.com/vivo/canal.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos 20:00 ARG - TyC Sports (global2)
+https://streamtpday1.xyz/global2.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos 20:00 ARG - Telemundo
 https://la18hd.com/vivo/canales.php?stream=telemundo
 
-#----------------- 10:00 PM (ARG) - Sudáfrica vs Corea del Sur -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sudáfrica vs Corea del Sur - 22:00 ARG - DSports Plus (sudamericaplay2)
-https://sudamericaplay2.com/canal_8112/1dzportsplus.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sudáfrica vs Corea del Sur - 22:00 ARG - Unicanal
-https://sudamericaplay2.com/canal_41/unicanal.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sudáfrica vs Corea del Sur - 22:00 ARG - Fox Sports 1 USA (Inglés)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sudáfrica vs Corea del Sur - 22:00 ARG - Caze TV 2 (Portugués)
-https://sudamericaplay2.com/canal_8112/cazetv2.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sudáfrica vs Corea del Sur - 22:00 ARG - DSports Plus (streamtpday1)
-https://streamtpday1.xyz/global2.php?stream=dsportsplus
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Sudáfrica vs Corea del Sur - 22:00 ARG - VIX 1
-https://streamtpday1.xyz/global2.php?stream=vix1
-
-#----------------- 10:00 PM (ARG) - República Checa vs México -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - DSports (sudamericaplay2)
-https://sudamericaplay2.com/canal_8112/cza_dsports.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - Canal 5
-https://sudamericaplay2.com/canal_8112/21canalfive.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - Trecepy
-https://sudamericaplay2.com/canal_41/trecepy.php
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - Fox Sports 1 USA (Inglés)
-https://sudamericaplay2.com/canal_8112/1fox1usa.html
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - DSports (streamtpday1)
-https://streamtpday1.xyz/global2.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - VIX 2
-https://streamtpday1.xyz/global2.php?stream=vix2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",República Checa vs México - 22:00 ARG - Telemundo USA
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
+#----------------- GRUPO D - 23:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos 23:00 ARG - Fox Sports USA
+https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos 23:00 ARG - Fox Sports USA (global2)
+https://streamtpday1.xyz/global2.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia 23:00 ARG - DSports 2
+https://la18hd.com/vivo/canales.php?stream=dsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia 23:00 ARG - Universo
+https://la18hd.com/vivo/canales.php?stream=universo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia 23:00 ARG - DSports 2 (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports2
 
 
