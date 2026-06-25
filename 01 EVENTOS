@@ -1,167 +1,42 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - la18hd DSports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania - 17:00 ARG - Fox Sports USA
+https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil - 17:00 ARG - TUDN
+https://la18hd.com/vivo/canales.php?stream=tudn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia - 20:00 ARG - DSports
 https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos - 20:00 ARG - TyC Sports
+https://la18hd.com/vivo/canal.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos - 23:00 ARG - Fox Sports USA
+https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia - 23:00 ARG - DSports 2
+https://la18hd.com/vivo/canales.php?stream=dsports2
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - la18hd TyC Sports
-https://la18hd.com/vivo/canales.php?stream=tycsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - la18hd Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - streamtpday1 global1 DSports
+# Servidor: streamtpday1.xyz/global1 (alternativo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania - 17:00 ARG - Fox Sports USA
+https://streamtpday1.xyz/global1.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil - 17:00 ARG - TUDN
+https://streamtpday1.xyz/global1.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia - 20:00 ARG - DSports
 https://streamtpday1.xyz/global1.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos - 20:00 ARG - TyC Sports
+https://streamtpday1.xyz/global1.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos - 23:00 ARG - Fox Sports USA
+https://streamtpday1.xyz/global1.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia - 23:00 ARG - DSports 2
+https://streamtpday1.xyz/global1.php?stream=dsports2
 
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - streamtpday1 global1 Vix1
-https://streamtpday1.xyz/global1.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - streamtpday1 global1 Telemundo
-https://streamtpday1.xyz/global1.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - streamtpday1 global2 DSports
+# Servidor: streamtpday1.xyz/global2 (alternativo)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania - 17:00 ARG - Fox Sports USA
+https://streamtpday1.xyz/global2.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil - 17:00 ARG - TUDN
+https://streamtpday1.xyz/global2.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia - 20:00 ARG - DSports
 https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - streamtpday1 global2 Vix1
-https://streamtpday1.xyz/global2.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Suiza vs Canadá - 16:00 (ARG) - streamtpday1 global2 Telemundo
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - la18hd DSports
-https://la18hd.com/vivo/canales.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - la18hd TyC Sports
-https://la18hd.com/vivo/canales.php?stream=tycsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - la18hd Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - streamtpday1 global1 DSports
-https://streamtpday1.xyz/global1.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - streamtpday1 global1 Vix1
-https://streamtpday1.xyz/global1.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - streamtpday1 global1 Telemundo
-https://streamtpday1.xyz/global1.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - streamtpday1 global2 DSports
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - streamtpday1 global2 Vix1
-https://streamtpday1.xyz/global2.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Bosnia vs Catar - 16:00 (ARG) - streamtpday1 global2 Telemundo
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - la18hd DSports
-https://la18hd.com/vivo/canales.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - la18hd América TV
-https://la18hd.com/vivo/canales.php?stream=americatv
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - la18hd Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - streamtpday1 global1 DSports
-https://streamtpday1.xyz/global1.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - streamtpday1 global1 Vix1
-https://streamtpday1.xyz/global1.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - streamtpday1 global1 Telemundo
-https://streamtpday1.xyz/global1.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - streamtpday1 global2 DSports
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - streamtpday1 global2 Vix1
-https://streamtpday1.xyz/global2.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Marruecos vs Haití - 19:00 (ARG) - streamtpday1 global2 Telemundo
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - la18hd DSports
-https://la18hd.com/vivo/canales.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - la18hd América TV
-https://la18hd.com/vivo/canales.php?stream=americatv
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - la18hd Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - streamtpday1 global1 DSports
-https://streamtpday1.xyz/global1.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - streamtpday1 global1 Vix2
-https://streamtpday1.xyz/global1.php?stream=vix2
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - streamtpday1 global1 Telemundo
-https://streamtpday1.xyz/global1.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - streamtpday1 global2 DSports
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - streamtpday1 global2 Vix2
-https://streamtpday1.xyz/global2.php?stream=vix2
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Escocia vs Brasil - 19:00 (ARG) - streamtpday1 global2 Telemundo
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - la18hd DSports
-https://la18hd.com/vivo/canales.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - la18hd América TV
-https://la18hd.com/vivo/canales.php?stream=americatv
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - la18hd Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - streamtpday1 global1 DSports
-https://streamtpday1.xyz/global1.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - streamtpday1 global1 Vix2
-https://streamtpday1.xyz/global1.php?stream=vix2
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - streamtpday1 global1 Telemundo
-https://streamtpday1.xyz/global1.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - streamtpday1 global2 DSports
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - streamtpday1 global2 Vix2
-https://streamtpday1.xyz/global2.php?stream=vix2
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",República Checa vs México - 22:00 (ARG) - streamtpday1 global2 Telemundo
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - la18hd DSports
-https://la18hd.com/vivo/canales.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - la18hd América TV
-https://la18hd.com/vivo/canales.php?stream=americatv
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - la18hd Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - streamtpday1 global1 DSports
-https://streamtpday1.xyz/global1.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - streamtpday1 global1 Vix1
-https://streamtpday1.xyz/global1.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - streamtpday1 global1 Telemundo
-https://streamtpday1.xyz/global1.php?stream=telemundousa
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - streamtpday1 global2 DSports
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - streamtpday1 global2 Vix1
-https://streamtpday1.xyz/global2.php?stream=vix1
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png",Sudáfrica vs Corea del Sur - 22:00 (ARG) - streamtpday1 global2 Telemundo
-https://streamtpday1.xyz/global2.php?stream=telemundousa
-
-
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos - 20:00 ARG - TyC Sports
+https://streamtpday1.xyz/global2.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos - 23:00 ARG - Fox Sports USA
+https://streamtpday1.xyz/global2.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia - 23:00 ARG - DSports 2
+https://streamtpday1.xyz/global2.php?stream=dsports2
 
