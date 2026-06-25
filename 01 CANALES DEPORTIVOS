@@ -5,8 +5,6 @@ https://la18hd.com/vivo/canales.php?stream=winsports
 https://la18hd.com/vivo/canales.php?stream=tudn_mx
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Canal 5
 https://la18hd.com/vivo/canales.php?stream=canal5
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 2
-https://la18hd.com/vivo/canales.php?stream=dsports2
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",america tv
 https://la18hd.com/vivo/canales.php?stream=americatv
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Telefe
@@ -46,22 +44,32 @@ https://la18hd.com/vivo/canales.php?stream=universo
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",tundn
 https://la18hd.com/vivo/canales.php?stream=tudn
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",liga de campeones 2 
-https://streamtpday1.xyz/global2.php?stream=uefa2
+https://la18hd.com/vivo/canales.php?stream=ligadecampeones2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 1
+https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports 2
+https://la18hd.com/vivo/canales.php?stream=dsports2
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",DSports +
 https://la18hd.com/vivo/canales.php?stream=dsportsplus
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Dsports 
-https://la18hd.com/vivo/canales.php?stream=dsports
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Telemundo 
 https://la18hd.com/vivo/canales.php?stream=telemundo
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=jyjo0tgm&dl=0",TNT sports CHILE
 https://la18hd.com/vivo/canales.php?stream=tntsportschile
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",sky sports la liga
+https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga
 
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 1
 https://streamtpday1.xyz/global1.php?stream=espn
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 2
-https://streamtpday1.xyz/global1.php?stream=espn2
+https://streamtpday1.xyz/global1.php?stream=spn2
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 3
 https://streamtpday1.xyz/global1.php?stream=espn3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",ESPN 4
