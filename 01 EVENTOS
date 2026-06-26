@@ -1,48 +1,36 @@
 #EXTM3U
 
+#================= 26/06/2026 - COPA DEL MUNDO =================
 
-#----------------- 7:30 PM (ARG) - Unión La Calera vs Universidad Chile -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Unión La Calera vs U. Chile - 19:30 ARG - MAX 1
-https://streamtpday1.xyz/global2.php?stream=max1
-
-#EXTM3U
-
-#================= 25/06/2026 - COPA DEL MUNDO =================
-
-#----------------- GRUPO E - 17:00 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania 17:00 ARG - DSports
+#----------------- GRUPO G - 16:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Noruega vs Francia - 16:00 ARG - DSports (la18hd)
 https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Ecuador vs Alemania 17:00 ARG - DSports (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Noruega vs Francia - 16:00 ARG - DSports (global1)
+https://streamtpday1.xyz/global1.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Noruega vs Francia - 16:00 ARG - DSports (global2)
 https://streamtpday1.xyz/global2.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil 17:00 ARG - DSports Plus
-https://la18hd.com/vivo/canales.php?stream=dsportsplus
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil 17:00 ARG - TUDN
-https://la18hd.com/vivo/canales.php?stream=tudn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Curazao vs Costa de Marfil 17:00 ARG - TUDN (global2)
-https://streamtpday1.xyz/global2.php?stream=tudn_usa
 
-#----------------- GRUPO F - 20:00 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia 20:00 ARG - DSports 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Senegal vs Irak - 16:00 ARG - DSports 2 (la18hd)
 https://la18hd.com/vivo/canales.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Japón vs Suecia 20:00 ARG - DSports 2 (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Senegal vs Irak - 16:00 ARG - DSports 2 (global1)
+https://streamtpday1.xyz/global1.php?stream=dsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Senegal vs Irak - 16:00 ARG - DSports 2 (global2)
 https://streamtpday1.xyz/global2.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos 20:00 ARG - TyC Sports
-https://la18hd.com/vivo/canal.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos 20:00 ARG - TyC Sports (global2)
-https://streamtpday1.xyz/global2.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Túnez vs Países Bajos 20:00 ARG - Telemundo
-https://la18hd.com/vivo/canales.php?stream=telemundo
 
-#----------------- GRUPO D - 23:00 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos 23:00 ARG - Fox Sports USA
+#----------------- GRUPO H - 21:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Cabo Verde vs Arabia Saudita - 21:00 ARG - Fox Sports USA (la18hd)
 https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Turquía vs Estados Unidos 23:00 ARG - Fox Sports USA (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Cabo Verde vs Arabia Saudita - 21:00 ARG - Fox Sports USA (global1)
+https://streamtpday1.xyz/global1.php?stream=fox_1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Cabo Verde vs Arabia Saudita - 21:00 ARG - Fox Sports USA (global2)
 https://streamtpday1.xyz/global2.php?stream=fox_1_usa
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia 23:00 ARG - DSports 2
-https://la18hd.com/vivo/canales.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia 23:00 ARG - Universo
-https://la18hd.com/vivo/canales.php?stream=universo
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=f69g0j7y&dl=0",Paraguay vs Australia 23:00 ARG - DSports 2 (global2)
-https://streamtpday1.xyz/global2.php?stream=dsports2
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Uruguay vs España - 21:00 ARG - TyC Sports (la18hd)
+https://la18hd.com/vivo/canal.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Uruguay vs España - 21:00 ARG - TyC Sports (global1)
+https://streamtpday1.xyz/global1.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Uruguay vs España - 21:00 ARG - TyC Sports (global2)
+https://streamtpday1.xyz/global2.php?stream=tycsports
+
 
 
