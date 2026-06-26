@@ -1,5 +1,52 @@
 #EXTM3U
 
+
+#EXTM3U
+
+#================= OTROS DEPORTES - 26/06/2026 =================
+
+#----------------- TENIS - Sorteo Wimbledon / ATP Mallorca - 10:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sorteo Wimbledon / ATP Mallorca - 10:00 ARG - ESPN (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sorteo Wimbledon / ATP Mallorca - 10:00 ARG - ESPN (global1)
+https://streamtpday1.xyz/global1.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sorteo Wimbledon / ATP Mallorca - 10:00 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+
+#----------------- BÉISBOL MLB - Astros vs Tigers - 07:40 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",MLB - Astros vs Tigers - 07:40 ARG - ESPN (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",MLB - Astros vs Tigers - 07:40 ARG - ESPN (global1)
+https://streamtpday1.xyz/global1.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",MLB - Astros vs Tigers - 07:40 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+
+#----------------- BALONMANO PLAYA - Mundial 2026 - Todo el día -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Balonmano Playa - Mundial 2026 - DSports (la18hd)
+https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Balonmano Playa - Mundial 2026 - DSports (global1)
+https://streamtpday1.xyz/global1.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Balonmano Playa - Mundial 2026 - DSports (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports
+
+#----------------- RALLY - Rally del Poncho 2026 - Todo el día -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Rally del Poncho 2026 - TV Pública (la18hd)
+https://la18hd.com/vivo/canales.php?stream=tvpublica
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Rally del Poncho 2026 - TV Pública (global1)
+https://streamtpday1.xyz/global1.php?stream=tv_publica
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Rally del Poncho 2026 - TV Pública (global2)
+https://streamtpday1.xyz/global2.php?stream=tv_publica
+
+#----------------- BALONCESTO WNBA - Washington vs Connecticut - 20:30 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",WNBA - Washington vs Connecticut - 20:30 ARG - ESPN (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",WNBA - Washington vs Connecticut - 20:30 ARG - ESPN (global1)
+https://streamtpday1.xyz/global1.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",WNBA - Washington vs Connecticut - 20:30 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+
+
+
 #================= 26/06/2026 - COPA DEL MUNDO =================
 
 #----------------- GRUPO G - 16:00 ARG -----------------
