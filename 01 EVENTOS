@@ -1,83 +1,87 @@
 #EXTM3U
 
+#================= 27/06/2026 - COPA DEL MUNDO =================
 
-#EXTM3U
-
-#================= OTROS DEPORTES - 26/06/2026 =================
-
-#----------------- TENIS - Sorteo Wimbledon / ATP Mallorca - 10:00 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sorteo Wimbledon / ATP Mallorca - 10:00 ARG - ESPN (la18hd)
-https://la18hd.com/vivo/canales.php?stream=espn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sorteo Wimbledon / ATP Mallorca - 10:00 ARG - ESPN (global1)
-https://streamtpday1.xyz/global1.php?stream=espn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sorteo Wimbledon / ATP Mallorca - 10:00 ARG - ESPN (global2)
-https://streamtpday1.xyz/global2.php?stream=espn
-
-#----------------- BÉISBOL MLB - Astros vs Tigers - 07:40 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",MLB - Astros vs Tigers - 07:40 ARG - ESPN (la18hd)
-https://la18hd.com/vivo/canales.php?stream=espn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",MLB - Astros vs Tigers - 07:40 ARG - ESPN (global1)
-https://streamtpday1.xyz/global1.php?stream=espn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",MLB - Astros vs Tigers - 07:40 ARG - ESPN (global2)
-https://streamtpday1.xyz/global2.php?stream=espn
-
-#----------------- BALONMANO PLAYA - Mundial 2026 - Todo el día -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Balonmano Playa - Mundial 2026 - DSports (la18hd)
+#----------------- GRUPO J - 18:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Panamá vs Inglaterra - 18:00 ARG - DSports (la18hd)
 https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Balonmano Playa - Mundial 2026 - DSports (global1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Panamá vs Inglaterra - 18:00 ARG - DSports (global1)
 https://streamtpday1.xyz/global1.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Balonmano Playa - Mundial 2026 - DSports (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Panamá vs Inglaterra - 18:00 ARG - DSports (global2)
 https://streamtpday1.xyz/global2.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Panamá vs Inglaterra - 18:00 ARG - Telemundo (la18hd)
+https://la18hd.com/vivo/canales.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Panamá vs Inglaterra - 18:00 ARG - Telemundo (global1)
+https://streamtpday1.xyz/global1.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Panamá vs Inglaterra - 18:00 ARG - Telemundo (global2)
+https://streamtpday1.xyz/global2.php?stream=telemundo
 
-#----------------- RALLY - Rally del Poncho 2026 - Todo el día -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Rally del Poncho 2026 - TV Pública (la18hd)
-https://la18hd.com/vivo/canales.php?stream=tvpublica
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Rally del Poncho 2026 - TV Pública (global1)
-https://streamtpday1.xyz/global1.php?stream=tv_publica
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Rally del Poncho 2026 - TV Pública (global2)
-https://streamtpday1.xyz/global2.php?stream=tv_publica
-
-#----------------- BALONCESTO WNBA - Washington vs Connecticut - 20:30 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",WNBA - Washington vs Connecticut - 20:30 ARG - ESPN (la18hd)
-https://la18hd.com/vivo/canales.php?stream=espn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",WNBA - Washington vs Connecticut - 20:30 ARG - ESPN (global1)
-https://streamtpday1.xyz/global1.php?stream=espn
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",WNBA - Washington vs Connecticut - 20:30 ARG - ESPN (global2)
-https://streamtpday1.xyz/global2.php?stream=espn
-
-
-
-#================= 26/06/2026 - COPA DEL MUNDO =================
-
-#----------------- GRUPO G - 16:00 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Noruega vs Francia - 16:00 ARG - DSports (la18hd)
-https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Noruega vs Francia - 16:00 ARG - DSports (global1)
-https://streamtpday1.xyz/global1.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Noruega vs Francia - 16:00 ARG - DSports (global2)
-https://streamtpday1.xyz/global2.php?stream=dsports
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Senegal vs Irak - 16:00 ARG - DSports 2 (la18hd)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Croacia vs Ghana - 18:00 ARG - DSports 2 (la18hd)
 https://la18hd.com/vivo/canales.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Senegal vs Irak - 16:00 ARG - DSports 2 (global1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Croacia vs Ghana - 18:00 ARG - DSports 2 (global1)
 https://streamtpday1.xyz/global1.php?stream=dsports2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Senegal vs Irak - 16:00 ARG - DSports 2 (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Croacia vs Ghana - 18:00 ARG - DSports 2 (global2)
 https://streamtpday1.xyz/global2.php?stream=dsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Croacia vs Ghana - 18:00 ARG - Telemundo (la18hd)
+https://la18hd.com/vivo/canales.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Croacia vs Ghana - 18:00 ARG - Telemundo (global1)
+https://streamtpday1.xyz/global1.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Croacia vs Ghana - 18:00 ARG - Telemundo (global2)
+https://streamtpday1.xyz/global2.php?stream=telemundo
 
-#----------------- GRUPO H - 21:00 ARG -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Cabo Verde vs Arabia Saudita - 21:00 ARG - Fox Sports USA (la18hd)
-https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Cabo Verde vs Arabia Saudita - 21:00 ARG - Fox Sports USA (global1)
-https://streamtpday1.xyz/global1.php?stream=fox_1_usa
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Cabo Verde vs Arabia Saudita - 21:00 ARG - Fox Sports USA (global2)
-https://streamtpday1.xyz/global2.php?stream=fox_1_usa
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Uruguay vs España - 21:00 ARG - TyC Sports (la18hd)
+#----------------- GRUPO K - 20:30 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Colombia vs Portugal - 20:30 ARG - TyC Sports (la18hd)
 https://la18hd.com/vivo/canal.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Uruguay vs España - 21:00 ARG - TyC Sports (global1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Colombia vs Portugal - 20:30 ARG - TyC Sports (global1)
 https://streamtpday1.xyz/global1.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=zjdaep9l&dl=0",Uruguay vs España - 21:00 ARG - TyC Sports (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Colombia vs Portugal - 20:30 ARG - TyC Sports (global2)
 https://streamtpday1.xyz/global2.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Colombia vs Portugal - 20:30 ARG - Telemundo (la18hd)
+https://la18hd.com/vivo/canales.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Colombia vs Portugal - 20:30 ARG - Telemundo (global1)
+https://streamtpday1.xyz/global1.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Colombia vs Portugal - 20:30 ARG - Telemundo (global2)
+https://streamtpday1.xyz/global2.php?stream=telemundo
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",RD Congo vs Uzbekistán - 20:30 ARG - DSports Plus (la18hd)
+https://la18hd.com/vivo/canales.php?stream=dsportsplus
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",RD Congo vs Uzbekistán - 20:30 ARG - DSports Plus (global1)
+https://streamtpday1.xyz/global1.php?stream=dsportsplus
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",RD Congo vs Uzbekistán - 20:30 ARG - DSports Plus (global2)
+https://streamtpday1.xyz/global2.php?stream=dsportsplus
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",RD Congo vs Uzbekistán - 20:30 ARG - Telemundo (la18hd)
+https://la18hd.com/vivo/canales.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",RD Congo vs Uzbekistán - 20:30 ARG - Telemundo (global1)
+https://streamtpday1.xyz/global1.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",RD Congo vs Uzbekistán - 20:30 ARG - Telemundo (global2)
+https://streamtpday1.xyz/global2.php?stream=telemundo
+
+#----------------- GRUPO L - 23:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Jordania vs Argentina - 23:00 ARG - TyC Sports (la18hd)
+https://la18hd.com/vivo/canal.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Jordania vs Argentina - 23:00 ARG - TyC Sports (global1)
+https://streamtpday1.xyz/global1.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Jordania vs Argentina - 23:00 ARG - TyC Sports (global2)
+https://streamtpday1.xyz/global2.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Jordania vs Argentina - 23:00 ARG - Telemundo (la18hd)
+https://la18hd.com/vivo/canales.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Jordania vs Argentina - 23:00 ARG - Telemundo (global1)
+https://streamtpday1.xyz/global1.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Jordania vs Argentina - 23:00 ARG - Telemundo (global2)
+https://streamtpday1.xyz/global2.php?stream=telemundo
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Argelia vs Austria - 23:00 ARG - DSports (la18hd)
+https://la18hd.com/vivo/canales.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Argelia vs Austria - 23:00 ARG - DSports (global1)
+https://streamtpday1.xyz/global1.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Argelia vs Austria - 23:00 ARG - DSports (global2)
+https://streamtpday1.xyz/global2.php?stream=dsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Argelia vs Austria - 23:00 ARG - Telemundo (la18hd)
+https://la18hd.com/vivo/canales.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Argelia vs Austria - 23:00 ARG - Telemundo (global1)
+https://streamtpday1.xyz/global1.php?stream=telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Argelia vs Austria - 23:00 ARG - Telemundo (global2)
+https://streamtpday1.xyz/global2.php?stream=telemundo
 
 
 
