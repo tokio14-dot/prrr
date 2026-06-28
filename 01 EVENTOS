@@ -42,6 +42,28 @@ https://streamtpday1.xyz/global1.php?stream=telemundo
 https://streamtpday1.xyz/global2.php?stream=telemundo
 
 
+#EXTM3U
+
+#================= 28/06/2026 - ZUFFA BOXING 08 =================
+
+#----------------- PRELIMINARES - 19:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Zuffa Boxing 08 - Preliminares - 19:00 ARG - ESPN (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Zuffa Boxing 08 - Preliminares - 19:00 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+
+#----------------- CARTELERA PRINCIPAL - 22:00 ARG -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Zuffa Boxing 08 - Estelar - 22:00 ARG - ESPN (la18hd)
+https://la18hd.com/vivo/canales.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Zuffa Boxing 08 - Estelar - 22:00 ARG - ESPN (global2)
+https://streamtpday1.xyz/global2.php?stream=espn
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Zuffa Boxing 08 - Estelar - 22:00 ARG - Fox Sports (la18hd)
+https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Zuffa Boxing 08 - Estelar - 22:00 ARG - Fox Sports (global2)
+https://streamtpday1.xyz/global2.php?stream=fox_1_usa
+
+
+
 
 
 
