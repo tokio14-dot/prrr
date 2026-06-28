@@ -1,27 +1,50 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",F1 - GP Austria - 10:00 ARG - Fox Sports (la18hd)
+https://la18hd.com/vivo/canal.php?stream=foxsports1_usa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",F1 - GP Austria - 10:00 ARG - Fox Sports (global1)
+https://streamtpday1.xyz/global1.php?stream=fox_1_usa
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",F1 - GP Austria - 10:00 ARG - Fox Sports (global2)
+https://streamtpday1.xyz/global2.php?stream=fox_1_usa
+
+
+
+
+
+
+#EXTM3U
+
 #================= 28/06/2026 - MUNDIAL - SUDÁFRICA vs CANADÁ =================
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - DSports (la18hd)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - DSports (la18hd)
 https://la18hd.com/vivo/canales.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - DSports (global1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - DSports (global1)
 https://streamtpday1.xyz/global1.php?stream=dsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - DSports (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - DSports (global2)
 https://streamtpday1.xyz/global2.php?stream=dsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - TyC Sports (la18hd)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - TyC Sports (la18hd)
 https://la18hd.com/vivo/canal.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - TyC Sports (global1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - TyC Sports (global1)
 https://streamtpday1.xyz/global1.php?stream=tycsports
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - TyC Sports (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - TyC Sports (global2)
 https://streamtpday1.xyz/global2.php?stream=tycsports
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - Telemundo (la18hd)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - Telemundo (la18hd)
 https://la18hd.com/vivo/canales.php?stream=telemundo
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - Telemundo (global1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - Telemundo (global1)
 https://streamtpday1.xyz/global1.php?stream=telemundo
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vx63cc63kz63v0wc125cq/1782350090176.png?rlkey=rrluqbxedmo6nvwnia6qw2hu2&st=a6ogvmas&dl=0",Sudáfrica vs Canadá - 16:00 ARG - Telemundo (global2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/94eeopucgsq13w2dj777o/fifa-world-cup-2026-white.10e0b37b.png?rlkey=ivjbmcqfm74k0mwauquz9l650&st=joq7w3il&dl=0",Sudáfrica vs Canadá - 16:00 ARG - Telemundo (global2)
 https://streamtpday1.xyz/global2.php?stream=telemundo
+
+
+
+
+
 
 
 
