@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 1
+http://srregio.net/26jj/tv.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 2
+http://srregio.net/26jj/tv2.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 3
+http://srregio.net/26jj/tv3.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 4
+http://srregio.net/26jj/tv4.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 5
+http://srregio.net/26jj/tv5.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 6
+http://srregio.net/26jj/tv6.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 7
+http://srregio.net/26jj/tv7.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 8
+http://srregio.net/26jj/tv8.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 9
+http://srregio.net/26jj/tv9.m3u
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ukc189lu6mo4auod5gihg/images.jpeg?rlkey=504qsdmo2kr2svw9na2ummv9d&st=tbw8v20w&dl=0",TV 10
+http://srregio.net/26jj/tv10.m3u
