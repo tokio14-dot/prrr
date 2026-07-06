@@ -23,29 +23,12 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 ANIME
 #EXTINF:-1 tvg-logo="",apanines
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
-#EXTINF:-1 tvg-logo="", Anime2
-https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="",AnimeStation 1 HD 
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" ,AnimeStation 2 HD
-https://live20.bozztv.com/giatv/giatv-livestreamingtv/livestreamingtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="", Kanade
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb
-#EXTINF:-1 tvg-logo="", Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="",",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-#EXTINF:-1 tvg-logo="", Toonami TV
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="", Toonsmania TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnq6I97cPEXmcOs_rC3LRpf-ni0CwjDZUK2VLjA4xVEg&s", Locomotion
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMfjB3S8DxySTgqRsCkCzdU9QKzSZbWPwl0Bpo2T3-g&s", Max Anime
-https://streamlov.alsolnet.com/maxanime/live/chunklist_w353975405.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpY9D2CxCFQn3cIjByC7Ef4bPYek6hUdnlkY6jcSb0g&s=10pcd9lFG", Toonami
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-
 
 
 
