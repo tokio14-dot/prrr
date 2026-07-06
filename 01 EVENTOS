@@ -1,62 +1,52 @@
 #EXTM3U x-tvg-url="http://tu-guia-epg.com"
 
-#----------------- Brasil vs Noruega - 17:00 ARG (Octavos de final) -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#----------------- Portugal vs España - 16:00 ARG (Octavos de final) -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 http://103.229.81.220/bufalo9/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 https://s3.bufaloweb.com/bufalo22/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 https://s6.bufaloweb.com/bufalo51/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 http://103.229.81.220/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 http://103.229.81.196/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 https://bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 http://103.229.81.196/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 http://103.229.81.220/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/dsports/stream.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Brasil vs Noruega
-https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/telemundo/stream.m3u8
-
-#----------------- México vs Inglaterra - 21:00 ARG (Octavos de final) -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-http://103.229.81.220/bufalo9/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-https://s3.bufaloweb.com/bufalo22/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-https://s6.bufaloweb.com/bufalo51/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-http://103.229.81.220/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-http://103.229.81.196/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-https://bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-http://103.229.81.196/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-http://103.229.81.220/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/dsports2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",México vs Inglaterra
-https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/winsports/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",telemundo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tba7ik93b3r75al0o4v6i/image_2edd1554-2.png?rlkey=3qd843t4bi9y1vwiphzc6a4t3&st=70lb2czj&dl=0",Portugal vs España
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
 
-
-
-
-
-
+#----------------- Estados Unidos vs Bélgica - 21:00 ARG (Octavos de final) -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+http://103.229.81.220/bufalo9/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+https://s3.bufaloweb.com/bufalo22/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+https://s6.bufaloweb.com/bufalo51/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+http://103.229.81.220/bufalo51/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+http://103.229.81.196/bufalo51/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+https://bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+http://103.229.81.196/bufalo11/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+http://103.229.81.220/bufalo11/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/dsports2/stream.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Estados Unidos vs Bélgica
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
 
 
 
