@@ -1,56 +1,29 @@
 #EXTM3U x-tvg-url="http://tu-guia-epg.com"
 
-#----------------- Argentina vs Egipto - 13:00 ARG (Octavos de final) -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#----------------- Francia vs Marruecos - 17:00 ARG (Cuartos de final) -----------------
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 http://103.229.81.220/bufalo9/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 https://s3.bufaloweb.com/bufalo22/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 https://s6.bufaloweb.com/bufalo51/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 http://103.229.81.220/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 http://103.229.81.196/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 https://bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 http://103.229.81.196/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 http://103.229.81.220/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/dsports/stream.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Argentina vs Egipto
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8z64kixzfwmpzware058r/image_897b2b1f.png?rlkey=wdoezma65cy6rey7d1ankvcj8&st=ttx5hxmj&dl=0",Francia vs Marruecos
 http://8.243.126.131:8000/play/a05a/index.m3u8
-
-#----------------- Suiza vs Colombia - 17:00 ARG (Octavos de final) -----------------
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-https://bufaloweb.com/bufalo9/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-http://103.229.81.220/bufalo9/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-https://s3.bufaloweb.com/bufalo22/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-https://s6.bufaloweb.com/bufalo51/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-http://103.229.81.220/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-http://103.229.81.196/bufalo51/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-https://bufaloweb.com/bufalo11/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-http://103.229.81.196/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-http://103.229.81.220/bufalo11/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-https://minimize-spokesman-challenged-rebate.trycloudflare.com/envivo/dsports2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/nx5x95tpeu7kq8spxjprg/image_a359b608.png?rlkey=lltr1m88udfgzpz9ez68tif6s&st=qr6hocb4&dl=0",Suiza vs Colombia
-https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
-
-
-
 
 
