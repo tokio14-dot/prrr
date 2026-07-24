@@ -52,7 +52,23 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 
 
 
-
+argentina 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",Fox Sports
+https://la18hd.su/vivo/canales.php?stream=foxsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",Fox Sports 2
+https://la18hd.su/vivo/canales.php?stream=foxsports2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",Fox Sports 3
+https://la18hd.su/vivo/canales.php?stream=foxsports3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",TNT Sports 
+https://la18hd.su/vivo/canales.php?stream=tntsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN PREMIUM 
+https://la18hd.su/vivo/canales.php?stream=espnpremium
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",TyC Sports
+https://la18hd.su/vivo/canales.php?stream=tycsports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",telefe
+https://la18hd.su/vivo/canales.php?stream=telefe
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0", television publica
+https://la18hd.su/vivo/canales.php?stream=tvpublica
 
 Brasil .
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fzsahg1tx2dd0evnvtbp1/image_461444a8.png?rlkey=vqpskfz5c79anzeq3r1aoj9d3&st=6ul1snw9&dl=0",Brasil eventos 1
