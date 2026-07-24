@@ -40,10 +40,29 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports (IP)
 http://8.243.126.131:8000/play/a05a/index.m3u8
-```
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+Brasil .
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fzsahg1tx2dd0evnvtbp1/image_461444a8.png?rlkey=vqpskfz5c79anzeq3r1aoj9d3&st=6ul1snw9&dl=0",Brasil eventos 1
+https://la18hd.su/vivo/canales.php?stream=premiere1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fzsahg1tx2dd0evnvtbp1/image_461444a8.png?rlkey=vqpskfz5c79anzeq3r1aoj9d3&st=6ul1snw9&dl=0",Brasil eventos 2
+https://la18hd.su/vivo/canales.php?stream=premiere2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fzsahg1tx2dd0evnvtbp1/image_461444a8.png?rlkey=vqpskfz5c79anzeq3r1aoj9d3&st=6ul1snw9&dl=0",Brasil eventos 3
+https://la18hd.su/vivo/canales.php?stream=premiere3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/fzsahg1tx2dd0evnvtbp1/image_461444a8.png?rlkey=vqpskfz5c79anzeq3r1aoj9d3&st=6ul1snw9&dl=0",Brasil eventos 4
+https://la18hd.su/vivo/canales.php?stream=premiere4
 
 
 
