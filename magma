@@ -1,6 +1,7 @@
 #EXTM3U
 
-ESTE
+#EXTINF:-1, Rick y morty
+https://m3u.tvcluboficial.com/free/oct/oct/1168.m3u8
 #EXTINF:-1, Animaniacs
 https://m3u.tvcluboficial.com/free/oct/oct/43.m3u8
 #EXTINF:-1, Beyblade
