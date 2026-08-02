@@ -43,6 +43,15 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="",xtream 1
+https://s5.bufaloweb.com/bufalo1_b/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="",xtream 2
+https://bufaloweb.com/bufalo2_b/tracks-v4a1/mono.ts.m3u8
+
+
 la18hd
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",Disney 1
 https://la18hd.su/vivo/canales.php?stream=disney1
