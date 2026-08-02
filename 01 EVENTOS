@@ -38,9 +38,9 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 
 #EXTINF:-1 tvg-logo="",xtream 1
-https://s5.bufaloweb.com/bufalo1_b/tracks-v4a1/mono.ts.m3u8
+https://s3.bufaloweb.com/bufalo1_b/index.m3u8
 #EXTINF:-1 tvg-logo="",xtream 2
-https://bufaloweb.com/bufalo2_b/tracks-v4a1/mono.ts.m3u8
+https://s2.bufaloweb.com/bufalo2_b/index.m3u8
 
 
 la18hd
