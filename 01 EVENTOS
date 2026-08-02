@@ -37,10 +37,19 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 
 
 
-#EXTINF:-1 tvg-logo="",xtream 1
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",xtream 1
 https://s3.bufaloweb.com/bufalo1_b/index.m3u8
-#EXTINF:-1 tvg-logo="",xtream 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",xtream 2
 https://s2.bufaloweb.com/bufalo2_b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DCT 1
+https://s3.bufaloweb.com/bufalo9/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DCT 2
+https://s3.bufaloweb.com/bufalo10/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DCT 3
+https://s3.bufaloweb.com/bufalo11/index.m3u8
+
+
 
 
 la18hd
