@@ -93,6 +93,8 @@ https://la18hd.su/vivo/canales.php?stream=espn
 https://s6.bufaloweb.com/bufalo3_b/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 2
 https://la18hd.su/vivo/canales.php?stream=espn2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 2 (BUFALO)
+https://s6.bufaloweb.com/bufalo4/tracks-v4a1/mono.ts.m3u8?token=12d2bde29221195390f57ad2fe8a258620
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 3
 https://la18hd.su/vivo/canales.php?stream=espn3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 4
