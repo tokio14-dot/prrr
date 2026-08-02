@@ -26,20 +26,11 @@ http://103.229.81.196/bufalo11/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports (bufalo11-3)
 http://103.229.81.220/bufalo11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports 2 (la20hd)
-https://la20hd.com/vivo/canales.php?stream=dsports2
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports Plus
 https://la20hd.com/vivo/canales.php?stream=dsportsplus
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports (la20hd)
-https://la20hd.com/vivo/canales.php?stream=dsports
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",Telemundo
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports (IP)
-http://8.243.126.131:8000/play/a05a/index.m3u8
 
 
 
@@ -94,15 +85,23 @@ https://s6.bufaloweb.com/bufalo3_b/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 2
 https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 2 (BUFALO)
-https://s6.bufaloweb.com/bufalo4/tracks-v4a1/mono.ts.m3u8?token=12d2bde29221195390f57ad2fe8a258620
+https://s6.bufaloweb.com/bufalo4/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 3
 https://la18hd.su/vivo/canales.php?stream=espn3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 3 (BUFALO)
+https://s5.bufaloweb.com/bufalo5/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 4
 https://la18hd.su/vivo/canales.php?stream=espn4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 4 (BUFALO)
+https://s3.bufaloweb.com/bufalo6/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 5
 https://la18hd.su/vivo/canales.php?stream=espn5
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 5 (BUFALO)
+https://s3.bufaloweb.com/bufalo7/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 6
 https://la18hd.su/vivo/canales.php?stream=espn6
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 6 (BUFALO)
+https://s3.bufaloweb.com/bufalo8/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",ESPN 7
 https://la18hd.su/vivo/canales.php?stream=espn7
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",DSports 
