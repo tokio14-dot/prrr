@@ -1,5 +1,370 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="", Bein Sport Latan
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/488239.ts
+
+#EXTINF:-1 tvg-logo="", ECDF
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/73507.ts
+
+#EXTINF:-1 tvg-logo="", ECDF HD
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/282942.ts
+
+#EXTINF:-1 tvg-logo="", NBA TV (US)
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/2238.ts
+
+#EXTINF:-1 tvg-logo="", Sky sports Futbol
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/479046.ts
+
+#EXTINF:-1 tvg-logo="", Sky sports F1
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/479046.ts
+
+#EXTINF:-1 tvg-logo="", Animal Planet
+http://181.78.8.199:8000/play/a0by/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Discovery Channel
+http://181.78.8.199:8000/play/a0c4/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Discovery Kids
+http://181.78.8.199:8000/play/a070/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Disney Jr
+http://181.78.8.199:8000/play/a084/index.m3u8
+
+#EXTINF:-1 tvg-logo="", EWTN
+http://181.78.8.199:8000/play/a0ee/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Food Network
+http://181.78.8.199:8000/play/a0hu/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Golden
+http://181.78.8.199:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ID
+http://181.78.8.199:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="", LA KALLE
+http://181.78.8.199:8000/play/a0dp/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Las Estrellas
+http://181.78.8.199:8000/play/a0as/index.m3u8
+
+#EXTINF:-1 tvg-logo="", MTV
+http://181.78.8.199:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Nick Jr.
+http://181.78.8.199:8000/play/a0i5/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Sony Entertainment Television
+http://181.78.8.199:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Teleantioquia
+http://38.211.118.56:50002/play/a0514/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELECAFE
+http://38.211.118.56:50002/play/a0515/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TLC
+http://181.78.8.199:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Tlnovelas
+http://181.78.8.199:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TV Agro
+http://181.78.8.199:8000/play/a0fj/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Universal TV
+http://181.78.8.199:8000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CINE UNIVERSAL
+http://38.211.118.56:50002/play/a072/index.m3u8
+
+#EXTINF:-1 tvg-logo="", 24/7 El Chavo
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", 24/7 Rapidos y furiosos
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/502124.ts
+
+#EXTINF:-1 tvg-logo="", TELEVISION TRAPOTO
+http://191.97.49.82:8001/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="", West
+http://191.97.49.82:8001/play/a00r/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="", RCN ENVIO SEÑAL
+http://181.78.8.199:8000/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-logo="", RCN LOCAL
+http://181.78.8.199:8000/play/a09l/index.m3u8
+
+#EXTINF:-1 tvg-logo="", RCN NOVELAS
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-logo="", RPC
+http://181.78.8.199:8000/play/a0ih/index.m3u8
+
+#EXTINF:-1 tvg-logo="", RUMBA TV
+http://181.78.8.199:8000/play/a0ec/index.m3u8
+
+#EXTINF:-1 tvg-logo="", RUMBA TV HD
+http://181.78.8.199:8000/play/a0fy/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SCI
+http://181.78.8.199:8000/play/a0hv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SEÑAL COLOMBIA  NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d1/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SONY CHANNEL
+http://181.78.8.199:8000/play/a0e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SONY CHANNEL
+http://181.78.8.199:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SONY MUVIES
+http://181.78.8.199:8000/play/a0e7/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SONY MUVIES
+http://181.78.8.199:8000/play/a0ap/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SPACE SRT EN
+http://181.78.8.199:8000/play/a096/index.m3u8
+
+#EXTINF:-1 tvg-logo="", STARCHANNEL
+http://181.78.8.199:8000/play/a0i9/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SYFY
+http://181.78.8.199:8000/play/a0cl/index.m3u8
+
+#EXTINF:-1 tvg-logo="", SYFY (USA)
+http://181.78.8.199:8000/play/a09x/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Studiouniversal
+http://181.78.8.199:8000/play/a0cf/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TCM
+http://181.78.8.199:8000/play/a0du/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEAMIGA
+http://181.78.8.199:8000/play/a0dv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEAMIGA ENVIADO
+http://181.78.8.199:8000/play/a08b/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEANTIOQUIA NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d5/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELECAFE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d8/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELECARIBE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d6/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEHIT MUSICA
+http://181.78.8.199:8000/play/a0g7/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEISLAS
+http://181.78.8.199:8000/play/a0dx/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEMETRO
+http://181.78.8.199:8000/play/a0ii/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELENOVELAS
+http://181.78.8.199:8000/play/a0ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEPACIFICO NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d7/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELESUR
+http://181.78.8.199:8000/play/a0fm/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEVEN
+http://181.78.8.199:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEVISA 1
+http://181.78.8.199:8000/play/a0ak/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEVISA CON ENTRETEIMENT
+http://181.78.8.199:8000/play/a0av/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEVISA DE 3 CANALES
+http://181.78.8.199:8000/play/a0at/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TLC
+http://181.78.8.199:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TLC
+http://181.78.8.199:8000/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TLT
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TNT NOVELAS
+http://181.78.8.199:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TNT Novelas HD
+http://181.78.8.199:8000/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TNT SERIES SRT EN
+http://181.78.8.199:8000/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TNT SRT EN
+http://181.78.8.199:8000/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TOONCAST ENVIADO
+http://181.78.8.199:8000/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TRO NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d9/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TURBO
+http://181.78.8.199:8000/play/a0a5/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TURBO
+http://181.78.8.199:8000/play/a0ci/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TV AGRO HD
+http://181.78.8.199:8000/play/a0fj/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TV FAMB
+http://181.78.8.199:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TV MAX
+http://181.78.8.199:8000/play/a0ij/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TVAGRO
+http://181.78.8.199:8000/play/a0e5/index.m3u8
+
+#EXTINF:-1 tvg-logo="", TVES
+http://181.78.8.199:8000/play/a0ft/index.m3u8
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL
+http://181.78.8.199:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL  STUDIO
+http://181.78.8.199:8000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-logo="", UNIVISION
+http://181.78.8.199:8000/play/a0er/index.m3u8
+
+#EXTINF:-1 tvg-logo="", UNIVISION
+http://181.78.8.199:8000/play/a0e2/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Universal
+http://181.78.8.199:8000/play/a0ce/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Venevision
+http://181.78.8.199:8000/play/a0cp/index.m3u8
+
+#EXTINF:-1 tvg-logo="", WARNER
+http://181.78.8.199:8000/play/a0ia/index.m3u8
+
+#EXTINF:-1 tvg-logo="", WIN NORMAL
+http://181.78.8.199:8000/play/a0ic/index.m3u8
+
+#EXTINF:-1 tvg-logo="", WIN SPORT MAS  LOCAL
+http://181.78.8.199:8000/play/a0hz/index.m3u8
+
+#EXTINF:-1 tvg-logo="", WINSPORT
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ZONA TV PLUS
+http://181.78.8.199:8000/play/a0ie/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ZOOM
+http://181.78.8.199:8000/play/a0dw/index.m3u8
+
+#EXTINF:-1 tvg-logo="", cinecanal
+http://181.78.8.199:8000/play/a0bz/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ewtn enviado
+http://181.78.8.199:8000/play/a0ib/index.m3u8
+
+#EXTINF:-1 tvg-logo="", history
+http://181.78.8.199:8000/play/a0cv/index.m3u8
+
+#EXTINF:-1 tvg-logo="", lifetime
+http://181.78.8.199:8000/play/a0cr/index.m3u8
+
+#EXTINF:-1 tvg-logo="", paramount
+http://181.78.8.199:8000/play/a0c8/index.m3u8
+
+#EXTINF:-1 tvg-logo="", starchannel
+http://181.78.8.199:8000/play/a0c9/index.m3u8
+
+#EXTINF:-1 tvg-logo="", telemundo
+http://181.78.8.199:8000/play/a0cg/index.m3u8
+
+#EXTINF:-1 tvg-logo="", telenovelas
+http://181.78.8.199:8000/play/a0cw/index.m3u8
+
+#EXTINF:-1 tvg-logo="", televen
+http://181.78.8.199:8000/play/a0cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="", warner
+http://181.78.8.199:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ABN SRT
+http://181.78.8.199:8000/play/a0hh/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Caracol HD
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Caracol HD
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL8
+
+#EXTINF:-1 tvg-logo="", RCN HD
+http://181.78.8.199:8000/play/a09l/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Azteca 7
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Win Sports HD
+http://181.78.8.199:8000/play/a0cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Directv Sports 2
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/125648.ts
+
+#EXTINF:-1 tvg-logo="", Directv Sports 2
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/334650.ts
+
+#EXTINF:-1 tvg-logo="", Espn 1 (Col)
+http://181.78.14.26:4000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Espn 1 (Arg)
+http://181.78.14.26:4000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 2 (Col)
+http://181.78.14.26:4000/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 2 (Arg)
+http://181.78.14.26:4000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 3 (Arg)
+http://181.78.14.26:4000/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 5 (Col)
+http://181.78.14.26:4000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 5 (Arg)
+http://181.78.14.26:4000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 6 (Arg)
+http://181.78.14.26:4000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-logo="", ESPN 7
+http://181.78.14.26:4000/play/a042/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="", CINE MEXICANO ENVIADO
 http://181.78.8.199:8000/play/a07z/index.m3u8
 
