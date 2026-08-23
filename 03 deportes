@@ -1,13 +1,52 @@
+
+
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 1)
-https://s2.bufaloweb.com/bufalo9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 2)
-https://s2.bufaloweb.com/bufalo10/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 3)
-https://s2.bufaloweb.com/bufalo11/index.m3u8
+#EXTINF:-1,liga 1 max hd
+http://191.97.49.82:8001/play/a010/index.m3u8
+#EXTINF:-1,espn1
+http://191.97.49.82:8001/play/a00k/index.m3u8
+#EXTINF:-1,espn2
+http://191.97.49.82:8001/play/a00j/index.m3u8
+#EXTINF:-1,espn3
+http://190.117.20.37:8000/play/a07t/index.m3u8
+#EXTINF:-1,espn5
+http://191.97.49.82:8001/play/a002/index.m3u8
+#EXTINF:-1,espn6
+http://191.97.49.82:8001/play/a005/index.m3u8
+#EXTINF:-1,espn7
+http://191.97.49.82:8001/play/a006/index.m3u8
+#EXTINF:-1,auratv
+http://190.117.20.37:8000/play/a0d7/index.m3u8
+#EXTINF:-1, unitel tv
+http://190.117.20.37:8000/play/a08p/index.m3u8
+#EXTINF:-1,unitel
+http://190.117.20.37:8000/play/a0g3/index.m3u8
+#EXTINF:-1,winplus
+http://181.205.130.194:4000/play/a0f1
+#EXTINF:-1,FOX Premier Ligue
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+#EXTINF:-1,La LIGA
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+#EXTINF:-1,TUDN
+http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+#EXTINF:-1, NITRO
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+#EXTINF:-1, DSPORTS
+http://157.100.9.51:8000/play/a26d
+#EXTINF:-1, WIN
+http://157.100.9.51:8000/play/a1us
+#EXTINF:-1 tvg-logo="", Bein Sport Latan
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/488239.ts
+#EXTINF:-1 tvg-logo="", ECDF
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/73507.ts
+#EXTINF:-1 tvg-logo="", ECDF HD
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/282942.ts
+#EXTINF:-1 tvg-logo="", NBA TV (US)
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/2238.ts
+#EXTINF:-1 tvg-logo="", Sky sports Futbol
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/479046.ts
+#EXTINF:-1 tvg-logo="", Sky sports F1
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/479046.ts
 
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 4)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
