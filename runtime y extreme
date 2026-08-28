@@ -28,7 +28,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1 tvg-logo="", Toonsmania TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnq6I97cPEXmcOs_rC3LRpf-ni0CwjDZUK2VLjA4xVEg&s", Locomotion
+#EXTINF:-1 tvg-logo="", Locomotion
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
 
