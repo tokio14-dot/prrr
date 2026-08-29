@@ -1,10 +1,14 @@
 #EXTM3U
-
-
-
-
+CANALES TDA
+#EXTINF:-1 tvg-logo="",Solidaria TV
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-logo="",Bayrestv
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="",cinepicanteltus
 https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="",WISPTV Retro
