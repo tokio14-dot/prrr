@@ -5,8 +5,7 @@ https://bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports 2
 http://103.229.81.220/bufalo9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports (bufalo22)
-https://s3.bufaloweb.com/bufalo22/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports (bufalo51)
 https://s6.bufaloweb.com/bufalo51/tracks-v4a1/mono.ts.m3u8
