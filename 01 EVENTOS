@@ -26,7 +26,8 @@ https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",Telemundo (la18hd)
 https://la18hd.su/vivo/canales.php?stream=telemundo
 
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",premiere
+https://la18hd.su/vivo/canales.php?stream=premiere1
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",xtream 1
