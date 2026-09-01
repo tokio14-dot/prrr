@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-2#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",MLS
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",MLS
 https://la18hd.su/vivo/canales.php?stream=mls1es
 
-2#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",AMAZON PRIME
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/niea0lpa3ymcm3qbmfwl7/image_33514d44.png?rlkey=y80ld6xrn6h79xjcc9ob2jx0d&st=g7celwkj&dl=0",AMAZON PRIME
 https://la18hd.su/vivo/canales.php?stream=amazon_prime1
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p0h1395m0w4ubvt699r3g/image_f91b373a.png?rlkey=ptkqp5qlbblyv0s5foflzbwbp&st=gdhicgfr&dl=0",DSports
