@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="",05/02/2027
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/xeba66h7zbzw96fhfzmil/image_15e3face.jpg?rlkey=d7q9v2jtp2jroha1fujpk7fct&st=h4c8vd0d&dl=0",05/02/2027
 http://madoart.xyz:80/get.php?username=DCD955437D8801D&password=uwIek6LB0Q&type=m3u_plus
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/q78568gq3lyscimkdd9bl/image_fab7a936.jpg?rlkey=a6kbg9i72ha6mbzqhw9il24sa&st=b1fkdaba&dl=0",23/03/27
