@@ -8,6 +8,6 @@
 http://goldenpass.xyz/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=m3u_plus&output=ts
 #EXTINF:-1 tvg-logo="",13/4/2027
 http://vfmbx.com:80/get.php?username=018F06A026C272F&password=MsiAp6MuaA&type=m3u_plus&output=ts
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",05/02/2027
+http://madoart.xyz:80/get.php?username=DCD955437D8801D&password=uwIek6LB0Q&type=m3u_plus
 #EXTINF:-1 tvg-logo="",
