@@ -9,7 +9,7 @@ http://madoart.xyz:80/get.php?username=DCD955437D8801D&password=uwIek6LB0Q&type=
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/q78568gq3lyscimkdd9bl/image_fab7a936.jpg?rlkey=a6kbg9i72ha6mbzqhw9il24sa&st=b1fkdaba&dl=0",23/03/27
 http://goldenpass.xyz/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=m3u_plus&output=ts
 
-#EXTINF:-1 tvg-logo="",13/4/2027
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vj77kga0omjcwn0ofzzik/image_3483fe39.jpg?rlkey=cxzkirnb9shaw8yqoktifnbr2&st=qjbfmpvj&dl=0",13/4/2027
 http://vfmbx.com:80/get.php?username=018F06A026C272F&password=MsiAp6MuaA&type=m3u_plus&output=ts
 
 #EXTINF:-1 tvg-logo="",13/04/2027
