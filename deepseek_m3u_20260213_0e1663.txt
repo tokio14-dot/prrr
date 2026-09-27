@@ -1,5 +1,62 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",07-12-2026
+http://madoart.xyz:80/get.php?username=8G55UG51TCGDYNQ&password=oCkwCymud9&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",02-10-2026
+http://madoart.xyz:80/get.php?username=361G4XS&password=3G16CK1&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",27-04-2027
+http://madoart.xyz:80/get.php?username=4Z6ATKKDJ6542X8&password=xJPr6k80W6&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",05-02-2027
+http://madoart.xyz:80/get.php?username=DCD955437D8801D&password=uwIek6LB0Q&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",08-10-2026
+http://madoart.xyz:80/get.php?username=A33564DD8708&password=V3FABCZ274BFK6R&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",29-12-2026
+http://madoart.xyz:80/get.php?username=A9VGJN6&password=5E8FU7C&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",22-11-2026
+http://madoart.xyz:80/get.php?username=SN0PZ6L&password=P12XA48&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",08-11-2026
+http://madoart.xyz:80/get.php?username=61D99YG&password=ETGL9J5&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",20-12-2026
+http://madoart.xyz:80/get.php?username=5AP8QGH&password=JYHC5W1&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",02-10-2026
+http://madoart.xyz:80/get.php?username=Thierno1&password=FKDY794&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",06-08-2027
+http://madoart.xyz:80/get.php?username=SylvaEkang1&password=9EPP4VZ&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",10-08-2027
+http://madoart.xyz:80/get.php?username=F00C5041A4343&password=9C9DD1BA09B1&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",20-02-2027
+http://madoart.xyz:80/get.php?username=LC9N61E&password=M2XTR2C&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",12-12-2026
+http://madoart.xyz:80/get.php?username=2VRA7BR&password=98815YU&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",14-10-2026
+http://madoart.xyz:80/get.php?username=401614542650456&password=3G0A6S0V1KUN&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",22-09-2026
+http://madoart.xyz:80/get.php?username=Binke200&password=3Y9S6HC&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",17-03-2027
+http://madoart.xyz:80/get.php?username=U2KA72L&password=MOQ91MIHva&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",23-09-2026
+http://madoart.xyz:80/get.php?username=HTD2LQ6N91HD7Q4&password=ofKIsCC9xo&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",23-03-2027
+http://madoart.xyz:80/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=m3u_plus#EXTM3U
+
 
 
 #EXTINF:-1 tvg-logo="",08/10/2026
@@ -23,16 +80,62 @@ http://superxlatino.com:8880/get.php?username=wteScCMD8PG8&password=hJmVeKNc4ugT
 #EXTINF:-1 tvg-logo="",8/9/2027
 http://dejatedemamadas.neospaxy.top:8080/get.php?username=6891757363758612&password=ce1d2d174e23&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",07-12-2026
+http://madoart.xyz:80/get.php?username=8G55UG51TCGDYNQ&password=oCkwCymud9&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",02-10-2026
+http://madoart.xyz:80/get.php?username=361G4XS&password=3G16CK1&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",27-04-2027
+http://madoart.xyz:80/get.php?username=4Z6ATKKDJ6542X8&password=xJPr6k80W6&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",05-02-2027
+http://madoart.xyz:80/get.php?username=DCD955437D8801D&password=uwIek6LB0Q&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",08-10-2026
+http://madoart.xyz:80/get.php?username=A33564DD8708&password=V3FABCZ274BFK6R&type=m3u_plus
 
+#EXTINF:-1 tvg-logo="",29-12-2026
+http://madoart.xyz:80/get.php?username=A9VGJN6&password=5E8FU7C&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",22-11-2026
+http://madoart.xyz:80/get.php?username=SN0PZ6L&password=P12XA48&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",08-11-2026
+http://madoart.xyz:80/get.php?username=61D99YG&password=ETGL9J5&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",20-12-2026
+http://madoart.xyz:80/get.php?username=5AP8QGH&password=JYHC5W1&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",02-10-2026
+http://madoart.xyz:80/get.php?username=Thierno1&password=FKDY794&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",06-08-2027
+http://madoart.xyz:80/get.php?username=SylvaEkang1&password=9EPP4VZ&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",10-08-2027
+http://madoart.xyz:80/get.php?username=F00C5041A4343&password=9C9DD1BA09B1&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",20-02-2027
+http://madoart.xyz:80/get.php?username=LC9N61E&password=M2XTR2C&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",12-12-2026
+http://madoart.xyz:80/get.php?username=2VRA7BR&password=98815YU&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",14-10-2026
+http://madoart.xyz:80/get.php?username=401614542650456&password=3G0A6S0V1KUN&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",22-09-2026
+http://madoart.xyz:80/get.php?username=Binke200&password=3Y9S6HC&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",17-03-2027
+http://madoart.xyz:80/get.php?username=U2KA72L&password=MOQ91MIHva&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",23-09-2026
+http://madoart.xyz:80/get.php?username=HTD2LQ6N91HD7Q4&password=ofKIsCC9xo&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",23-03-2027
+http://madoart.xyz:80/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=m3u_plus
 
 
 
