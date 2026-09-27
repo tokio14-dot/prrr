@@ -104,8 +104,6 @@ http://madoart.xyz:80/get.php?username=HTD2LQ6N91HD7Q4&password=ofKIsCC9xo&type=
 #EXTINF:-1 tvg-logo="",23-03-2027
 http://madoart.xyz:80/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=m3u_plus#EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="",08/10/2026
 http://mundocorp.pro:8080/get.php?username=elias123&password=elias123&type=m3u_plus
 
@@ -126,6 +124,43 @@ http://superxlatino.com:8880/get.php?username=wteScCMD8PG8&password=hJmVeKNc4ugT
 
 #EXTINF:-1 tvg-logo="",8/9/2027
 http://dejatedemamadas.neospaxy.top:8080/get.php?username=6891757363758612&password=ce1d2d174e23&type=m3u_plus
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",06-09-2029
+http://vfmbx.com:80/get.php?username=16D5A74565BBB&password=2C05C10C858C75C&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",16-03-2029
+http://vfmbx.com:80/get.php?username=MAGWFGKYB5&password=ZoVtxYL877&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",25-09-2028
+http://vfmbx.com:80/get.php?username=7Q99KR87G2385CF&password=SgFwOu3CoX&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",20-08-2028
+http://vfmbx.com:80/get.php?username=4Y5ACQE9F3AG69L&password=3qloI4wraG&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",21-04-2028
+http://vfmbx.com:80/get.php?username=T2N7BV37M39RN38&password=6ciqfNr7F8&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",03-03-2028
+http://vfmbx.com:80/get.php?username=MAGUV1JG6A&password=3KkQ9lSwzF&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",08-03-2028
+http://vfmbx.com:80/get.php?username=UDS6385&password=YZ23RRB&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",28-02-2028
+http://vfmbx.com:80/get.php?username=1N83T4NK7J4V63Z&password=PxAiGk2aPN&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",22-02-2028
+http://vfmbx.com:80/get.php?username=1JYSJW6&password=657T1JE&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-logo="",10-04-2028
+http://vfmbx.com:80/get.php?username=3X7JBPK&password=X9U4LF6&type=m3u_plus&output=ts
+
+
+
+
+
 
 
 
