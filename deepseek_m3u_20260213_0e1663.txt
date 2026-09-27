@@ -6,8 +6,8 @@
 
 #EXTINF:-1 tvg-logo="",23/03/27
 http://goldenpass.xyz/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=m3u_plus&output=ts
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",13/4/2027
+http://vfmbx.com:80/get.php?username=018F06A026C272F&password=MsiAp6MuaA&type=m3u_plus&output=ts
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
