@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",08/10/2026
+http://mundocorp.pro:8080/get.php?username=elias123&password=elias123&type=m3u_plus
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/4yqqyc2zpa36ycotctv4v/image_6771ddf5.jpg?rlkey=ewoy74iqpwnoh2oheh6nnx67m&st=g58akku2&dl=0",24/10/2026
 http://jidacr.com:8080/get.php?username=JuancaCha2022&password=VWXZcspzU4&type=m3u_plus&output=ts
 
@@ -12,11 +17,8 @@ http://goldenpass.xyz/get.php?username=4DG456B39AFZPWD&password=IkAl2ilpeK&type=
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/vj77kga0omjcwn0ofzzik/image_3483fe39.jpg?rlkey=cxzkirnb9shaw8yqoktifnbr2&st=qjbfmpvj&dl=0",13/4/2027
 http://vfmbx.com:80/get.php?username=018F06A026C272F&password=MsiAp6MuaA&type=m3u_plus&output=ts
 
-#EXTINF:-1 tvg-logo="",13/04/2027
-http://bluebox.click/get.php?username=d18786c2b11082af3d72eea8112cd1bf&password=19ef113d5671a146ddbb&type=m3u_plus
-
-
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",2/1/2027
+http://superxlatino.com:8880/get.php?username=wteScCMD8PG8&password=hJmVeKNc4ugT&type=m3u_plus
 
 #EXTINF:-1 tvg-logo="",
 
