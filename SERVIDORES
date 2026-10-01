@@ -1,9 +1,8 @@
 #EXTM3U
 
 
-
-
-#EXTM3U
+#EXTINF:-1 tvg-logo="",ilim
+http://190.102.242.130:25461/get.php?username=171465451&password=1234&type=m3u_plus&output=ts
 
 #EXTINF:-1 tvg-logo="",10-08-2027
 http://madoart.xyz:80/get.php?username=F00C5041A4343&password=9C9DD1BA09B1&type=m3u_plus
