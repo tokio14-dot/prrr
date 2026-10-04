@@ -1,6 +1,7 @@
 #EXTM3U
 
-.#EXTM3U
+#EXTINF:-1 tvg-logo="",01/02/27
+http://xcmas.ddns.net:8000/get.php?username=Salvador&password=Salvador&type=m3u_plus
 
 #EXTINF:-1 tvg-logo="",12/04/27
 http://67.220.71.35:8880/get.php?username=Pamela&password=bpSV6hAeTZW3&type=m3u_plus&output=ts
