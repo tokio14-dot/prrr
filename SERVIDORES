@@ -3,12 +3,14 @@
 #EXTINF:-1 tvg-logo="",01/02/27
 http://xcmas.ddns.net:8000/get.php?username=Salvador&password=Salvador&type=m3u_plus
 
+#EXTINF:-1 tvg-logo="",12/02/27
+http://myultratv.com:8080/get.php?username=50212738&password=Ld6DxqsQLkMX&type=m3u_plus&output=ts
+
 #EXTINF:-1 tvg-logo="",12/04/27
 http://67.220.71.35:8880/get.php?username=Pamela&password=bpSV6hAeTZW3&type=m3u_plus&output=ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/senvvxk2291zh6m5qgfhd/image_f9cba824.jpg?rlkey=8z00tk6eljsa91clr03a79ojk&st=541wqkla&dl=0",ilim
 http://190.102.242.130:25461/get.php?username=171465451&password=1234&type=m3u_plus&output=ts
-
 
 #EXTINF:-1 tvg-logo="",02/08/27
 http://67.220.71.35:8880/get.php?username=PremiumTV5&password=6WtFGeJQrjAF&type=m3u_plus
