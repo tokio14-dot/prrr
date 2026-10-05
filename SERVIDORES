@@ -42,13 +42,13 @@ http://madoart.xyz:80/get.php?username=2VRA7BR&password=98815YU&type=m3u_plus
 #EXTINF:-1 tvg-logo="",20-12-2026
 http://madoart.xyz:80/get.php?username=5AP8QGH&password=JYHC5W1&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",20/12/26
+#EXTINF:-1 tvg-logo="",20/12/2026
 http://67.220.71.35:8880/get.php?username=Lisandro_iptv&password=edZ9WUCBgPM8&type=m3u_plus&output=ts
 
 #EXTINF:-1 tvg-logo="",29-12-2026
 http://madoart.xyz:80/get.php?username=A9VGJN6&password=5E8FU7C&type=m3u_plus
 
-#EXTINF:-1 tvg-logo="",2/1/2027
+#EXTINF:-1 tvg-logo="",2/01/2027
 http://superxlatino.com:8880/get.php?username=wteScCMD8PG8&password=hJmVeKNc4ugT&type=m3u_plus
 
 #EXTINF:-1 tvg-logo="",01/02/27
@@ -56,6 +56,9 @@ http://xcmas.ddns.net:8000/get.php?username=Salvador&password=Salvador&type=m3u_
 
 #EXTINF:-1 tvg-logo="",05-02-2027
 http://madoart.xyz:80/get.php?username=DCD955437D8801D&password=uwIek6LB0Q&type=m3u_plus
+
+#EXTINF:-1 tvg-logo="",08/02/2027
+http://liontv.es:8080/get.php?username=Isabellagos&password=tSjdeprawg&type=m3u_plus&output=m3u8
 
 #EXTINF:-1 tvg-logo="",12/02/27
 http://myultratv.com:8080/get.php?username=50212738&password=Ld6DxqsQLkMX&type=m3u_plus&output=ts
