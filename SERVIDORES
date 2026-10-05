@@ -9,6 +9,9 @@ http://madoart.xyz:80/get.php?username=HTD2LQ6N91HD7Q4&password=ofKIsCC9xo&type=
 #EXTINF:-1 tvg-logo="",02-10-2026
 http://madoart.xyz:80/get.php?username=361G4XS&password=3G16CK1&type=m3u_plus
 
+#EXTINF:-1 tvg-logo="",12/10/2026
+http://api.nerdtv.xyz:80/get.php?username=6644405635&password=admin123&type=m3u_plus
+
 #EXTINF:-1 tvg-logo="",02-10-2026
 http://madoart.xyz:80/get.php?username=Thierno1&password=FKDY794&type=m3u_plus
 
